@@ -4,7 +4,9 @@
   "scripts": {
     "build-index": "node scripts/build-song-index.mjs",
     "build": "npm run build-index",
-    "deploy:pages": "npm run build-index && wrangler pages deploy . --project-name=acordeshub"
+    "pack:pages": "node scripts/prepare-pages-dist.mjs",
+    "build:pages": "npm run build && npm run pack:pages",
+    "deploy:pages": "npm run build:pages && wrangler pages deploy dist --project-name=acordeshub"
   },
   "devDependencies": {
     "wrangler": "^4.81.0"
