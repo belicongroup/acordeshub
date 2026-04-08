@@ -23,10 +23,15 @@ Select a song from the search dashboard.
       </section>
     </main>
 
-    <div class="transpose-controls" aria-label="Transpose controls">
-      <button id="transposeUpBtn" type="button" title="Transpose up">▲</button>
-      <button id="transposeDownBtn" type="button" title="Transpose down">▼</button>
-      <button id="notationToggleBtn" type="button" title="Toggle notation">C / Do</button>
+    <div id="transposeControls" class="transpose-controls" aria-label="Transpose controls">
+      <button id="controlsToggleBtn" class="controls-toggle-btn" type="button" title="Hide/show controls" aria-expanded="true">
+        ❯
+      </button>
+      <div id="transposeActions" class="transpose-actions">
+        <button id="transposeUpBtn" type="button" title="Transpose up"><span class="icon-label">▲</span><span class="micro-step-label">+1</span></button>
+        <button id="transposeDownBtn" type="button" title="Transpose down"><span class="icon-label">▼</span><span class="micro-step-label">-1</span></button>
+        <button id="notationToggleBtn" type="button" title="Toggle notation"><span class="notation-mini">C/Do</span></button>
+      </div>
     </div>
 
     <script type="module" src="./app.js"></script>

@@ -4,6 +4,9 @@ const SONG_INDEX_URL = "../songs-index.json";
 
 const lyricsContent = document.getElementById("lyricsContent");
 const songTitle = document.getElementById("songTitle");
+const transposeControls = document.getElementById("transposeControls");
+const transposeActions = document.getElementById("transposeActions");
+const controlsToggleBtn = document.getElementById("controlsToggleBtn");
 const transposeUpBtn = document.getElementById("transposeUpBtn");
 const transposeDownBtn = document.getElementById("transposeDownBtn");
 const notationToggleBtn = document.getElementById("notationToggleBtn");
@@ -14,6 +17,7 @@ let notationMode = "english";
 let songsCatalog = [];
 let songsById = new Map();
 const TOKEN_CANDIDATE_REGEX = /(^|[\s(])([^\s),.:;!?]+)(?=$|[\s),.:;!?])/g;
+const CHORD_SUFFIX_REGEX = /^(?:maj|min|dim|aug|sus|add|m|M|[0-9]|[#b]|[-+()]|\/)*$/i;
 const SOLFEGE_TO_ENGLISH_BASE = {
   Do: "C",
   Re: "D",
@@ -59,9 +63,14 @@ function parseEnglishChordParts(chordText) {
     return null;
   }
 
+  const suffix = match[3] || "";
+  if (!CHORD_SUFFIX_REGEX.test(suffix)) {
+    return null;
+  }
+
   return {
     root: `${match[1]}${match[2] || ""}`,
-    suffix: match[3] || "",
+    suffix,
     bass: match[4] ? `${match[4]}${match[5] || ""}` : "",
   };
 }
@@ -69,6 +78,11 @@ function parseEnglishChordParts(chordText) {
 function parseSolfegeChordParts(chordText) {
   const match = chordText.match(/^(Do|Re|Mi|Fa|Sol|La|Si)(#|b)?([^/\s]*)(?:\/(Do|Re|Mi|Fa|Sol|La|Si)(#|b)?)?$/i);
   if (!match) {
+    return null;
+  }
+
+  const suffix = match[3] || "";
+  if (!CHORD_SUFFIX_REGEX.test(suffix)) {
     return null;
   }
 
@@ -80,7 +94,7 @@ function parseSolfegeChordParts(chordText) {
 
   return {
     root: `${root}${match[2] || ""}`,
-    suffix: match[3] || "",
+    suffix,
     bass: bassRoot ? `${bassRoot}${match[5] || ""}` : "",
   };
 }
@@ -236,6 +250,31 @@ function transformChordSymbols(songText, isChordCandidate, isStrongChordCandidat
   return transformedLines.join("\n");
 }
 
+function escapeHtml(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+function renderStyledSong(songText) {
+  const lines = songText.split("\n");
+  const renderedLines = lines.map((line) => {
+    const lineLooksChordHeavy = looksChordHeavyLine(line, isTransposableChordCandidate);
+    return line.replace(TOKEN_CANDIDATE_REGEX, (full, prefix, candidate) => {
+      if (!isTransposableChordCandidate(candidate)) {
+        return escapeHtml(full);
+      }
+      if (!lineLooksChordHeavy && !isStrongTransposableChordCandidate(candidate)) {
+        return escapeHtml(full);
+      }
+      return `${escapeHtml(prefix)}<span class="chord-token">${escapeHtml(candidate)}</span>`;
+    });
+  });
+
+  return renderedLines.join("\n");
+}
+
 function applyTranspose(songText, steps = 0) {
   return transformChordSymbols(
     songText,
@@ -287,7 +326,7 @@ function renderCurrentSong() {
   const displayText = notationMode === "solfege" ? applyNotation(nextText, "solfege") : nextText;
 
   window.setTimeout(() => {
-    lyricsContent.textContent = displayText;
+    lyricsContent.innerHTML = renderStyledSong(displayText);
     lyricsContent.classList.remove("is-transposing");
   }, 80);
 
@@ -358,6 +397,13 @@ notationToggleBtn.addEventListener("click", () => {
     return;
   }
   renderCurrentSong();
+});
+
+controlsToggleBtn.addEventListener("click", () => {
+  const collapsed = transposeControls.classList.toggle("is-collapsed");
+  transposeActions.setAttribute("aria-hidden", String(collapsed));
+  controlsToggleBtn.setAttribute("aria-expanded", String(!collapsed));
+  controlsToggleBtn.textContent = collapsed ? "❮" : "❯";
 });
 
 // Expose requested API functions for external use/testing.

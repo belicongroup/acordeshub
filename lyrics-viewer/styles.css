@@ -27,6 +27,7 @@ body {
 .viewer {
   padding: 1rem;
   min-height: calc(100vh - 20px);
+  overflow: hidden;
 }
 
 .viewer-header {
@@ -44,9 +45,12 @@ body {
 .viewer-header h2 {
   margin: 0;
   color: var(--accent);
-  font-size: 1.2rem;
+  font-size: 0.72rem;
   text-align: center;
   grid-column: 2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .dashboard-link {
@@ -85,7 +89,7 @@ body {
     "Courier New", monospace;
   max-height: none;
   min-height: calc(100vh - 140px);
-  overflow: auto;
+  overflow: hidden;
   transition: opacity 160ms ease, transform 160ms ease;
 }
 
@@ -94,44 +98,107 @@ body {
   transform: translateY(2px);
 }
 
+.chord-token {
+  color: #4da3ff;
+}
+
 .transpose-controls {
   position: fixed;
   right: 1rem;
-  bottom: 1rem;
+  top: 80%;
+  transform: translateY(-50%);
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 0.5rem;
   z-index: 50;
+}
+
+.transpose-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  transition: opacity 180ms ease, transform 180ms ease, max-height 180ms ease;
+  max-height: 320px;
+  opacity: 1;
 }
 
 .transpose-controls button {
   border: 1px solid #3c3c3c;
   border-radius: 999px;
-  background: var(--panel-2);
+  background: transparent;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   color: var(--text);
-  padding: 0.55rem 0.8rem;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  line-height: 1;
   font-weight: 600;
   cursor: pointer;
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.28);
 }
 
+.transpose-controls .step-label {
+  font-size: 0.72em;
+  opacity: 0.85;
+}
+
+.controls-toggle-btn {
+  flex-direction: row;
+  font-size: 0.7rem;
+}
+
+.icon-label {
+  font-size: 0.62rem;
+  line-height: 1;
+}
+
+.micro-step-label {
+  margin-top: 1px;
+  font-size: 0.38rem;
+  line-height: 1;
+  opacity: 0.9;
+}
+
+.notation-mini {
+  font-size: 0.44rem;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
 .transpose-controls button:hover {
   border-color: #555;
-  background: #343434;
+  background: transparent;
 }
 
 .transpose-controls button.is-active {
   border-color: #4fc563;
-  background: #27422c;
+  background: transparent;
+}
+
+.transpose-controls.is-collapsed .transpose-actions {
+  max-height: 0;
+  opacity: 0;
+  transform: translateX(10px);
+  overflow: hidden;
+  pointer-events: none;
 }
 
 @media (max-width: 860px) {
   .lyrics-content {
-    max-height: 55vh;
+    max-height: none;
   }
 
   .transpose-controls {
     right: 0.7rem;
-    bottom: 0.7rem;
+    top: 80%;
+    transform: translateY(-50%);
   }
 }
