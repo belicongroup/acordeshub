@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lyrics Viewer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="viewer">
+        <header class="viewer-header">
+          <div class="viewer-header-row">
+            <a class="dashboard-link" href="../search/index.html" aria-label="Back to search dashboard" title="Back">
+              &#8592;
+            </a>
+            <h2 id="songTitle">Select a song</h2>
+          </div>
+        </header>
+        <pre id="lyricsContent" class="lyrics-content">
+Select a song from the search dashboard.
+        </pre>
+      </section>
+    </main>
+
+    <div class="transpose-controls" aria-label="Transpose controls">
+      <button id="transposeUpBtn" type="button" title="Transpose up">▲</button>
+      <button id="transposeDownBtn" type="button" title="Transpose down">▼</button>
+      <button id="notationToggleBtn" type="button" title="Toggle notation">C / Do</button>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+  </html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Song Search Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="dashboard">
+      <header class="topbar">
+        <h1>Song Search Dashboard</h1>
+      </header>
+      <section class="search-panel">
+        <input id="queryInput" type="search" placeholder="Search by title or artist..." aria-label="Search songs" />
+        <p id="statusText" class="status-text">Loading songs...</p>
+      </section>
+      <section class="results-panel">
+        <ul id="resultsList" class="results-list" aria-label="Search results"></ul>
+      </section>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

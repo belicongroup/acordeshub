@@ -1,0 +1,4 @@
+{ G } Baa Baa Black Sheep { C } have you any { G } wool?
+{ C } Yes sir { G } Yes sir { D } three bags { G } full.
+{ G } One for the { C } master and { G } one for the { D } dame,
+And { G } one for the { C } little boy who { D } lives down the { G } lane.
