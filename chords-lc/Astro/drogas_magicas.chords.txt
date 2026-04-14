@@ -1,0 +1,118 @@
+Al final, versión sin capo.
+
+Capo en 1. Acordes y tablatura relativos al capo. Tonalidad original: G#
+
+Durante las estrofas se puede tocar el riff o rasguear los acordes:
+G: 320033
+Cadd9: x32033
+
+Intro
+
+E----------------------------
+B----------------------------
+G----------------------------
+D----------------------------
+A----------------------------
+E-3--3s8--8--8s3--3--3s8--8s3
+
+Riff
+
+G          Cadd9
+E---3-2------8-7--
+B----3-3------8-8-
+G--0----0---0----0
+D-----------------
+A-----------------
+E-3--------8------
+
+G
+No tengo miedo a las masas
+Cadd9
+te tengo miedo a ti
+G
+porque si miro de lejos
+Cadd9
+me tirarás un misil sónico
+
+G
+Me enterrarás tu cuchillo
+Cadd9
+si no te bailo en los bosques
+G
+por eso no es a las masas
+Cadd9
+te tengo miedo a ti
+
+G                  Cadd9
+Hicimos de todo en esta ciudad
+G                              Cadd9
+era nuestra: rompimos los autos, colgamos pancartas
+                       G
+que decían "te quiero así"
+            Cadd9              G
+eras tan gigante y loca de verdad
+             Cadd9             G
+habrán sido drogas mágicas
+
+Cadd9 - G
+
+
+-----------------------------------------------
+
+
+Sin capo.
+Puede utilizarse C# o C#sus2
+
+G#: 466544
+C#: x46664
+C#sus4: x46644
+
+Intro
+
+E----------------------------
+B----------------------------
+G----------------------------
+D----------------------------
+A----------------------------
+E-4--4s9--9--9s4--4--4s9--9s4
+
+Riff
+
+ G#        C#
+E----4-3-------9-8--
+B-- 4-4-4-----9-9-9-
+G-------------------
+D-------------------
+A-------------------
+E-4---------9--------
+
+G#
+No tengo miedo a las masas
+C#
+te tengo miedo a ti
+G#
+porque si miro de lejos
+C#
+me tirarás un misil sónico
+
+G#
+Me enterrarás tu cuchillo
+C#
+si no te bailo en los bosques
+G#
+por eso no es a las masas
+C#
+te tengo miedo a ti
+
+G#                  C#
+Hicimos de todo en esta ciudad
+G#                              C#
+era nuestra: rompimos los autos, colgamos pancartas
+                       G#
+que decían "te quiero así"
+            C#                G#
+eras tan gigante y loca de verdad
+             C#             G
+habrán sido drogas mágicas
+
+C# - G#

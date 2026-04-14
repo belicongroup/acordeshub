@@ -1,0 +1,76 @@
+Intro:
+
+e.----------------------| C - Bm6 - G -0/3-3-----------------------| D - C - G
+B.-3/5----3/4---3----2--|             -----------------------------|
+G.----4------4----4----4|             -----------------------------|
+D.-0/2----0/1---0-------|             -0---------------------------|
+A.-------------------4--|             --------0/3-3---0/2-2---0/1-1|
+E.----------------------|             -----------------------------|
+
+G   D/F#   Em7                    Am7              D       Dsus4 D
+  Muchacha ojos de papel, ¿adónde vas?, quédate hasta el alba;
+G   D/F#   Em7                      Am7             D       Dsus4 D
+  muchacha pequeños pies, no corras más, quédate hasta el alba.
+Em    Em/maj7       Em7*         Em6
+  Sueña un sueño despacito entre mis manos
+C               Am7         D           Dsus4 D
+  hasta que por la ventana suba el sol;
+G   D/F#   Em                       Am7  D               G
+  muchacha piel de rayón, no corras más,    tu tiempo es hoy.
+              C      Em/G        Cm7    G
+  Y no hables más, muchacha corazón de tiza,
+         C    Em/G         Am7       G
+  cuando todo duerma te robaré un color
+              C      Em/G         Cm7    G
+  -y no hables más, muchacha corazón de tiza,
+          C    Em/G         Am7       G
+   cuando todo duerma te robaré un color-...
+
+
+Inter: [G]
+
+  Muchacha voz de gorrión, ¿adónde vas?, quédate hasta el día;
+  muchacha pechos de miel, no corras más, quédate hasta el día.
+  Duerme un poco y yo, entretanto, construiré
+  un castillo con tu vientre hasta que el sol,
+  muchacha, te haga reír hasta llorar,       hasta llorar.
+  Y no hables más, muchacha corazón de tiza,
+  cuando todo duerma te robaré un color
+  -y no hables más, muchacha corazón de tiza,
+   cuando todo duerma te robaré un color-...
+
+
+Final coral: [C - Em/G - Cm7 - G -- C - Em/G - Am7 - G
+              C - Em/G - Cm7 - G -- C - Em/G - Am7 - Fmaj7 - G]
+
+
+--------------------------------------------------------------------
+
+
+ACORDES:
+
+  INTRO:
+      C: 032010
+    Bm6: x2000x
+      D: xx023x
+
+CANCIÓN:
+      G: 320033
+   D/F#: 2xx232
+    Em7: 022030
+    Am7: 002010
+      D: xx0232
+
+     Em: x22000
+Em/maj7: x21000
+   Em7*: x20000
+    Em6: x42000
+   Em/G: 322000
+
+    Cm7: x3134x o x35343
+
+  Fmaj7: 1x3310
+
+
+Unas Pequeñas correcciones a la versión de "Roberto"
+Muchas gracias Roberto me sirvió de mucho tu versión!

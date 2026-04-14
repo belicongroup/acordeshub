@@ -11,15 +11,15 @@
       <section class="viewer">
         <header class="viewer-header">
           <div class="viewer-header-row">
-            <a class="dashboard-link" href="../search/index.html" aria-label="Back to search dashboard" title="Back">
-              &#8592;
-            </a>
             <h2 id="songTitle">Select a song</h2>
           </div>
         </header>
-        <pre id="lyricsContent" class="lyrics-content">
-Select a song from the search dashboard.
-        </pre>
+        <div class="lyrics-stage">
+          <pre id="lyricsContent" class="lyrics-content"></pre>
+          <div id="lyricsLoading" class="lyrics-loading" aria-live="polite" aria-label="Loading lyrics">
+            <span class="spinner" aria-hidden="true"></span>
+          </div>
+        </div>
       </section>
     </main>
 

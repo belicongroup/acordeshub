@@ -1,0 +1,137 @@
+-LA INTRODUCCIÓN VIENE A SER ALGO ASÍ:
+
+e|-------|
+B|-------|
+G|-99999-|    V ->púa abajo
+D|-99999-|    ^ ->púa arriba
+A|-77777-|
+E|-------|
+   vvvvv
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|-9-9-97-7-75-5-----------7-77777...---| DOS VECES
+D|-9-9-97-7-75-55-555-5-5-57-77777...---|
+A|-7-7-75-5-53-35-555-5-5-55-55555...---|
+E|--------------3-333-3-3-3-------------|
+   v v ^v v ^v v^ v^v v v v^ v^^v^...(LAS VECES QUE SEA NECESARIO)
+
+
+-Y ACÁ EMPIEZA A CANTAR:
+
+  MI5     RE5  DO5
+ Me vas a perdonar
+     SOL5       RE5
+ que mire para atrás
+          MI5     RE5  DO5
+ que me encuentro sofocado
+         SOL5       RE5
+ por el humo del tabaco
+
+     MI5             RE5       DO5
+ que tanto correr no puede ser bueno
+      SOL5          RE5
+ pa este montón de huesos
+         MI5     RE5    DO5
+ que me tiemblan las taquillas
+        SOL5        DO5
+ por querer ir tan deprisa
+
+
+DO5         SOL5     LA5     SI5
+ Y no puedo más
+DO5         SOL5     LA5     SI5
+ y no puedo más
+
+       MI5     RE5    DO5
+ que subir por las paredes
+     SOL5           RE5
+ estará muy bien pa ustedes
+      MI5      RE5  DO5
+ pero yo lo que pretendo
+      SOL5       RE5
+ es pararme un momento
+
+      MI5  RE5    DO5
+ a pedir tiempo muerto
+       SOL5       RE5
+ pa poder coger aliento
+          MI5     RE5    DO5
+ y que me lleves dando vueltas
+       SOL5        RE5
+ donde empieza la mañana
+
+
+DO5          SOL5     LA5     SI5
+ Ya no puedo más
+DO5          SOL5     LA5     SI5
+ ya no puedo más
+
+
+(AHORA VIENEN ALGUNOS VERSOS QUE SON DIFERENTES)
+
+ MI5      RE5     DO5  SOL5
+ Tengo el cuerpo derrotao
+     SOL5         RE5
+ el sueño hecho añicos
+ MI5      RE5    DO5   SOL5
+ Tengo el alma de un matao
+     SOL5        RE5
+ la mano en el bolsillo
+
+ MI5     RE5   DO5   SOL5
+ con los ojos como platos
+        SOL5         RE5
+ con la cara de un pescao
+        MI5     RE5   DO5
+ con la sombra de tu cuerpo
+            SOL5      RE5
+ que me ha robao el camino
+
+
+ (SOLO)
+
+ MI5       RE5   DO5
+ Se reía a carcajadas
+        SOL5       RE5
+ aunque fuese por nada
+ MI5        RE5   DO5
+ y en el río le robaba
+      SOL5      RE5
+ la mirada a la luna
+
+
+ MI5      RE5     DO5  SOL5
+ Tengo el cuerpo derrotao
+     SOL5         RE5
+ el sueño hecho añicos
+ MI5      RE5    DO5   SOL5
+ Tengo el alma de un matao
+     SOL5        RE5
+ la mano en el bolsillo
+
+ MI5     RE5   DO5   SOL5
+ con los ojos como platos
+        SOL5         RE5
+ con la cara de un pescao
+        MI5     RE5   DO5
+ con la sombra de tu cuerpo
+            SOL5      RE5
+ que me ha robao el camino
+
+
+(ACÁ EMPIEZA A SER UNA COSA UN POCO DIFERENTE, ALGO ASÍ)
+
+  MI5    RE5    DO5    SOL5
+ ...
+
+            SOL5       RE5
+ que me ha robao el camino
+
+  MI5    RE5    DO5    SOL5
+ ...
+
+            sOL5       RE5    MI5   RE5  DO5  SOL5  SOL5  RE5... MI5
+ que me ha robao el camino...
+
+       (FIN)

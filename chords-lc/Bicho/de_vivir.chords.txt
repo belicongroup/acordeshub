@@ -1,0 +1,114 @@
+RE7   [-57675]
+RE#º  [-6767-]
+DO#m  [-46654]
+DOm   [-35543]
+SIm   [-24432]
+SOL   [355433]
+som7  [353333]
+LAM9m [-02320]
+LA    [577655]
+
+intro : RE7M - RE#º - do#m-dom-sim - dom-do#m
+
+RE7                                       RE#º
+ Que con tanto disparate que con tanta tontería
+                      DO#m
+me han cambiaito a mí los tiempos mare
+         DOm        SIm      DO#m
+y ahora duermo por los días
+RE7       RE#º
+ traté de vivir
+                   DO#m           DOm
+que al final fue lo importante
+SIm
+tiré palante
+      DO#m
+tiré patras´trás
+RE7               RE#º
+ traté de traté de vivi
+                      DO#m      DOm
+que al fina fue lo importante
+SIm
+  tiré palante
+DO#m
+  tiré patrás tras
+RE7                         RE#º
+y buscando y er camino lo eshé patrá
+                  DO#m
+se puso a reir, se puso a llorar
+DOm-SIm
+cada cierto tiempo
+           DO#m
+que viene a visitarme
+RE7               RE#º
+ traté de traté de vivir
+                  DO#m          DOm
+que al final fue lo importante
+SIm
+  tiré palante
+         DO#m
+  tiré patrás´tras
+
+RE7              RE#º
+trate de trate de vivir
+                  DO#m          DOm
+que al final fue lo importante
+SIm
+  tire palante
+          SOL
+  tire patras´tras
+       MIm
+tantas veces
+SOLm7             LAM9m
+ una vé en vé en cuando
+SOLm7          LA
+ y dónde estamos  mal der tó no estamo
+     SOLm7                        LA
+si fuera verdad... pasarían los tiempo
+SOLm7           LA
+  ¿y dónde estamo? mal der tó no estamo
+      LA#
+si fuera verdá...
+            LA
+pasarían los tiempo
+
+2 compases instrumentales
+   SOLm7    -    LA
+
+LAm7              LA
+    y donde estamo   mar der tó no estamo
+      LA#
+si fuera verdá...
+             LA      LA#      LA    /
+y empecemo a sé lo que queramo sé   /
+LA#         LA   LA#     LA         / x2
+dígámosle ar mundo donde vivimo     /
+
+
+---------------/----------------------/e mi 1ª
+---------------/----------------------/b si 2ª
+---------------/----------------------/G sol3ª
+---0-2-0-------/-0-2-0-----3-2--------/d re 4ª
+---------3-1-0-/-------3-1------------/a la 5ª
+---------------/----------------------/E MI 6ª
+               x2         AI/RE
+
+(la segunda vez la primera falseta se repite 3 veces
+ antes del AI REE )(en la siguiente estrofa están los acordes que son,
+ pero lo que son los momentos justos del cambio a oreha caballer@h;-)
+
+LA   LA#        LA        LA#       LA
+y aprendí del aire que me dio en la cara
+
+      LA#-LA
+y aprendí de los besos que tú no me dabas
+
+y aprendí del aire que a mí me fartaba
+LA#-LA        LA#-LA      LA#-LA  LA#-LA
+sueños son del aire  si  respira   guía
+LA#-LA LA#-LA  LA#-LA       LA#
+sueño   noche  llena de una luna escondía
+
+pd: lo de las palabras no son faltas de ortografía,
+    es transcripción del andalú, alma y lengua mater del flamenco ;-D
+    ¡VIVA ANDALU(S)CÍA COONE!

@@ -1,0 +1,130 @@
+Rasgueo:
+
+Rasgueo básico: Una hacía abajo, pausa, dos hacía arriba con el pulgar y pausa.
+
+Nota: En el rasgueo antes del coro, el G' se alarga con un sube y baja
+que dura ocho tiempos.
+
+El G' es la segunda forma de poner el acorde de G:
+
+|-3-|
+|-3-|
+|-4-|
+|-5-|
+|-5-|
+|-3-|
+
+
+Nota: No se les olvide que si está con capo en el traste 3
+,es decir en Sol, realizan los mismo acordes como si estuviera en Mi.
+
+Capo 3 'Intro'
+
+e|-------------|-------------|-------------|-------------|
+b|---1-------1-|---1-------1-|---1-------1-|---1-------1-|
+g|---------0---|---------0---|---------0---|---------0---|
+D|-----2h3-----|-----2h3-----|-----2h3-----|-----2h3-----|
+A|-3-----------|-3-----------|-3-----------|-3-----------|
+E|-------------|-------------|-------------|-------------|
+
+Estrofa 1:
+
+C       G        Am       G
+No moriré yo viviré mil años.
+F          G'         C
+Mentí, me engañó, lo sé.
+
+e|-------------|-------------|
+b|---1-------1-|---1-------1-|
+g|---------0---|---------0---|
+D|-----2h3-----|-----2h3-----|
+A|-3-----------|-3-----------|
+E|-------------|-------------|
+
+Estrofa 2:
+
+C             G
+Sí, es la verdad
+        Am            G
+tú lograrás la eternidad
+   F       G'             C    C7
+En ti nacerá la luz inmortal.
+F               Fm        G'
+Nunca más sufrirás, renacerás.
+
+
+Coro:
+
+     Em               F
+Inmensidad la luz es hoy.
+     Em            F
+Eternidad nada se va.
+         Em
+Resurrección somos
+   F             G'
+un Sol con Corazón.
+
+
+Estrofa 3:
+
+C         G         Am       G
+Lo lograrás tú vivirás mil años.
+     F       G'       C
+Tendrás un alma sin fin.
+
+e|-------------|-------------|
+b|---1-------1-|---1-------1-|
+g|---------0---|---------0---|
+D|-----2h3-----|-----2h3-----|
+A|-3-----------|-3-----------|
+E|-------------|-------------|
+
+Estrofa 4:
+
+C             G
+No, nunca podré
+         Am       G
+ser inmortal ¡Nunca podré!
+ F         G'             C   C7
+Jamás yo seré la inmensidad.
+F            Fm           G'
+Sufriré, moriré, me pudriré.
+
+
+Coro:
+
+            Em              F
+No es la verdad, la luz es hoy.
+      Em            F
+Eternidad: nada se va.
+        Em
+Resurrección somos
+    F           G'
+un Sol con Corazón.
+
+
+Coro:
+
+       Em             F
+Inmensidad la luz es hoy.
+       Em          F
+Eternidad nada se va.
+         Em
+Todo es amor, somos
+    F           G'
+un Sol con Corazón.
+
+C G Am G F G'
+
+e|-------------|-------------|-------------|-0--|
+b|---1-------1-|---1-------1-|---1-------1-|-1--|
+g|---------0---|---------0---|---------0---|-0--|
+D|-----2h3-----|-----2h3-----|-----2h3-----|-2--|
+A|-3-----------|-3-----------|-3-----------|-3--|
+E|-------------|-------------|-------------|-0--|
+
+Nota: Terminan con un rasgueo descendente en el acorde de Do mayor(C).
+
+
+
+By: Juan Mena

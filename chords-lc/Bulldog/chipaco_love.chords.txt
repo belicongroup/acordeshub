@@ -1,0 +1,48 @@
+INTRO: A C#m Bm E x4
+
+
+A           C#m
+Uy, cuánto amor
+Bm         E
+hay entre nosotros dos.
+A           C#m
+Uy, cuánto amor
+Bm         E
+hay entre nosotros dos.
+
+
+A5             C#5
+Uo, uo, uo, uo, uo,
+B5                  E5
+uo, uo, uo, amor chipaco.
+A5             C#5
+Uo, uo, uo, uo, uo,
+B5                  E5
+uo, uo, uo, amor chipaco.
+
+
+[[Repite todo otra vez]]
+
+
+
+
+
+ --------------
+|Acordes usados|
+ --------------
+
+      A          C#m        Bm          E
+e|-0-----5-|     e|--4--|     e|--2--|     e|--0--|
+B|-2-----5-|     B|--5--|     B|--3--|     B|--0--|
+G|-2-----6-|     G|--6--|     G|--4--|     G|--1--|
+D|-2--ó--7-|     D|--6--|     D|--4--|     D|--2--|
+A|-0-----7-|     A|--4--|     A|--2--|     A|--2--|
+E|-------5-|     E|-----|     E|-----|     E|--0--|
+
+   A5        C#5          B5           E5
+e|-----|     e|-----|     e|-------|     e|-------|
+B|-----|     B|-----|     B|-------|     B|-------|
+G|-----|     G|--6--|     G|-4-----|     G|-----9-|
+D|--7--|     D|--6--|     D|-4-ó-9-|     D|-2-ó-9-|
+A|--7--|     A|--4--|     A|-2---9-|     A|-2---7-|
+E|--5--|     E|-----|     E|-----7-|     E|-0-----|

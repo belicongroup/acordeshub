@@ -1,0 +1,75 @@
+--www.spinettachords.com.ar--
+
+Acordes:
+C: x32010
+Cmaj7: x32000
+Em7/9: 024030
+Em: 022000
+D7: xx0212
+G: 320003
+D: xx0232
+Bsus4: 799977
+B: 799877
+A: x02220
+Cadd9: x32030
+
+Intro:  C - Cmaj7- Em7/9
+
+Em     D7      G            C
+Los elefantes saben descansar
+D                C
+van a morir de paz.
+Em     D7    G            C
+un elefante sabe como aquel,
+D                 C              D
+el creador de la tierra y el sol
+
+Verso:
+             C              G
+y si es que ves como se extiende
+        D
+si ves como se resignan
+      Bsus7           B          A
+a olvidar su inexplicable soledad
+               G
+seras como ellos,
+       D                              Bsus7
+te podran contar los cuentos mas extranos
+     B            Em
+pero no te apuraras.
+
+Repite intro
+
+Estrofa 2:
+(igual)
+Los elefantes saben olvidar
+miralos como estan
+mira su largas trompas sin razon
+como huelen todo lo que esta
+
+Verso:
+(igual)
+y si es que ves como se extiende
+si ves como se resignan
+a olvidar su inexplicable soledad
+seras como ellos,
+te podran contar los cuentos mas extranos
+pero no te apuraras
+
+Repite intro
+Estrofa 3:
+(igual)
+Un elefante anda por aqui
+vamos a verlo andar,
+mientras sea un elefante hasta el final
+no tendras que entender
+
+Puente:
+Cadd9   C        Em7/9
+Y      tendras  calma
+Cadd9   C      Em7/9
+ten  - dras la calma
+Cadd9   C     Em7/9
+Y tendras calma
+
+Fin y fade out sobre: Cadd9 C Em7/9

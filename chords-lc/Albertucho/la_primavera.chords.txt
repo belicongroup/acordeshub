@@ -1,0 +1,175 @@
+AFINACIÓN: EADGBE
+
+Para que el tema suene bien lo más importante es saber cómo rasguea
+los acordes.
+
+ACORDES:
+
+
+----0-----0-----0-----0-----------------------------------------------
+----1-----1-----1-----1-----3-----3-----1-----------------------------
+----0-----0-----0-----2-----0-----0-----2-----------------------------
+----2-----0-----0-----3-----0-----2-----2-----------------------------
+----3-----2-----1-----3-----2-----3-----0-----------------------------
+----------------------------3-----------------------------------------
+
+    C     B   A#/Bb   F     G     C7    Am
+
+
+
+Todos los acordes se tocan marcando primero la nota más grave y luego
+rasgueando el resto de cuerdas. Ej:
+
+-------0-------0-------0-------0--------------------------------------
+-------1-------1-------1-------1--------------------------------------
+-------0-------0-------0-------2--------------------------------------
+--(2)-----(0)-----(0)-----(3)-----------------------------------------
+---3-------2-------1-------3------------------------------------------
+----------------------------------------------------------------------
+
+
+
+
+INTRO:
+
+Esta parte es opcional. En el tema original empieza directamente con
+los acordes, pero cuando toca en directo muchas veces mete una intro
+en este plan:
+
+------0----------------0---------------------0--------------0---------
+------1----------------1---------------------1--------------1------3--
+------0--------0-------0---------------------0--------------2------0--
+-(2)-------0h2-----(0)--------0------0---(0)--------0---(3)--------0--
+--3------3----------2-----0h2----0h2------1-----0h1------3-----(2)----
+----------------------------------------------------------------3-----
+
+Está simplificada, es decir, hay más rasgueo del que aparece en la
+transcripción.
+
+
+VERSO 1:
+
+
+C                B
+Tengo una ciudad que regala sol,
+
+A#/Bb                F
+tengo tardes de azotea,
+
+C
+tengo un tirador
+
+B                   A#/Bb                        F
+en el corazón que refresca al que se pone a mi vera,
+
+C
+tengo claro que
+
+B                A#/Bb                      F          G
+siendo estafador alguien desde el cielo me regala primavera
+
+
+
+ESTRIBILLO:
+
+
+
+C + B + A#/Bb
+
+    F            G
+Ya llegó la primevera,
+
+
+C + B + A#/Bb
+
+    F            G
+Ya llegó la primevera,
+
+
+
+VERSO 2:
+
+
+C             B
+La decoración de tu alrededor
+
+A#/Bb                  F
+tiene la luz que tu quieras,
+
+G                    C7
+si vienes conmigo yo te muestro el don
+
+G                  Am
+de Sevilla en primavera
+
+C                       B
+los sharnis te muestran los cueros y los oros,
+
+A#/Bb                F
+su novias menores se preñan
+
+G                      C7
+el Guadalquivir brilla fuerte y los guiris
+
+G                      Am
+parecen fresones de Huelva
+
+
+
+ESTRIBILLO (Igual que antes)
+
+
+
+VERSO 3:
+
+
+
+C                  B
+Hay un carril bici por donde rebotan 40
+
+A#/Bb       F
+millones de tetas
+
+G                    C7
+yo tengo colegas que miran atentos
+
+G                  Am
+alegre pasar de doncellas
+
+C                B
+tengo un tirador en el corazón que
+
+A#/Bb                        F
+refresca al que se pone a mi vera,
+
+C               B
+tengo claro que siendo estafador
+
+A#/Bb                     F           G
+alguien desde el cielo me regala primavera
+
+
+
+ESTRIBILLO (igual que antes)
+
+
+
+VERSO 4:
+
+
+
+C             B
+Para terminar recomendación vete
+
+A#/Bb                              F
+a las 12 al mercado de la la calle feria,
+
+C                        B
+cartucho de chicharrones morenas por los rincones
+
+A#/Bb                  F      G
+y botellin de cerveza
+
+
+
+ESTRIBILLO

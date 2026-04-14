@@ -1,0 +1,173 @@
+____ acordes _____
+|                |
+| C:     032010  |
+| F_:    88AAA8  |
+| Fsus_ :88AAB8  |
+| A#:    113331  |
+| F:     113321  |
+| Am:    002210  |
+| G:     320003  |
+| Dm:    000231  |
+| C_:    8AA988  |
+|________________|
+
+
+[intro]: (x2)
+C   C      F_ Fsus_
+A#  A#  A#   C C
+C   C      F_ Fsus_
+A#  A#  A#   C C
+
+
+
+C               F
+Otra vez vuelvo a escuchar
+  C           F
+que se acerca el final,
+     Am               F                 C     F_ Fsus_  F_
+lo cierto es que lo bueno aún no ha llegado
+
+   C            F
+Si ésta es la cuenta atrás,
+C             F
+algo queda que esperar,
+       Am      F         C
+¡que Dios nos coja confesados!
+
+
+G              Am          F       C
+  Dijo el tramposo al empezar a jugar
+G            Am        F         C
+  "Hoy seré yo el que ponga los dados"
+G           Am        F       C
+  Me lo contaba el filósofo Juan
+G               Am      F
+  un día que estaba borracho
+
+
+ C   F           G         F          C
+Hoy todo está igual en la calle del viento
+C C    F F
+...
+C C    F F
+...
+ C   F           G         F        C
+Hoy todo está igual en la casa sin techo
+
+[intro]
+
+
+ C              F
+Sé que cuando llegue el fin
+ C           F
+no te acordarás de mí
+      Am     F             C     F_ Fsus_  F_
+si estoy cantando en un tugurio
+
+   C                 F
+Creo que siempre ha sido así,
+  C              F
+siempre en un ir y venir
+   Am           F       C
+huyendo de los malos augurios
+
+
+G             Am           F        C
+  Dijo el profeta justo antes de morir:
+G               Am     F          C
+  "Siento no haber predicho el diluvio."
+G           Am          F       C
+  Luego se puso, sin parar de reir,
+G          Am        F
+  en la cabeza un embudo
+
+
+ C   F           G         F          C
+Hoy todo está igual en la calle del viento
+C C    F F
+...
+C C    F F
+...
+ C   F           G         F        C
+Hoy todo está igual en la casa sin techo
+C C    F F
+...
+C C    F F
+...
+
+
+[solo]:
+    D                F       G        C
+E-||-------------0--|1--1----0-------|-----------0h1h3|
+B-||1h3-------3-----|----------3-1-3-|1---------------|
+G-||----------------|----------------|----------------|
+D-||----------------|----------------|----------------|
+A-||----------------|----------------|----------------|
+E-||----------------|----------------|----------------|
+
+... en la calle del viento
+
+    D                F       G        C
+E-||-------------0--|1--1----0-------|----------------|
+B-||1h3-------3-----|----------3-1-3-|1---------------|
+G-||----------------|----------------|----------------|
+D-||----------------|----------------|----------------|
+A-||----------------|----------------|----------------|
+E-||----------------|----------------|----------------|
+
+... en la casa sin techo
+
+[riff1]: (x2)
+C_  C_      F_ Fsus_
+C_  C_      F_ Fsus_
+C_  C_      F_ Fsus_
+C_  C_      A#
+
+
+
+ C            F
+Desperté y entonces vi
+   C            F
+a más de veinticinco mil
+    Am       F              C     F_ Fsus_  F_
+gritando: "¡Sálvese quien pueda!"
+
+      C                 F
+Oh, a otro, en cambio, pude oir
+     C          F
+que ni contigo ni sin ti
+     Am    F            C
+tendrían alivio en sus penas
+
+
+G             Am           F         C
+  Dijo el viajero justo antes de partir:
+G             Am        F          C
+  "No os olvidéis de regar mis gardenias,
+G              Am           F        C
+  las mismas que cantaba Antonio Machín
+G            Am      F
+  todos los días de feria".
+
+
+[final]: (x4)
+ C   F           G         F          C
+Hoy todo está igual en la calle del viento
+C C    F F
+...
+C C    F F
+...
+ C   F           G         F        C
+Hoy todo está igual en la casa sin techo
+C C    F F
+...
+C C    F F
+...
+
+
+
+###------------------------------###
+### Tablatura de: Enrique Moraño ###
+### Sevilla [Spain]     NOV-2007 ###
+###      emorano@hotmail.com     ###
+###------------------------------###

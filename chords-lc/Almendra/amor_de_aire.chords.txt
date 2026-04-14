@@ -1,0 +1,58 @@
+--www.spinettachords.com.ar--
+
+
+Acordes:
+E: 022100
+E7: 022130
+A7: 575655
+B7: 797877
+E6: 022120
+
+Intro: E (con guitarra slide)
+
+Estrofa 1:
+
+Riff:
+e|---0-------------------0|
+b|-----3/2-0--------------|
+g|------------2/1-0--0h1--|
+d|------------------------|
+a|------------------------|
+E|0--------------------0--|
+
+Riff+E
+ Ella ha venido
+ ha venido del campo
+A7
+ Ella ha venido
+Riff+E
+ A visitar la ciudad
+B7                         A7
+ Caí diluido en sus sueños
+Riff+E
+ Antes que llegue acá
+
+Estrofa 2:
+(igual)
+Caminaba,caminaba
+lentamente entre sus cejas
+Caminaba, caminaba
+Con miedo a caer mal
+Su rostro venció el cemento
+Los patos se alegran al verla regresar
+acompañada
+
+Solo: E A7 E B7 A7 Riff+E
+
+Estrofa 3:
+(igual)
+Ella ha venido, si
+ha venido del campo, si
+Ella ha venido
+a visitar la ciudad
+Los patos se alegran al verla regresar
+acompañada
+
+Solo: E A7 E B7 A7 Riff+E
+
+Fin: E6

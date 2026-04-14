@@ -1,0 +1,128 @@
+Hola a todos , aquí esta Soñar de Belanova .
+
+Nota - Los acordes que están entre [ ] solo se rasguean una vez
+       o un arpegio .
+
+       El número que este entre [ ] quiere decir que se toca
+       una vez desde esa parte de la canción .
+
+Acordes :
+
+        E A D G B E
+A     = x 0 2 2 2 0
+B     = x 2 4 4 4 2
+D     = x x 0 2 3 2
+F#m   = 2 4 4 2 2 2
+
+
+  [1] :
+e -7--------------
+B ---7-9---7------
+G -------9---6-9--
+D ----------------
+A ----------------
+E ----------------
+
+  [2] :
+e -7--------------
+B ---7-9---7-9----
+G -------9-----9--
+D ----------------
+A ----------------
+E ----------------
+
+
+Intro :
+
+e -----16----------------19------------
+B --14-----14-----------------14--17~~-
+G ------------14--16~~~~~--------------
+D -------------------------------------
+A -------------------------------------
+E -------------------------------------  x2
+
+
+Verso :
+
+A             B     D   F#m
+Hoy sólo quiero bailar
+A            B     D       F#m
+Ver al cielo y cerrar los ojos
+A          B    D   F#m
+Sólo para despegar
+A                B      D       F#m
+Hacia un mundo azul de sueños locos
+
+
+Pre coro :
+
+A           B         D     F#m
+                      [1]
+Y si tú quieres venir
+A            B        D     F#m
+                      [2]
+Yo te puedo invitar
+A          B          D     F#m
+                      [1]
+Hacia ese mundo azul
+   A           B      D     F#m
+Donde podemos escapar
+
+
+Coro :
+
+A      B      D   F#m
+Y si ahí estás tú
+A     B     D   F#m
+Como lo planee
+A       B    D       F#m
+Hoy podré decir al fin
+    A    B     D   F#m
+La vida es soñar
+
+A  B  D  F#m
+A  B  D  F#m
+
+Solo :
+
+e -7~~--9--------9--7~--14-12~-----12----------------------
+B --------9-----9---------------14----12--14-----12--------
+G -----------9~------------------------------13----11-13~~-
+D ---------------------------------------------------------
+A ---------------------------------------------------------
+E ---------------------------------------------------------
+
+
+Pre coro :
+
+[A]         [B]      [D]   [F#m]
+Y si tú quieres venir
+A            B        D     F#m
+                      [2]
+Yo te puedo invitar
+A          B          D     F#m
+                      [1]
+Hacia ese mundo azul
+   A           B      D     F#m
+Donde podemos escapar
+
+
+Coro :
+
+A      B      D   F#m
+Y si ahí estás tú
+A     B     D   F#m
+Como lo planee
+A       B    D       F#m
+Hoy podré decir al fin
+    A    B     D   F#m
+La vida es soñar
+
+ A  B  D  F#m
+ A  B  D  F#m
+[A][B][D][F#m]
+[A][B][D][F#m]
+
+                                             FIN
+
+Cualquier cosa a mi mail .

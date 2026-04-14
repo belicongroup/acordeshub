@@ -1,0 +1,104 @@
+Intro:
+------
+A C# D
+
+Estrofa:
+--------
+A             C#
+Begira ezazu zure ingurua
+D                               E
+Eta esaidazu horrelakoa den nahi duzun mundua
+A             C#
+Espabilatu garaia duzu eta
+D                               E
+Eskuratzeko dagoeneko galdutako guztia
+
+Cambio:
+-------
+A
+Gazte berri, neoliberal
+C#
+Gazte burges, gazte konforme
+D
+Zure mutur aurrean
+E
+Jokatzen ari dira
+A
+Gazte global, antiradikal
+C#
+Pasiboa, positiboa
+D
+Hutsaren aurrena
+E
+Zu zeu zeu zara
+
+Estribilho:
+-----------
+F#         E       D
+Ez egin so zure zilborrari
+F#         E       D
+Jokoan ez zaude bakarrik
+F#         E       D
+Banatu indarra eta hor eutsi
+A            C#
+Gogor eutsi, gogor eutsi
+D
+horri atxeki!!!
+A            C#
+Gogor eutsi, gogor eutsi
+D
+horri atxeki!!!
+
+Letra:
+------
+Begira ezazu zure ingurua
+Eta esaidazu horrelakoa den nahi duzun mundua
+Espabilatu garaia duzu eta
+Eskuratzeko dagoeneko galdutako guztia
+
+Gazte berri, neoliberal
+Gazte burges, gazte konforme
+Zure mutur aurrean
+Jokatzen ari dira
+Gazte global, antiradikal
+Pasiboa, positiboa
+Hutsaren aurrena
+Zu zeu zeu zara
+
+Ez egin so zure zilborrari
+Jokoan ez zaude bakarrik
+Banatu indarra eta hor eutsi
+Gogor eutsi, gogor eutsi
+horri atxeki!!!
+Gogor eutsi, gogor eutsi
+horri atxeki!!!
+
+Eralda ezazu zure ingurua
+Benetan ziur zaude horrelakoa den nahi duzun gizartea?
+Gauzatu jada, ahulen mendekua
+Behingoz argi uzteko gazteriarekiko begirunea
+
+Gazte berri, neoliberal
+Gazte burges, gazte konforme
+Zure mutur aurrean
+Jokatzen ari dira
+Gazte global, antiradikal
+Pasiboa, positiboa
+Hutsaren aurrena
+Zu zeu zeu zara
+
+Ez egin so zure zilborrari
+Jokoan ez zaude bakarrik
+Banatu indarra eta hor eutsi
+Gogor eutsi, gogor eutsi
+horri atxeki!!!
+Gogor eutsi, gogor eutsi
+horri atxeki!!!
+
+Ez egin so zure zilborrari
+Jokoan ez zaude bakarrik
+Banatu indarra eta hor eutsi
+Gogor eutsi, gogor eutsi
+horri atxeki!!!
+Gogor eutsi, gogor eutsi
+horri atxeki!!!

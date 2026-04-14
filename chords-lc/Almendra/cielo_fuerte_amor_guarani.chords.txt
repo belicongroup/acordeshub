@@ -1,0 +1,99 @@
+Acordes:
+D6sus2: x57700
+D6sus2/C#: x47700
+Cmaj7: x35500
+Bsus4: x24400
+Asus2sus4: x07700
+A7/9: x07698
+D6: xx7777
+Gmaj7: x109777
+Cmaj7/11: 8899xx
+E5: x79900
+E5/D#: x69900
+F#7sus4: x9111100
+F#7sus4/F: x8111100
+G6: 101212000
+G6/F#: 91212000
+G/F: 13x121212x
+C#m7/9/11: 97977x
+A9: 547600
+A9sus4: 557600
+Aadd11: 557655
+Amaj7(b5): 547644
+Gmaj7(b5): 24400x
+Gmaj7(no5): 3240xx
+Em9: 02400x
+Dadd11/A: 5540xx
+Bm11(b13): x24030
+Cadd9(#11): x34030
+C#m7: x46600
+
+Las notas entre paréntesis [(A)] indican el bajo de la guitarra.
+
+Intro: D6sus2 D6sus2/C# Cmaj7 Bsus4 (x2)
+
+Estrofa 1:
+D6sus2     D6sus2/C# (A)
+Cielo fuerte,
+Cmaj7             Bsus4 (G)
+con el sol para pescar
+D6sus      D6sus2/C# (A)
+y en la selva
+Cmaj7             Bsus4 (G)
+ todo está para morir
+
+Puente:
+A7/9                    D9
+ y es el río el que sumerge aquí
+A7/9                   D9
+ las semillas de tu corazón
+ Gmaj7                Cmaj7/11
+hoy que una luna entrerriana
+           Repite intro
+marco tu destino
+
+Estrofa 2:
+(igual)
+Fue tu hembra
+en la sombra de un palmar
+y esos años, tu sexo y tu pan
+
+Puente:
+(igual)
+pero en el fondo del estanque aquél
+reflejando todo lo que fue
+ves que tu amor guaraní
+se seco lentamente
+
+Solo:
+E5 E5/D# - F#7sus4 F#7sus4/F - G6 G6/F#
+G/F - C#m7/9/11 (x4)
+
+Intermedio: A9 - A9sus4 (x4) Aadd11
+
+Verso:
+A9                       Aadd11 Amaj7(b5)
+Era tu amor de la mañana
+A9                       Add11 Amaj7(b5)
+era la flor roja del ceibo
+Gmaj7(b5)        Gmaj7(no5)
+eras el ángel aborigen
+                 Em9
+perdiéndose en el agua,
+   Gmaj7(no5)  Dadd11/A
+llevándose la vida
+               Bm11(b13) C#m7 D6sus2
+como se va la arena
+
+A9 Aadd11 (x2)
+
+Verso:
+(igual)
+Era tu amor de la mañana
+era la flor roja del ceibo
+eras el ángel aborigen
+perdiéndose ene l agua
+llevándose la vida
+como se va la arena
+
+Fin: Solo

@@ -1,0 +1,47 @@
+Acordes:
+Bm: x24432
+Em: 022000
+Am: x02210
+G: 320033
+C: x32010
+Cmaj7/9: x32430
+
+Intro:
+e|||-----------------------------||-----------------------------|--||--|||
+b|||-----------------------------||-----------------------------|--||--|||
+g|||-----------------------------||-----------------------------|--||--|||
+d|||---2------3---4---5--------2-||-----------------------------|x2||x2|||
+a|||-2------0---0---0-----1/2----||-----------------------------|--||--|||
+E|||-----------------------------||0-0-0-3p0--0-0-5p0--0-0-3p0--|--||--|||
+
+Bm (x2)
+
+Estrofa 1:
+Em                Bm
+Parvas en que parva naceré
+Am                Em
+parva tu hermana tan descalza
+Am                 Em
+parva tu hermana tan descalza
+
+Estrofa 2:
+(igual)
+Parvas denme tiempo para huír
+pues yo no vivo, ni consisto
+pues yo no vivo, ni consisto
+
+Puente: G C Cmaj7/9
+
+Solo:
+(sobre intro)
+
+Estrofa 3:
+(igual)
+Parvas, mi vida al fin dividiré
+cien para mi, cien para el aire
+
+Puente:
+(igual)
+
+Fin:
+(intro)

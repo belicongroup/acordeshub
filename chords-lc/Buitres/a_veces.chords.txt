@@ -1,0 +1,67 @@
+(Intro:
+A  F#m  Bm  D x2)
+
+A          F#m
+A veces puedo pensar
+Bm         D
+a veces pienso que no sé
+A            F#m
+si todo me sale mal
+Bm           D
+hay dias que todo esta bien
+A        F#m
+de nuevo otra vez
+Bm     D
+me callé
+A               F#m
+siento el ruido de la voz
+Bm      D
+de tu piel
+
+
+A  F#m  Bm  D x2
+Ah, ah, ah
+
+
+Mil noches sin entender
+mil noches sin tener noción
+no hay dios no hay revolución
+disparos ni canción
+esta bien voy a caer
+sólo yo
+no preguntes qué pasó,
+sólo vos y yo...
+
+(E Esus4 E Esus4 E x2 *)
+
+(Intro)
+
+La cara en el ventanal
+la cara que nadie miró
+los ojos y la pared
+dan vueltas alreves
+y no puedo ser amor
+¿donde estas?
+no preguntes que paso,
+sólo vos y yo...
+
+(E Esus4 E Esus4 E x2 *)
+
+A veces puedo pensar
+a veces pienso que no se
+si todo me sale mal
+hay dias que todo esta bien
+
+(Intro)
+
+
+--------------
+
+* No estoy seguro de cómo es el arreglo. Esto es tentativo:
+  E        Esus4 E      Esus4 E
+e:----------------------------0
+b:----------------------------0
+g:---1-1-1-2-1-----1-1-1-2-----
+d:-2-2-2-2-2---2-2-2-2-2-2-----
+a:2-------------2--------------
+E:----------------------------- x2

@@ -1,0 +1,54 @@
+INTRO: F#, D#m, B
+
+Synth y Eléctrica:
+Cuerdas (x2)
+1ra: 6.. 6, 4
+2da: 7
+3ra: 6
+
+1ra: 6-4, 6-4
+2da: 7
+
+ESTROFA:
+F#
+   Se escucha el sonido del cielo.
+D#m                           B
+   Escucha el estruendo de su voz,
+                D#m     (C#)
+enfermedades se sanan.
+F#
+   Un fuego que arde por dentro
+D#m                            B
+   me hace llorar, me haces temblar,
+                  D#m         C#
+Es el poder de tu gloria, ah, ah.
+
+CORO:
+F#            C#                     D#m                    B
+Sé que estás aquí, algo corre en mis venas, tu presencia me llena.
+F#         C#             D#m                B
+Tanta santidad me hace temblar, tengo que adorar.
+
+INTRO
+
+ESTROFA:
+F#
+   Un fuego que arde por dentro
+D#m                            B
+   me hace llorar, me haces temblar,
+                  D#m         C#
+Es el poder de tu gloria, ah, ah.
+
+CORO
+
+INTRO
+
+PUENTE:
+         D#m              B
+Puedo sentirte, quiero buscarte.
+            F#                    C#
+Yo sé que estás aquí, yo sé que estás aquí.
+
+CORO
+
+FINAL: Intro

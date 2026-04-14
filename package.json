@@ -6,7 +6,9 @@
     "build": "npm run build-index",
     "pack:pages": "node scripts/prepare-pages-dist.mjs",
     "build:pages": "npm run build && npm run pack:pages",
-    "deploy:pages": "npm run build:pages && wrangler pages deploy dist --project-name=acordeshub"
+    "deploy:pages": "npm run build:pages && wrangler pages deploy dist --project-name=acordeshub",
+    "dedupe-chords-sc": "node scripts/dedupe-chords-sc.mjs",
+    "dedupe-chords-sc:write": "node scripts/dedupe-chords-sc.mjs --write"
   },
   "devDependencies": {
     "wrangler": "^4.81.0"

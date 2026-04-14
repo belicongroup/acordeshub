@@ -1,0 +1,62 @@
+Definimos A5.. cuerda base 1 cuerdas x 0 2 2 0 0
+Definimos F#.... cuerda base 1 cuerdas 1 3 3 x x x
+Definimos Dsus2.. cuerda base 1 cuerdas x 0 0 2 3 0
+Definimos C5. cuerda base 3 cuerdas x 1 3 3 x x
+Definimos G5. cuerda base 3 cuerdas 1 3 3 x x 1
+Definimos F5. cuerda base 1 cuerdas 1 3 3 x x 1
+Definimos D5. cuerda base 5 cuerdas X 1 3 3 x 1
+Definimos B5. cuerda base 2 cuerdas X 1 3 3 x 1
+
+A5      F#
+  Si te vas
+A5
+  cruza la puerta
+                    F#
+  Y tira tus llaves al cerrar
+Dsus2
+  No pronuncies mi nombre
+F#
+  Apura tus pasos y no mire detrás
+Dsus2
+  No roces tu piel en mi carne
+F#
+  Ahoga mi sombra en mi oscuridad
+
+A5      F#
+  Si te vas
+A5
+  no lleves la luz de mi alba
+F#            C5
+  Mi búsqueda.......
+
+G5  F5         G5
+  Y al despertar
+F5        B5 F5  G5
+  acostúmbrame
+
+C5      D5
+  Si me lo pidieras
+G5        C5
+  Te daría el sol
+C5      D5          G5
+  Y que inunde mi dolor
+C5         F5      C5
+  Abrázame.........
+
+A5      F#
+  Si te vas
+A5
+  no uses aquellas palabras
+                  F#
+  que hablamos al sembrar
+Dsus2
+  Era para siempre
+F#                       Dsus2
+  ahora es para nunca mas
+F#           C5
+  Nunca mas........
+
+Lo corregi de nuevo porque el puente me sonaba raro
+al igual que el coro, pero parece que ya esta mejor
+www.desima.pablo.net.ar / pablo_desima@hotmail.com
+SALTA - ARGENTINA

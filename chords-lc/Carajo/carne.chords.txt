@@ -1,0 +1,143 @@
+|----------------------|
+| (*) Acorde especial: |
+|        G*    G5aug   |
+|    e|--x--|--x--     | (El acorde G* es una modificación del F#m
+|    B|--x--|--x--     | que puntea en la intro.
+|    G|--x--|--x--     | También se lo puede reemplazar por un G5aug)
+|    D|--1--|--5--     |
+|    A|--4--|--6--     |
+|    E|--3--|--3--     |
+|                      |
+|----------------------|
+
+
+[Intro]
+   C#                                   A
+e|-------------------------------------------------------------
+B|-------------------------------------------------------------
+G|-------------------------------------------------------------
+D|-3---3---3---3---3---3---3-4-3-------------------------------
+A|---4---4---4---4---4---4-------4---------4--6--4---------6---
+E|--------------------------------------5---------------5------
+
+   C#                                   F#m
+e|-------------------------------------------------------------
+B|-------------------------------------------------------------
+G|-------------------------------------------------------------
+D|-3---3---3---3---3---3---3-4-3--------------1------------1---
+A|---4---4---4---4---4---4-------4---------4-----4-------------
+E|--------------------------------------2---------------2------
+
+[Verso]
+C#
+    Farsa brutal
+A                      C#
+    Caprichosa en condenar
+                 F#m
+    La sangre inocente
+
+C#
+    Debilidad
+A                   C#
+    Que se fortalecera
+                      F#m    G*
+    En un consuelo de tontos
+G#5      A5  (B5  C#5  D#5  E5)
+    Haciendo escueeelaaaa
+
+--- (En parentesis están las notas de bajo,
+--- las pueden hacer con quintas para que suene como en la cancion)
+
+[Coro]
+C#
+    La carne
+A            A#m
+    La carne fue
+                       F#m
+    Quien nos arrastro al dolor
+
+[Puente]
+   C#   A   A#m   F#m
+
+[Verso]
+C#
+    Comodidad
+A                   C#
+    Es tan fácil adorar
+                   F#m
+    Sin dar nada a cambio
+
+C#
+    Fatalidad
+A                    C#
+    Su homicidio negara
+                      F#m    G*
+    Con sangre en las manos
+G#5           A5  (B5  C#5  D#5  E5)
+    Y huellas en el arma
+
+[Coro]
+C#
+    La carne
+A            A#m
+    La carne fue
+                       F#m
+    Quien nos arrastro al dolor
+C#
+    Y en carne
+A              A#m
+    Con sangre hoy
+                      F#m
+    Se paga el precio como consecuencia
+
+
+[Puente]
+   C#                              A#m             F#m
+e|-----------------------------------------------------------------
+B|-----------------------------------------------------------------
+G|---------------------------------33333333------------------------
+D|-33333333--------44444444------------------------4444444444444444
+A|---------44444444--------44444444--------44444444----------------
+E|-----------------------------------------------------------------
+--- (Serían las notas del bajo, pero quedan bien en guitarra)
+
+
+C#
+    Sombra y luz
+A
+    Mugre y altar
+A#m
+    En lo sagrado
+F#m
+    En lo mundano
+
+C#      A             A#m
+    Elegir,     confundir
+         F#m
+    Resistir...
+      C#        A
+    Y seguir...
+       A#m      F#m
+    Y seguir...
+
+[Coro]
+C#
+    La carne
+A            A#m
+    La carne fue
+                       F#m
+    Quien nos arrastro al dolor
+C#
+    Y en carne
+A              A#m
+    Con sangre hoy
+                      F#m
+    Se paga el precio como consecuencia...
+
+[Outro]
+   C#   A
+   C#   F#m
+
+(Se puede hacer el punteo del intro)
+
+ESPERO QUE LES GUSTE! AGUANTE CARAJO!

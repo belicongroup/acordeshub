@@ -1,0 +1,114 @@
+Hola, dejo otro viejito del primer disco, la afinación es en Eb, es decir
+Las cuerdas un semitono mas flojas que lo normal. Esta bueno y ya saben
+Cualquier cosa mi mail es alevoodoo@ovi.com
+
+Intro: A  F#  D  E x2 (segundo con riff)
+E---------------
+B---------------
+G---------------
+D---------2-----
+A---------0-----
+E---0-2-4-0-----
+
+A                    F#m                     D
+ Cuando estas junto a él, cuando estas junto él
+                E
+Cuando no me miras.
+
+A F#m D E x2 (segundo con riff)
+
+A               F#m                    D                  E
+Cuanto tiempo perdí, cuanto tiempo perdí sentado junto a ti
+
+A  F#  D  E x2 (segundo con riff)
+
+ESTRIBILLO
+A    C#m             F#m              Bm
+Uh...    el tiempo paso y me dijo que vos
+E               A   E
+  Ya no regresaras.
+A    C#m                 F#m                  Bm
+So... oy el que vive de ayer y por eso aquí estoy
+E                A  E
+ Esperando otra vez.
+
+A               F#m                    D                  E
+Cuanto tiempo perdí, cuanto tiempo perdí sentado junto a ti
+
+A  F#  D  E x2 (segundo con riff)
+
+A                   F#m                     D
+Cuando estas junto a él, cuando estas junto él
+                E
+Cuando no me miras.
+
+ESTRIBILLO
+A    C#m            F#m                Bm
+Uh...    el tiempo paso y me dijo que vos
+E               A   E
+  Ya no regresaras.
+A    C#m                 F#m                  Bm
+So... oy el que vive de ayer y por eso aquí estoy
+E                A  E
+ Esperando otra vez.
+
+SOLO (base de estribillo)
+E-------------------------------------------------
+B-------------------------------------------------
+G---16^-14p13h14--14-16-14-13~--13-13-14-13-11~---
+D-------------------------------------------------
+A-------------------------------------------------
+E-------------------------------------------------
+
+E------------------12-14/16-16^-/(14)p12h14~---
+B------------12-14-----------------------------
+G---11-13-14-----------------------------------
+D----------------------------------------------
+A----------------------------------------------
+E----------------------------------------------
+ En las comillas mantiene estirada 16 y rasguea las 2 cuerdas
+E---14h17p16p14h16p14p---14p----------------------------------------
+B---------------------17h---17p15p14h15p14p---------17-----------
+G------------------------------------------16p14h16^p14p---14~-
+D------------------------------------------------------------16h----
+A-------------------------------------------------------------------
+E-------------------------------------------------------------------
+                                       (Uh... el tiempo paso...
+E------14-17~-------------20^-20^-20-19-17~-17-19-17-16~-16-17-16-14~--
+B--/17------------------------------------------------------------------
+G--------------------14~------------------------------------------------
+D--------------14-16----------------------------------------------------
+A-----------------------------------------------------------------------
+E-----------------------------------------------------------------------
+
+E---17p14p---14p---------------------------------------------
+B---------17h---17p15p14h17-17p15p14h15p14p------------------
+G------------------------------------------16p14p---14h16~---
+D------------------------------------------------16h---------
+A------------------------------------------------------------
+E------------------------------------------------------------
+
+
+ESTRIBILLO
+A    C#m            F#m               Bm
+Uh...    el tiempo paso y me dijo que vos
+E               A   E
+  Ya no regresaras.
+A    C#m                 F#m                  Bm
+So... oy el que vive de ayer y por eso aquí estoy
+E                A   E
+ Esperando otra vez.
+A  C#m  F#m                      Bm  E                 A
+Uh...       ...Y por eso aquí estoy    esperando otra vez.
+
+
+
+Referencias:
+h: ligado ascendente
+p: ligado descendente
+^: estirar
+^r: estirar y volver
+~: vibrato
+/: Slide
+*: Armónico de púa
+: tremolo de púa

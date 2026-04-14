@@ -1,0 +1,68 @@
+--www.spinettachords.com.ar--
+
+Acordes:
+C/G: 332010
+G: 320033
+B7: x21202
+Em: 022000
+D: xx0232
+
+Intro:
+(cuenta con pequeñas variaciones sobre los acordes en todo el tema)
+   G         D      C
+e|-3-------------------|
+b|-3-3--1--1h3--3-3-1-3|
+g|-0---------2--2-2----|
+d|---------------------|
+a|---------------------|
+E|---------------------|
+
+Estrofa 1:
+(sobre riff de intro)
+Pasate un peine
+y usa la boina roja
+compra los diarios
+compra dulce de leche
+
+Verso:
+          C/G          G
+Toma el tren hacia el sur
+       B7         Em
+que allá te irá bien
+C/G       D     Em
+todos habrán volado
+C/G       D     Em
+todos habrán volado
+C/G       D      C/G
+todos habrán.. volado
+
+Repite intro
+
+Estrofa 2:
+(igual)
+Pasate un peine
+y usa la boina roja
+compra los diarios
+compra dulce de leche
+
+Verso:
+(igual)
+Toma el tren hacia el sur
+que allá te irá bien
+todos habrán volado
+todos habrán volado
+todos habrán.. volado
+
+1º solo sobre intro
+
+2º solo sobre:
+
+       D           G
+e|-------------|------|
+b|-------------|------|
+g|-------------|------|
+d|-------------|-5-5-5|
+A|0-2-3--3-4-5-|-5-5-5|
+E|-------------|-3-3-3|
+
+(fade out)

@@ -3,6 +3,7 @@ import { Chord, transpose } from "https://esm.sh/chord-transposer@3.0.9";
 const SONG_INDEX_URL = "../songs-index.json";
 
 const lyricsContent = document.getElementById("lyricsContent");
+const lyricsLoading = document.getElementById("lyricsLoading");
 const songTitle = document.getElementById("songTitle");
 const transposeControls = document.getElementById("transposeControls");
 const transposeActions = document.getElementById("transposeActions");
@@ -10,12 +11,21 @@ const controlsToggleBtn = document.getElementById("controlsToggleBtn");
 const transposeUpBtn = document.getElementById("transposeUpBtn");
 const transposeDownBtn = document.getElementById("transposeDownBtn");
 const notationToggleBtn = document.getElementById("notationToggleBtn");
+const ZOOM_STORAGE_KEY = "lyricsViewerZoom";
+const CONTROLS_TOP_STORAGE_KEY = "lyricsViewerControlsTop";
 
 let originalSongText = "";
 let currentTranspose = 0;
 let notationMode = "english";
 let songsCatalog = [];
 let songsById = new Map();
+let currentLyricsZoom = 1;
+let pinchStartDistance = null;
+let pinchStartZoom = 1;
+let controlsDragging = false;
+let controlsDragMoved = false;
+let controlsDragStartY = 0;
+let controlsDragStartTop = 0;
 const TOKEN_CANDIDATE_REGEX = /(^|[\s(])([^\s),.:;!?]+)(?=$|[\s),.:;!?])/g;
 const CHORD_SUFFIX_REGEX = /^(?:maj|min|dim|aug|sus|add|m|M|[0-9]|[#b]|[-+()]|\/)*$/i;
 const SOLFEGE_TO_ENGLISH_BASE = {
@@ -313,8 +323,50 @@ function updateTransposeMeta() {
   notationToggleBtn.setAttribute("aria-pressed", String(notationMode === "solfege"));
 }
 
-function renderCurrentSong() {
+function applyLyricsZoom(zoomLevel) {
+  const nextZoom = Math.min(1.5, Math.max(0.5, zoomLevel));
+  currentLyricsZoom = nextZoom;
+  document.documentElement.style.setProperty("--lyrics-zoom", String(nextZoom));
+  window.localStorage.setItem(ZOOM_STORAGE_KEY, String(nextZoom));
+}
+
+function touchDistance(touchA, touchB) {
+  const deltaX = touchA.clientX - touchB.clientX;
+  const deltaY = touchA.clientY - touchB.clientY;
+  return Math.hypot(deltaX, deltaY);
+}
+
+function clampControlsTop(nextTop) {
+  const margin = 8;
+  const controlsHeight = transposeControls.offsetHeight || 0;
+  const minTop = margin;
+  const maxTop = Math.max(minTop, window.innerHeight - controlsHeight - margin);
+  return Math.min(Math.max(nextTop, minTop), maxTop);
+}
+
+function setControlsTop(nextTop, persist = true) {
+  const clamped = clampControlsTop(nextTop);
+  transposeControls.style.top = `${clamped}px`;
+  if (persist) {
+    window.localStorage.setItem(CONTROLS_TOP_STORAGE_KEY, String(clamped));
+  }
+}
+
+function centerControlsTop(persist = false) {
+  const controlsHeight = transposeControls.offsetHeight || 0;
+  const centeredTop = (window.innerHeight - controlsHeight) / 2;
+  setControlsTop(centeredTop, persist);
+}
+
+function setLoadingState(isLoading) {
+  lyricsLoading.classList.toggle("is-active", isLoading);
+}
+
+function renderCurrentSong(onRendered) {
   if (!originalSongText) {
+    if (typeof onRendered === "function") {
+      onRendered();
+    }
     return;
   }
 
@@ -328,6 +380,9 @@ function renderCurrentSong() {
   window.setTimeout(() => {
     lyricsContent.innerHTML = renderStyledSong(displayText);
     lyricsContent.classList.remove("is-transposing");
+    if (typeof onRendered === "function") {
+      onRendered();
+    }
   }, 80);
 
   updateTransposeMeta();
@@ -337,7 +392,8 @@ async function loadSong(songId) {
   const selectedSong = songId ? songsById.get(songId) : null;
   if (!selectedSong) {
     songTitle.textContent = "Select a song";
-    lyricsContent.textContent = "Open the search dashboard and choose a song.";
+    lyricsContent.textContent = "";
+    setLoadingState(false);
     originalSongText = "";
     currentTranspose = 0;
     updateTransposeMeta();
@@ -345,7 +401,7 @@ async function loadSong(songId) {
   }
 
   songTitle.textContent = `${selectedSong.title} - ${selectedSong.artist}`;
-  lyricsContent.textContent = "Loading...";
+  setLoadingState(true);
 
   try {
     const response = await fetch(`../${selectedSong.path}`);
@@ -355,8 +411,9 @@ async function loadSong(songId) {
 
     originalSongText = await response.text();
     currentTranspose = 0;
-    renderCurrentSong();
+    renderCurrentSong(() => setLoadingState(false));
   } catch (error) {
+    setLoadingState(false);
     lyricsContent.textContent =
       "Could not load the file.\n\nRun this through a local server (not file://).\n\nExample:\npython3 -m http.server";
     originalSongText = "";
@@ -400,11 +457,84 @@ notationToggleBtn.addEventListener("click", () => {
 });
 
 controlsToggleBtn.addEventListener("click", () => {
+  if (controlsDragMoved) {
+    controlsDragMoved = false;
+    return;
+  }
   const collapsed = transposeControls.classList.toggle("is-collapsed");
   transposeActions.setAttribute("aria-hidden", String(collapsed));
   controlsToggleBtn.setAttribute("aria-expanded", String(!collapsed));
   controlsToggleBtn.textContent = collapsed ? "❮" : "❯";
 });
+
+controlsToggleBtn.addEventListener("pointerdown", (event) => {
+  controlsDragging = true;
+  controlsDragMoved = false;
+  controlsDragStartY = event.clientY;
+  controlsDragStartTop = transposeControls.offsetTop;
+  controlsToggleBtn.setPointerCapture(event.pointerId);
+});
+
+controlsToggleBtn.addEventListener("pointermove", (event) => {
+  if (!controlsDragging) {
+    return;
+  }
+  const deltaY = event.clientY - controlsDragStartY;
+  if (Math.abs(deltaY) > 2) {
+    controlsDragMoved = true;
+  }
+  setControlsTop(controlsDragStartTop + deltaY, false);
+});
+
+const endControlsDrag = (event) => {
+  if (!controlsDragging) {
+    return;
+  }
+  controlsDragging = false;
+  controlsToggleBtn.releasePointerCapture(event.pointerId);
+  setControlsTop(transposeControls.offsetTop, true);
+};
+
+controlsToggleBtn.addEventListener("pointerup", endControlsDrag);
+controlsToggleBtn.addEventListener("pointercancel", endControlsDrag);
+
+lyricsContent.addEventListener(
+  "touchstart",
+  (event) => {
+    if (event.touches.length !== 2) {
+      pinchStartDistance = null;
+      return;
+    }
+    pinchStartDistance = touchDistance(event.touches[0], event.touches[1]);
+    pinchStartZoom = currentLyricsZoom;
+  },
+  { passive: true }
+);
+
+lyricsContent.addEventListener(
+  "touchmove",
+  (event) => {
+    if (event.touches.length !== 2 || !pinchStartDistance) {
+      return;
+    }
+    const nextDistance = touchDistance(event.touches[0], event.touches[1]);
+    if (!nextDistance) {
+      return;
+    }
+    const scale = nextDistance / pinchStartDistance;
+    applyLyricsZoom(pinchStartZoom * scale);
+    event.preventDefault();
+  },
+  { passive: false }
+);
+
+lyricsContent.addEventListener(
+  "touchend",
+  () => {
+    pinchStartDistance = null;
+  },
+  { passive: true }
+);
 
 // Expose requested API functions for external use/testing.
 window.transposeUp = transposeUp;
@@ -419,10 +549,31 @@ async function loadCatalog() {
     songsCatalog = await response.json();
     songsById = new Map(songsCatalog.map((song) => [song.id, song]));
   } catch (_error) {
+    setLoadingState(false);
     lyricsContent.textContent = "Song index failed to load. Regenerate songs-index.json and retry.";
   }
 }
 
+setLoadingState(true);
 updateTransposeMeta();
+const savedControlsTop = Number(window.localStorage.getItem(CONTROLS_TOP_STORAGE_KEY));
+if (Number.isFinite(savedControlsTop)) {
+  setControlsTop(savedControlsTop, false);
+} else {
+  centerControlsTop(false);
+}
+const savedZoom = Number(window.localStorage.getItem(ZOOM_STORAGE_KEY));
+if (Number.isFinite(savedZoom)) {
+  applyLyricsZoom(savedZoom);
+}
+
+window.addEventListener("resize", () => {
+  const hasSavedControlsTop = Number.isFinite(Number(window.localStorage.getItem(CONTROLS_TOP_STORAGE_KEY)));
+  if (hasSavedControlsTop) {
+    setControlsTop(transposeControls.offsetTop, false);
+    return;
+  }
+  centerControlsTop(false);
+});
 await loadCatalog();
-loadSong(currentSongFromHash());
+await loadSong(currentSongFromHash());

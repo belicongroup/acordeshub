@@ -1,0 +1,100 @@
+Los acordes los he sacado de este vídeo en el que aparecen tocando
+la canción en directo y en acústico: www.youtube.com/watch?v=nMVnyHbWBYc
+
+La guitarra es de 12 cuerdas, así que el riff principal suena un poco más
+grave en una guitarra normal, ya que no llega a tonos tan agudos. Sería una
+cosa así (va bastante rápido):
+
+CEJILLA TRASTE 5
+
+ Am         C/G     G6
+e----------|-------|-------
+B-----1----|----1--|---0---
+G-2-2--2-2-|---0-0-|----0--
+D-2-2---2--|-2-----|-0---0-
+A-0-0------|-3-----|-2-----
+E----------|-3-----|-3-----
+
+
+Si preferís ir a lo fácil, aquí os dejo la letra con los acordes (los más raros
+están explicados al final, para que no haya confusión):
+
+Am   C/G        G6       Am  C/G
+Uhhhh, ¿dónde está el amor
+     G6       Am  C/G
+y su destrucción?
+         G6      C/G
+¿Dónde está la euforia?
+         G            Am  C/G
+¿Dónde está la depresión?
+          G6        Am  C/G
+¿Dónde está el control
+         G6      Am  C/G
+de nuestros sentidos,
+     G6   C/G         G          Am  C/G  G6
+de cada latido, de cada respiración?
+
+Am  C/G       G6    Am
+Uhhhh, ¿dónde nace la adicción?
+G6           Dm              G          Am
+  En los laberintos de nuestra imaginación.
+
+Em             G             F         Am (G)→ nexo para unir Am y Em
+  Medio deslumbrados, medio visionarios,
+Em            G        F           Am (G)
+  bajo la bandera del ahora o nunca.
+F            G          F           Am
+ No hay respuesta para tus preguntas,
+F     G           F
+ solo un inmenso mar de dudas.
+
+Am   C/G      G6      Am    C/G
+Uhhhh, ¿dónde ruge el animal
+    G6       Am  C/G
+que mantiene vivo
+          G6   F      G6      Am  C/G
+lo que un día fuimos?  Oh oh oh
+         G6      Am     C/G
+¿Dónde está el amor real?
+         G6      Am
+¿Dónde está el amor?
+G6           Dm              G          Am
+  En los laberintos de nuestra imaginación.
+G            Dm              G
+  En los laberintos de nuestra imaginación.
+
+[Am Asus2] [G6 G*] [C] [G6] → todo esto x2
+
+Aquí me he basado en la versión del disco, y no en el directo.
+Cada grupo de acordes (entre corchetes) se hace tocando una
+vez en ritmo principal de la canción. Tenéis que imaginar que
+suena el riff pre-estribrillo de la guitarra, y ya veréis
+como concuerdan los acordes.
+
+Em              G            F        Am
+  Si estamos dormidos o estamos sedados,
+Em                     G            F           Am
+  si somos muertos vivientes o tan solo esclavos.
+F             G           F          Am
+ Y no hay respuesta para tus preguntas,
+F         G          F
+ solo un turbulento mar de dudas
+
+Am  C/G          G6     Am     C/G
+Uhhhh, ¿dónde está el amor real?
+     G6          Am
+¿Dónde está el amor?
+G6            Am             G6         Am
+  En los laberintos de nuestra imaginación.
+G6            Am             G6         Am
+  En los laberintos de nuestra imaginación.
+
+
+GLOSARIO DE ACORDES
+G6 → 320000 (Como G pero solo tapando las dos últimas cuerdas)
+C/G → 332010 (Como C pero tapando la 6ª cuerda en el traste 3)
+G* → 320200 (Este me lo he inventado yo porque sonaba bien)
+Asus2 → x02200
+
+Para cualquier duda o corrección, mi dirección de correo es:
+nestorhernandez-2000@hotmail.com

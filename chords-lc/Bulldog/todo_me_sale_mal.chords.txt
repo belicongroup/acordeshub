@@ -1,0 +1,104 @@
+INTRO: A C#-E    ]
+       F# C#     ] x
+       D  C#     ] 2
+       D E-F# E  ]
+
+
+A                    C#
+Veo que en el fondo pienso diferente
+      D                  B          C# B
+a lo que se denomina el común de la gente.
+A            C#
+Al lado mío pasan muchas cosas,
+     D               B         C# B
+pero lo que me rodea es indiferente.
+
+
+E           D  C#  D
+Nadie me escu-u-u-cha,
+E           D   C#  D
+nadie me entie-e-e-nde,
+C#                  D
+todo lo que hago y todo lo que digo,
+       C#           E F#  E
+es que todo a mi me sale mal.
+
+
+INTRO x1
+
+
+A            C#
+De esta vida si algo he aprendido
+D              B       C# B
+es que todo va y todo vuelve.
+A                 C#
+Sentimientos, ¿a quién no le ha tocado?
+D             B       C# B
+Si yo ya deje y fui dejado.
+
+
+E           D  C#  D
+Nadie me escu-u-u-cha,
+E           D   C#  D
+nadie me entie-e-e-nde,
+C#                  D
+todo lo que hago y todo lo que digo,
+       C#           E F#  E
+es que todo a mi me sale mal.
+
+
+PUENTE: A B-C#-F#
+        D E
+        C# F# E
+        D C
+
+
+A                   C#
+Pero lo que arruina no es la rutina,
+       D                    B         C# B
+es no hacer lo que querés, que te alimente.
+A               C#
+Tranqui, amigo, no es el fin del mundo,
+      D                    B           C# B
+sólo tienes que encontrar quien te comprende.
+
+
+E           D  C#  D
+Nadie me escu-u-u-cha,
+E           D   C#  D
+nadie me entie-e-e-nde
+C#                  D
+Todo lo que hago y todo lo que digo,
+       C#           E F#  E
+es que todo a mi me sale mal.
+
+
+FINAL: A C#-E
+       F# C#
+       D  C#
+       D E-F# E
+       A
+
+
+
+
+
+ --------------
+|Acordes usados|
+ --------------
+
+   A5           C#5          E5            F#5            D5
+e|-----|     e|-----|     e|-----|     e|--------|     e|-----|
+B|-----|     B|-----|     B|-----|     B|--------|     B|-----|
+G|-----|     G|--6--|     G|--9--|     G|-----11-|     G|--7--|
+D|--7--|     D|--6--|     D|--9--|     D|-4-ó-11-|     D|--7--|
+A|--7--|     A|--4--|     A|--7--|     A|-4---9--|     A|--5--|
+E|--5--|     E|-----|     E|-----|     E|-2------|     E|-----|
+
+   B5
+e|-----|
+B|-----|
+G|-----|
+D|--9--|
+A|--9--|
+E|--7--|

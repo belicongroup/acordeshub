@@ -1,0 +1,208 @@
+____ acordes _____
+|                |
+| D:     000232  |
+| Dsus:  000233  |
+| A:     002220  |
+| Em:    022000  |
+| Bm:    224432  |
+| G:     320003  |
+| A#m:   113321  |
+| F#:    244322  |
+| Gm:    355333  |
+| Bmsus2:224422  |
+|________________|
+
+
+[intro]: (x3)
+  D   D     Dsus Dsus Dsus
+
+
+    D       D        Dsus  Dsus  Dsus D
+E-||----------------|----7-----------|---...
+B-||-----------5sssss7----7-5h7-5---5|---...
+G-||----------------|-------------7--|7--...
+D-||----------------|----------------|---...
+A-||----------------|----------------|---...
+E-||----------------|----------------|---...
+
+
+    D           A
+El largo túnel terminó,
+    E                Bm
+la luz me dió la certeza
+  G             D
+Me encontré diciendo: "Adiós,
+ A      A#m         Bm     Bm Bmsus2 Bm
+hasta siempre, tristeza."
+
+     D             A
+Sequé el consejo que me dió
+E               Bm
+una vieja hechicera:
+     G          D
+"Pregúntale al corazón,
+A        A#m       Bm       (A)
+él te dará la respuesta."
+
+
+G                 D
+El cielo está de color vino,
+A               Em
+nos da vueltas la cabeza,
+G              D
+soñamos pero presentimos
+         A       A#m     Bm    (A)
+que el amor nos mira de cerca
+
+G                 D
+El cielo está de color vino
+F#             Bm
+y lentamente llena
+G                 D
+de dulce lluvia nuestras copas,
+ A   A#m       Bm       G  Gm
+¡ojalá no anochezca!
+
+
+[intro] (x2)
+
+
+D           A
+Es hermoso contemplar
+     E              Bm
+el fuego de la contienda
+  G            D
+Me he rendido sin luchar
+    A       A#m        Bm    Bm Bmsus2 Bm
+y no he perdido esta guerra
+
+    D             A
+Lo mismo que me oyes cantar,
+ E              Bm
+ya lo dijo el poeta,
+G             D
+escribiendo que amar
+        A       A#m        Bm      (A)
+es un viaje con agua y estrellas
+
+
+G                 D
+El cielo está de color vino,
+A               Em
+nos da vueltas la cabeza,
+G              D
+soñamos pero presentimos
+         A       A#m     Bm
+que el amor nos mira de cerca
+
+G                 D
+El cielo está de color vino
+F#             Bm
+y lentamente llena
+G                 D
+de dulce lluvia nuestras copas,
+ A   A#m       Bm       G  Gm
+¡ojalá no anochezca!
+
+
+(x2)
+  D   D     Dsus Dsus Dsus
+
+
+    Bm                                 G
+Oh, antes de que llegue aquí esa estampida
+     D                           F#
+de sueños imposibles y de oscuridad
+    G                 Gm                D
+huiremos hacia donde siempre está encendida
+     Em                     (D) G     A
+la llama que nos calma la ansiedad
+
+
+[solo]:
+    ...A             D                      A
+E-||...-------------|---------------------|----------------|
+B-||...-------------|---------------------|-----------7-8-7|
+G-||...--------7-9-7|9sss11-9s11-9s11-9s11|9-------9-------|
+D-||...----5s7------|---------------------|----------------|
+A-||...-------------|---------------------|----------------|
+E-||...-------------|---------------------|----------------|
+
+    Em               Bm                    G
+E-||----------------|------------------|-----------------------|
+B-||8s7-------------|------------------|------12-10s12s10s12s10|
+G-||----9-7-------7-|------------7-9-7-|9s11-------------------|
+D-||--------9-7-9---|9------7s9--------|-----------------------|
+A-||----------------|------------------|-----------------------|
+E-||----------------|------------------|-----------------------|
+
+    D                A        A#m       Bm
+E-||----------------|------------------|-------------10-12-10-|
+B-||----------------|-10--10---11--11--|12-----10s12----------|
+G-||7---------------|----9-------10----|----------------------|
+D-||----------------|------------------|----------------------|
+A-||----------------|------------------|----------------------|
+E-||----------------|------------------|----------------------|
+
+    D                         A
+E-||12s14--12h14-12h14-12h14-|12-----12h14-14h15|
+B-||-------------------------|------------------|
+G-||-------------------------|------------------|
+D-||-------------------------|------------------|
+A-||-------------------------|------------------|
+E-||-------------------------|------------------|
+
+    Em                     Bm                  G
+E-||15--------14-----12--|-----------10-12-10|12s14--17--12h14-12-14-12|
+B-||-----12-----10-----15|12---10h12---------|-------------------------|
+G-||-------14-----12-----|-------------------|-------------------------|
+D-||---------------------|-------------------|-------------------------|
+A-||---------------------|-------------------|-------------------------|
+E-||---------------------|-------------------|-------------------------|
+
+
+    D                A              A#m       Bm
+E-||----------------|------------------------|----------------------|
+B-||15--------------|-10h12-10---------------|----------------------|
+G-||----------------|----------11-9----------|----------------------|
+D-||----------------|---------------12-9-12--|9---------------------|
+A-||----------------|------------------------|-------9ssssssssssss2-|
+E-||----------------|------------------------|----------------------|
+
+
+
+
+
+
+G                 D
+El cielo está de color vino,
+A               Em
+nos da vueltas la cabeza,
+G              D
+soñamos pero presentimos
+         A       A#m     Bm
+que el amor nos mira de cerca
+
+G                 D
+El cielo está de color vino
+F#             Bm
+y lentamente llena
+G                 D
+de dulce lluvia nuestras copas,
+ A   A#m       Bm       G  Gm
+¡ojalá no anochezca!
+
+
+
+[outtro]: (x2)
+  D   D     Dsus Dsus Dsus
+
+
+
+
+
+###------------------------------###
+### Tablatura de: Enrique Moraño ###
+### Sevilla [Spain]     DIC-2007 ###
+###      emorano@hotmail.com     ###
+###------------------------------###

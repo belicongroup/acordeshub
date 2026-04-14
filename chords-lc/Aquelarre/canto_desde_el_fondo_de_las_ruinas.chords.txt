@@ -1,0 +1,114 @@
+Tono: Mi menor
+Afinación: Estándar
+
+ACLARACIONES:
+* El riff principal es el A. El B y el C son versiones cortas del A;
+los nombré distinto para facilitar la lectura.
+* La guitarra hace lo mismo en todos los versos y estribillos,
+por lo que sólo tabulé el primer verso y el primer estribillo.
+* El cambio A-Asus4-A es muy rápido. Escuchen el tema y van a ver
+como es.
+
+Intro: Riff A (x4)
+
+
+RiffB         D      C
+Desde el fondo de las ruinas
+
+B      A-Asus4-A  G      F#
+hay una voz que grita y grita.
+
+
+RiffB   D     C
+Camino, camino lento
+
+B       A-Asus4-A
+y en el cuerpo quiero
+
+G           F#
+escuchar un negro.
+
+
+A5  G5            F#5 E5
+No no puede ser.
+A5   G5            F#5  E5
+No, no puedo ver,
+A5   G5            F#5 E5
+no, no, no, no.
+
+SUBIDA
+
+Desde el fondo de las ruinas
+hay una voz que grita y grita.
+Miren qué pequeñas caras tristes
+tienen miedo a la pantera
+No, no puede ser
+No, no puedo ver,
+no, no, no, no.
+
+SUBIDA
+
+Riff A (x4)
+
+SOLO: Em - D - A - G
+
+No, no puede ser,
+No, no puede ser,
+No, no puede ser!
+
+SUBIDA
+
+Riff A (x4)
+
+Hoy llueven brazos pintados
+desde el cielo a todas horas.
+Desde el fondo de las ruinas
+hay una voz que grita y grita.
+No, no puede ser,
+No, no puedo ser,
+No, no puede ser!
+
+Riff A(x3)
+Riff C
+
+FIN
+
+
+Riff A:
+
+E ||---------------------------------------------------------------------||
+B ||---------------------------------------------------------------------||
+G ||---------------------------------------------------------------------||
+D ||------------5----7-----5-4-5------5-------5-------2------------------||
+A ||---7------7---------------------5-------3------2------2---4---5--6---||
+E ||-------7-------------------------------------------------------------||
+
+
+Riff B:
+
+(Ligeramente muteado)
+E ||-------------------------------||
+B ||-------------------------------||
+G ||-------------------------------||
+D ||------------5----7-----5-4-5---||
+A ||---7------7--------------------||
+E ||-------7-----------------------||
+
+Riff C:
+
+E ||--------------------------------------------------------||
+B ||--------------------------------------------------------||
+G ||--------------------------------------------------------||
+D ||------------5----7-----5-4-5------5-------5-------------||
+A ||---7------7---------------------5-------3------2~~------||
+E ||-------7------------------------------------------------||
+
+
+Subida (teclado):
+
+E ||-------------------------------||
+B ||-------------------------------||
+G ||-------------------------------||
+D ||---2-3-4-5-6-7-----------------||
+A ||-------------------------------||
+E ||-------------------------------||

@@ -1,0 +1,47 @@
+Tono: B
+Bpm: 138
+Compas: 4/4
+Intro: G#m - E - B - F# X2 BANDA COMPLETA (4 tiempos c/u)
+
+
+Estrofa: Baja intensidad (4 tiempos cada acorde)
+G#m           E       B     B
+Con amor compraste mi maldad
+     G#m        E       B     B
+despojándote de toda majestad
+
+Pre-Coro:
+C#m              E          B/D#
+me amaste aunque no lo merecí
+C#m            E             B/D#
+cual infinito es tu amor por mi
+
+CORO: X2 PIANO PAD / DINAMICA SUPER DELICADA (8 tiempos cada acorde)
+B
+Dios soberano eres Dios
+G#m
+    de la tierra eres Dios
+F#
+    quien es, quien fue y quien sera
+E
+el Rey que pronto volverá
+
+INTRO X2
+ESTROFA
+PRE-CORO
+CORO [Drums con ritmo] x2
+luego del ultimo coro se cae en B y se baja la dinámica y silencio
+
+Puente x4: a dos voces (8 tiempos cada acorde)
+         B
+eres Dios (de la tierra)
+         F#
+eres Dios (de los cielos)
+         G#m
+eres Dios (del universo)
+         E
+eres Dios (eres Dios)
+
+Coro final delicado: Piano + Bass + Guitarra Arp - Drums matizar
+Acordes por: Cristopher Cordero
+Iglesia Cristiana Aguilas Doradas- Guayaquil-Ecuador

@@ -1,0 +1,77 @@
+4to Traste
+Notas:
+Definimos C/B. cuerda base 1 cuerdas 0 3 2 0 0 0
+Definimos A5.. cuerda base 1 cuerdas x 0 2 2 0 0
+Definimos G1.. cuerda base 1 cuerdas 3 2 0 0 0 0
+Definimos G... cuerda base 1 cuerdas 3 2 0 0 0 3
+Definimos D... cuerda base 1 cuerdas X 0 0 2 3 0
+
+Intro: C/B A5 C/B A5 G1 A5 C/B
+
+C/B         A5
+ay!, sus palabras
+ay!, mi esperanza
+G1
+muéstrame mis dudas
+  A5             C/B
+enséñame a desconocer...
+
+C/B        A5
+ay!, cada paso
+ay!, desamparos
+G1
+avísame si atacan
+  A5           C/B
+enséñame a proteger
+
+G                         D                      C/B
+invítame a vivir en lo profundo de mi ocaso... me elevaré!
+A5
+(soy un pasajero en extinción...)
+G                         D                      C/B      A5 C/B
+invítame a sentir en lo profundo de mi ocaso y me elevaré!
+
+C/B                    A5
+un brujo infértil derramó su lealtad
+C/B                  A5
+la ouija muda acompañó su impiedad
+G1
+avísame si atacan
+A5              C/B
+enséñame su desnudez
+
+G                         D                      C/B
+invítame a vivir en lo profundo del ocaso... estallaré
+A5
+(soy un pasajero en extinción)
+G                         D                      C/B
+invítame a vivir en lo profundo de mi ocaso... estallaré
+A5
+(soy un pasajero en extinción)
+G       D        C/B
+busqué... busqué
+A5
+soy un pasajero en extinción!
+G       D        C/B  A5
+busqué... busqué
+
+SOLO: C/B A5 C/B A5 G1 A5 C/B
+
+C/B                A5
+(algo de lo visto implora mis oídos, algo de lo usado viaja a mi lado)
+   las palabras nacieron sin correr!
+C/B                A5
+(algo de lo visto implora mis oídos, algo de lo usado viaja...)
+   un ángel ciego cansado de morder...
+G1         A5             C/B   A5
+mi cielo... un cielo de papel
+
+G     D      C/B     A5
+G     D      C/B     A5
+busqué...
+G           D       C/B
+y la imágen sola...
+
+Me lo remplazaron, pero ahora le puse unas correcciones
+www.desima.pablo.net.ar / pablo_desima@hotmail.com
+SALTA - ARGENTINA

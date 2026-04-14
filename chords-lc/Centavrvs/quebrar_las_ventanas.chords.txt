@@ -1,0 +1,158 @@
+Cm1:E8 A8 D10 G8 B8 e8
+Cm2:E8 A10 D8 G8 B8 e8
+Dm1:E10 A10 D12 G10 B10 e10
+Dm2:E10 A12 D10 G10 B10 e10
+
+En el solo final difícilmente me acerque a las notas originales
+así que les recomiendo improvisar ;)
+
+INTRO
+Gm F
+
+Riff
+e |-13-10---10---10---10-13-10---10---10---10-|
+B |-11-11---11---11---11-11-11---11---11---11-|
+G |-10-12---12---12---12-10-12---12---12---12-|
+
+Gm                   F           Gm
+Nadie más vendrá a decir donde movernos
+Gm                  F               Gm
+Es mejor bailar saltar, vencer al miedo
+Gm                F           Gm
+Nadie más controlará mi pensamiento
+Gm                     F            Gm
+La regla es amar, ser libre sin un precio
+
+Cm1
+SI LA fuerza está
+Cm2
+Entre tú y yo
+Dm1              Dm2
+Debemos quebrar las ventanas hoy
+
+Gm              F           Gm
+Nadie más decidirá como te quiero
+Gm                F               Gm
+Nada detendrá mi amor, por ti yo muero
+Gm               F                 Gm
+Aceleración, un pulso incendia el reino
+Gm                     F            Gm
+La regla es amar, ser libre sin un precio
+
+Cm1
+SI LA fuerza está
+Cm2
+Entre tú y yo
+Dm1              Dm2
+Debemos quebrar las ventanas hoy
+
+B |---------------------------8-|
+G |--------7----------------7---|
+D |-----8--------8----8---8-----|
+A |-10--------10---10---8-------|
+
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm          A#       Cm         Dm
+La noche es tuya y rebelde, mi amor
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm       A#        Cm        Dm
+Mi libertad con la tuya es mejor
+
+Gm                   F           Gm
+Nadie más vendrá a decir donde movernos
+Gm                F           Gm
+Nadie más controlará mi pensamiento
+Gm               F                 Gm
+Aceleración, un pulso incendia el reino
+Gm                     F            Gm
+La regla es amar, ser libre sin un precio
+
+Cm1
+SI LA fuerza está
+Cm2
+Entre tú y yo
+Dm1              Dm2
+Debemos quebrar las ventanas hoy
+
+B |---------------------------8-|
+G |--------7----------------7---|
+D |-----8--------8----8---8-----|
+A |-10--------10---10---8-------|
+
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm          A#       Cm         Dm
+La noche es tuya y rebelde, mi amor
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm       A#        Cm        Dm
+Mi libertad con la tuya es mejor
+
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm          A#       Cm         Dm
+La noche es tuya y rebelde, mi amor
+Gm     A#       Cm        Dm
+Desnudamé a la orilla del sol
+Gm       A#        Cm        Dm
+Mi libertad con la tuya es mejor
+
+FINAL
+(Gm F x3 Cm Dm)X2
+
+          Gm                      F     X3
+e |-----10---10-----10-|-----8---8-----8-|
+B |---8-----------8----|---6---------6---|
+G |-7------7----7------|-7-----7---7-----|
+          Cm                Dm
+e |-----5---5-----5-|-----6---6-----6-|
+B |---8---------8---|---8---------8---|
+G |-7-----7---7-----|-7-----7---7-----|
+
+    Gm      F      Gm   F
+e |------------------------------------------|
+B |------------------------------------------|
+G |--------3h5(X3)---------------------------|
+D |-5h3h5----------3/5--------------10-12-13-|
+A |------------------------10-12-13----------|
+E |---------------------13-------------------|
+
+    Gm          F
+e |-----------------------------------|
+B |------------8-10-11--11-10h11-10-8-|
+G |10h12h10h12------------------------|
+D |-----------------------------------|
+A |-----------------------------------|
+E |-----------------------------------|
+
+    Gm                  F                      Gm                   F
+e |--------------------------------------------------------------------|
+B |--------------------------------------------------------------------|
+G |10-------------------------------------------10---------------------|
+D |---8h10h12h8h10h12h8h10h12h10h12h10h12h10h12----8h10h12-10-8h10h8---|
+A |-----------------------------------------------------------------10-|
+E |--------------------------------------------------------------------|
+
+      Gm            F  Gm                          F
+e |-------------------------------------------------------|
+B |--------------------8-10-11-10p-11-11/13p-11-13-15-13p-|
+G |---10--10--10-12-14------------------------------------|
+D |-12--12--12--------------------------------------------|
+A |-------------------------------------------------------|
+E |-------------------------------------------------------|
+
+    Gm  F  Gm                                 F
+e |-15/10p----------------------------------------------------------------|
+B |-----------11-13-15-13-11----11-13-15-13-11----11-13-15-13-11----11-13-|
+G |--------12----------------12----------------12----------------12-------|
+D |-----------------------------------------------------------------------|
+A |-----------------------------------------------------------------------|
+E |-----------------------------------------------------------------------|
+
+   Gm........
+e |13pppp-|
+B |12pppp-|
+G |-------|
+D |-------|

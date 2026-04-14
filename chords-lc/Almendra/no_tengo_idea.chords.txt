@@ -1,0 +1,50 @@
+Acordes:
+A: 577655
+D7: x57575
+E: 022100
+A6: x02222
+
+ Intro:
+     Fill                   Riff
+e|-----------||--------------------------------|---------|--||---||
+b|-----------||--------------------------------|---------|--||---||
+g|-----------||--------------------------------|---------|x2||---||
+d|---------7-||--------------------------------|-5---5--7|--||-5-||
+a|---------7-||-------3--5-5-5-3----------3h4p3|-5---5--7|--||-5-||
+E|3h5--3v--5-||-3h5-5------------5--3-4-5------|-3h5-3--5|--||-3-||
+
+Estrofa 1:
+A
+Si el cielo me envuelve
+                           (fill+riff)
+yo se que nada me va a pasar
+D7
+pues el cielo inocente
+                     A
+y no me podrá apresar
+   E               D7
+pero inocentemente
+                    A    E
+me lo empecé a tragar
+
+Estrofa 2:
+(igual)
+Vertientes que empiezan
+en mí jamás van a terminar
+dando la vuelta al mundo
+volando en una mosca infernal
+y yo necesitando
+que empujen un poco más.
+
+Estrofa 3:
+(igual)
+Verás lo que presiento,
+verás donde vamos a llegar,
+ya no espera nadie
+pensando en lo que pueda pasar,
+pero eso es imposible,
+yo recién empece a respirar
+
+Solo sobre: A D7 A E D7 A E
+
+Fin: A6

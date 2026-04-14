@@ -1,0 +1,73 @@
+--www.spinettachords.com.ar--
+
+Acordes:
+G: 320003
+F: 133211
+E: 022100
+C: x32010
+Am: x02210
+Dm: xx0231
+Bb: x13331
+
+Intro:
+e|----------------|----------------|-------------------------|
+b|----------------|----------------|-------------------------|
+g|----------------|----------------|-------------------------|
+d|----------------|----------------|----------1-3--1---------|
+a|------1--1------|------1--1------|------1-3--------3-1-----|
+E|-1--4------4-1--|-1--4------4-1--|-1--4-----------------4-1|
+
+Estrofa 1:
+(sobre riff de intro)
+Otra vez, otra vez
+Otra vez te encuentro
+Otra vez, otra vez
+Otra vez te encuentro
+
+Verso:
+   G
+Te encuentro con tu madre,
+       F      E
+por la vereda azul
+C         F
+Miles de palabras
+C         G
+se cruzan atrás
+C         F        Dm  Bb Am F
+Cada vida tiene su formaa-aa-aa
+
+Verso:
+C  F     G     Am
+Para qué vas a ver
+      Bb     F  C
+si un pájaro te sostiene
+C  F     G     Am
+Para qué vas a ver
+      Bb     F  C
+si un pájaro te sostiene
+C  F     G     Am
+Para qué vas a ver
+      Bb     F  C
+si un pájaro te sostiene
+
+Puente:
+  (N/C)          Am    G
+Cada vez que tú no estás
+F          Em            Dm
+ah, la música parece que muriera,
+    C
+un poco más
+  (N/C)          Am    G
+Cada vez que tú no estás
+F          Em            Dm
+ah, la música parece que muriera,
+    C
+un poco más
+  (N/C)          Am    G
+Cada vez que tú no estás
+F          Em            Dm
+ah, la música parece que muriera,
+    C
+un poco más
+
+Fin: Riff intro (x2)

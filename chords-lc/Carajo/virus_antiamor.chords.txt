@@ -1,0 +1,110 @@
+Virus Anti-Amor
+
+Intro
+e|-------7b8b7----------------------------------|
+B|----8v------8-8b9b8---------------------------|
+G|--9-----------------5b7b5b7-5b7b5b7--7-9-7----| x4
+D|-7-7---------------------------------------10-|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+e|-------7b8b7-------------------------------|
+B|----8v------8-8b9b8------------------------|
+G|--9-----------------5b7b5b7-5b7b5b7--7-9-7-|
+D|-7-7---------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+|-x-x-x-|     |-xxxxxxx-|
+|-x-x-x-|     |-xxxxxxx-|
+|-8-8-x-|     |-8888888-|
+|-9-9-x-| x6  |-9999999-|
+|-7-7-x-|     |-7777777-|
+|-x-x-x-|     |-xxxxxxx-|
+
+
+Verso 1=Intro
+
+
+Coro(los acordes los pueden hacer en 5ta)
+         F          Am
+Y al ruido de la gran ciudad.
+C                                 G
+Destruimos y matamos por un peso, y nos morimos por un beso!
+        F       Am
+Y al frío de la soledad.
+C                                      G
+Nos herimos, traicionamos por un beso, y te asesinan por un peso!
+
+
+Verso 2=Intro
+
+
+Coro
+         F          Am
+Y al ruido de la gran ciudad.
+C                                 G
+Destruimos y matamos por un peso, y nos morimos por un beso!
+        F       Am
+Y al frío de la soledad.
+C                                      G
+Nos herimos, traicionamos por un beso, y te asesinan por un peso!
+
+
+Solo
+e|---------------------|-----------------|
+B|-5-5-3-5-5/8-5-5-----|-5-5-6-6-5-5-----|
+G|--5-5-5-------5-5-7v-|--5-5-5-5-5-5-7v-| x2
+D|---------------------|-----------------|
+A|---------------------|-----------------|
+E|---------------------|-----------------|
+
+
+Puente
+F            G
+Primera vez, mala suerte!!
+Am          C
+Segunda vez casualidad!
+F             G
+La tercera es la que vence!
+Am            C
+La que duele mas!
+F           G
+Primera vez, mala suerte!!
+Am          C
+Segunda vez casualidad!
+F             G             Am   C
+La tercera es la que duele mas!
+
+Coro(una vez)
+
+Final
+F               Am
+Y al ruido de la gran ciudad.
+C
+Destruimos y matamos por un peso,
+G
+y nos morimos por un beso!
+F           G              Am        C          F sostiene el FA
+Y al filo, redoblamos la apuesta hasta el final!!
+
+
+
+PD: la intro tambien se puede hacer asi:
+
+e|-------7b8b7----------------------------------|
+B|----8v------8-8b9b8---------------------------|
+G|--9-----------------7-7-7-7-7-7-7-7--7-9-7----| x4
+D|-7-7---------------------------------------10-|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+e|-------7b8b7-------------------------------|
+B|----8v------8-8b9b8------------------------|
+G|--9-----------------7-7-7-7-7-7-7-7--7-9-7-|
+D|-7-7---------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+
+Espero que les sirva de guia por lo menos :)

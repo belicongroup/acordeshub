@@ -1,0 +1,89 @@
+El uso del acorde de A6/9 se corresponde con el arreglo de la versión de
+estudio. Cuando Chano toca la canción en versión acústica, lo hace usando
+el acorde A común en todas sus apariciones.
+
+A6/9: x04420
+
+----------------
+
+Intro: A6/9 E G# C#m [x4]
+
+Melodía del synthe en la intro
+  A6/9  E     G#   C#m  A6/9  E     G#    C#m
+e-----9-7-------------------9-7---------------
+B--10-----9----9----9----10-----9---9-7-------    X2
+G-----------9----9----9-----------9-----9-6---
+
+E             B   A            E
+Hola, mi cascabel,  retrato de lástima
+A             E          B
+ De cura imperfecta de algún hechizo hecho mal
+
+E              B   A              E
+ Muñeca, el pincel  que pinta tus ojos,
+A         E       B
+ y deja borroso a todo el universo
+
+A6/9           E  G#7         C#m
+Yo te cuido de mí si me necesitás
+A6/9             E               G#7          C#m
+Yo te estaré buscando en alguna parte, princesa
+A6/9            E    G#7                C#m
+Carnavalito del tren que se ahoga en el mar
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+
+Intro: A6/9 E G# C#m [x2] (sobre melodía del synthe una vez)
+
+E             B   A           E
+Erro al atardecer  y a cada salida,
+A            E         B
+ Y arriba y arriba, mi vida está completa
+
+E            B    A            E
+ Si te viene bien  quisiera cuidarte,
+A           E       B
+ pasar a buscarte y dejar de tenerte
+
+A6/9           E  G#7         C#m
+Yo te cuido de mí si me necesitás
+A6/9             E               G#7          C#m
+Yo te estaré buscando en alguna parte, princesa
+A6/9            E    G#7                C#m
+Carnavalito del tren que se ahoga en el mar
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+
+Interludio:
+A6/9  E  G#  C#m
+                ¡Naistumichiu!  [x3]
+A6/9  E  B  C#m
+
+(en las dos últimas vueltas de acordes del interludio repite una vez más la
+melodía del synthe en la intro)
+
+A              E  G#7         C#m
+Yo te cuido de mí si me necesitás
+A                E               G#7          C#m
+Yo te estaré buscando en alguna parte, princesa
+A6/9            E    G#7                C#m
+Carnavalito del tren que se ahoga en el mar
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+A6/9             E             B               C#m
+Yo no sé bien a dónde pero me voy, ¡naistumichiu!
+A6/9             E             G#7
+Yo no sé bien a dónde pero me voy...
+            C#m  B C#m  B C#m
+¡Naistumichiu!
+
+Melodía del synthe en el final
+  C#m             B    C#m             B  C#m
+e------9----------9---------------------------
+B----9-----------------12-9----12-------------
+G---------------------------------------------
+D-11-----11-11-11---11------11----11-9-11-----

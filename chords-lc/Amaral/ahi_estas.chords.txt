@@ -1,0 +1,117 @@
+[cejilla en traste 3]
+
+Em: 022000
+Bm: 224432
+D:  000232
+C:  032010
+G:  320003
+
+
+[intro]
+                     Em               Bm
+E-||------------0--2|3----------5----|2--------------0|
+B-||----------------|----------------|------------3---|
+G-||----------------|----------------|----------------|
+D-||----------------|----------------|----------------|
+A-||----------------|----------------|----------------|
+E-||----------------|----------------|----------------|
+
+    D                C
+E-||2--------2-3-2--|0---------------|-
+B-||---------------3|----------------|-
+G-||----------------|----------------|-
+D-||----------------|----------------|-
+A-||----------------|----------------|-
+E-||----------------|----------------|-
+
+                     Em               Bm
+E-||------------0--2|3----------7----|2--------------0|
+B-||----------------|----------------|------------3---|
+G-||----------------|----------------|----------------|
+D-||----------------|----------------|----------------|
+A-||----------------|----------------|----------------|
+E-||----------------|----------------|----------------|
+
+    D                C
+E-||2--------2-3-2--|0---------------|-
+B-||---------------3|----------------|-
+G-||----------------|----------------|-
+D-||----------------|----------------|-
+A-||----------------|----------------|-
+E-||----------------|----------------|-
+
+
+ Em     C           G   D
+Hey,         ahí estás
+ Em     C           D
+Hey,         ahí estás
+        Em   C           G     Bm
+Oh-oh, hey,     despampanante
+       Em          C              D
+Entre la princesa Leia y Sylvia Plath
+
+        C                      D
+Ya era hora de decirte   claramente
+            G                        Em
+Que si te pierdes,   yo te iré a buscar
+
+        C                          D
+Ya era hora de olvidarnos   de la gente
+        G                   Em
+Y su estúpida manera de juzgar
+        D                  Em
+Eh-eh, hey,         ahí estás
+
+
+[intro]
+
+
+     Em     C              G    D
+Discreta,       como un felino
+    Em           C          D
+Arañando-o la alfombra roja-a
+    Em     C              G     Bm
+O viendo       antes que nadie
+      Em          C           D
+El futuro en una bola de cristal
+
+       C                D
+Ahí estás,    inquebrantable
+        G                     Em
+Entre Juana de Arco y Carlos Marx
+        C                      D
+Ya era hora de decirte   claramente
+            G                      Em
+Que si te pierdes, yo te iré a buscar
+
+   C  C  C  C  C  C  C  C
+En un trineo de nieve
+       D  D  D  D  D  D  D  D
+En un carro de fuego
+    G  G  G  G  G  G  G  G
+Hasta el final de la noche
+     Em  Em  Em  Em  Em  Em  Em  Em
+Te llevo
+
+  C  C  C  C  C  C  C  C
+Ahí,
+D  D  D  D  D  D  D  D
+En lo más profundo de mi
+ G  G  G  G  G  G  G  G
+mente, como Dante en sus
+     Em  Em  Em  Em  Em  Em  Em  Em
+infiernos
+
+  C  C  C  C  C  C  C  C
+Ahí,
+D  D  D  D  D  D  D  D
+resplandeciente
+       G
+Ahí estás
+
+
+###---------------------------------###
+### Tablatura de:  Enrique Moraño   ###
+### Sevilla [España]  para LaCuerda ###
+### emorano@hotmail.com    FEB-2025 ###
+###---------------------------------###

@@ -1,0 +1,98 @@
+CAPO 1
+(h = hammer-on ; p = pull-off)
+[Intro]
+Em C B7
+e|--------5-5-5-7-|7----5-7-|8---7-5--3|-3h5p3-2---|
+B|--------7-7-7-8-|8----7-8-|10--8-7--5|-5-----4---|
+G|----------------|---------|----------|-----------|
+D|---(2)----------|---------|----------|-----------|
+A|--(2)-----------|---------|----------|-----------|
+E|-(0)------------|---------|----------|-----------|
+
+Em C B7
+e|--------5-5-5-7-|5------3-|----------2-2-3-|2--------|
+B|--------7-7-7-8-|7------5-|----------3-3-3-|3------4-|
+G|----------------|---------|----(1)---------|-------4-|
+D|---(2)----------|---------|---(0)----------|---------|
+A|--(2)-----------|---------|--(2)-----------|---------|
+E|-(0)------------|---------|-(3)------------|---------|
+
+Arpegio aproximado por los versos:
+e|3-----2-----2---|0-----2-----2-|----------------|----------------|
+B|--0-----0-----0-|---0-----0----|------0-----1---|1-----0-----0---|
+G|----2-----2-----|-----2-----2--|2---2---2-----2-|--2-----2-----2-|
+D|----------------|--------------|--2-------2-----|----2-----2-----|
+A|----------------|--------------|3---------------|3---------------|
+E|0---------------|0-------------|----------------|----------------|
+
+e|3-----2-----2---|0-----2-----2-|----------------|------------|
+B|--0-----0-----0-|--0-----0-----|------0-----1---|0-----------|
+G|----2-----2-----|----2-----2---|2---2---2-----2-|2-----------|
+D|----------------|--------------|--2-------2-----|1-----------|
+A|----------------|--------------|3---------------|2-----------|
+E|0---------------|0-------------|----------------|------------|
+
+
+[Verso 1]
+Em
+Nostalgia, de escuchar su risa loca
+C
+Y sentir junto a mi boca
+B7
+Como un fuego su respiración
+Em
+Angustia, de sentirme abandonado
+C
+Y pensar que otro a su lado
+B7
+Pronto le hablará de amor
+
+[Verso 2]
+Em
+Hermano, yo no quiero rebajarme
+C
+Ni pedirle ni rogarle
+B7
+Ni decirle que no puedo más vivir
+Em
+Hermano, esta mujer va a matarme
+C
+Se ha propuesto de humillarme
+B7
+Es feliz con mi sufrir
+
+[Puente]
+Em
+Cuándo olvidaré
+C B7
+Las noches que me has querido
+Em
+Cuándo olvidaré
+C B7
+Las noches que me has querido
+
+[Estribillo]
+Em
+Pasan los días (Mami), el otoño, el invierno y la primavera (eso es)
+           C                             B7
+Llega el verano, vida mía (Ey), y no te tengo a mi vera
+Em
+Pasan los días (los días), el otoño, el invierno y la primavera (Mami)
+           C                             B7
+Llega el verano, vida mía (Uh), y no te tengo a mi vera
+Em
+Y pasan los días, el otoño, el invierno y la primavera
+           C                        B7
+Llega el verano, vida mía, y no te tengo a mi vera
+Em
+Y pasan los días, el otoño, el invierno y la primavera
+           C                        B7
+Llega el verano, vida mía, y no te tengo a mi vera
+Em
+Pasan los días, el otoño, el invierno y la primavera
+           C                        B7
+Llega el verano, vida mía, y no te tengo a mi vera
+Em
+Pasan los días, el otoño, el invierno y la primavera
+           C                        B7
+Llega el verano, vida mía, y no te tengo a mi vera

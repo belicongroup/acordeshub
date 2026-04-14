@@ -1,0 +1,110 @@
+Para hacer el B7#9:
+
+E 7
+B 6
+G 7
+D 7
+A x
+E x
+
+Para hacer el A7#9 lo mismo que el B7#9 1 traste abajo
+
+E x
+B x
+G 5
+D 4
+A 5
+E 5
+
+Para hacer el D9:
+
+E x
+B 5
+G 5
+D 4
+A 5
+E x
+
+Para hacer el Em9 de la intro:
+
+E x
+B 7
+G 7
+D 5
+A 7
+E x
+
+Para hacer el A7(13) de la intro:
+
+E x
+B 7
+G 6
+D 5
+A 7
+E 5
+
+
+Intro teclado
+
+Em9-A7(add13)-Gmaj7-Gbmaj7-Fmaj7-Gmaj7
+
+Dmaj7                           F#7
+Es el miedo de no verte florecer
+             B#79
+El cielo es verde, se va a enrojecer
+   Dmaj7              F#7
+Mira hacia arriba y ve lo que puedes colgar
+       B#79
+Pero faltan dos estrellas
+    B#79          A#79   D9
+Tu universo no se ve igual
+Em7          A7           Dmaj7 B7
+Nena dime cuándo Cuando quieras
+Em7          A7           Dmaj7 B7
+Nena dime cuándo Cuando quieras Cuando quieras!
+Em7          A7  C#dim7
+Nena dime cuándo
+
+
+Dmaj7
+Pero te esperaré
+     F#7
+Me alejo para verte en el atardecer
+    B#79
+Este, era nuestro mundo
+Girábamos como los aros en Saturno
+Dmaj7
+Pudimos seguir siendo así
+       F#7               B#79
+Tus paredes con mi souvenir
+B7 B#79 A#79 D9
+
+Em7         A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras
+Em7         A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras Cuando quieras!
+Em7         A7   C#dim7
+Nena dime cuándo
+
+Interludio
+
+D-C#m-G#m-Gm-F#m-E-C#7  x3
+
+D-C#m-G#m-Gm-F#m-Dmaj7-B7
+
+
+Em7          A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras
+Em7         A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras Cuando quieras!
+Em7         A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras Cuando quieras!
+Em7         A7            Dmaj7  B7
+Nena dime cuándo Cuando quieras
+
+Mismos acordes que el coro
+
+(Déjame ser de cristal
+Al despertar, pensar todo normal
+Tus labios pueden explotar
+Yo seguiré mirando el paisaje sin despegar)

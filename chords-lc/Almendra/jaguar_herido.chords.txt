@@ -1,0 +1,163 @@
+Tengo un par de dudas con respecto al tema
+pero ustedes vean como les suena lo que saqué
+
+
+Riff 1:
+
+        A#m                A7 
+1º|----------------|-----------------
+2º|---------2------|-----------------
+3º|-----3-------3--|-----1--1h2---1--
+4º|---3---3---3---3|---2---2--------2
+5º|-1-------1------|-0------0---0----
+6º|----------------|-----------------
+
+(Riff 1)
+El cazador;
+está muerto entre mis garras...
+pero al luchar,
+sus balas me quemaron...
+
+Riff 2:
+       Bm7                Bm7/A
+1º|----------------|----------------|
+2º|---------3------|---------3------|
+3º|-----2-------2--|-----2-------2--|
+4º|---0---0---0---0|---0---0---0---0|
+5º|-2--------------|-0--------------|
+6º|----------------|----------------|
+
+        Bm7
+1º|----------------|-------
+2º|---------3------|-3/5/(7)
+3º|-----2-------2--|-2/4/(6)
+4º|---0---0---0---0|-0-0-(0)
+5º|-2--------------|-2/4/(6)
+6º|----------------|--------
+
+()= opcional
+
+
+(Riff 2)
+Ese hombre es un silencio...
+
+C#m7       A7        (arreglo)
+esto continúa en mí...
+
+Arreglo:
+
+1º|------|----
+2º|-4h5-4|-2p0
+3º|-4-4-4|-1-1
+4º|-4h6-4|-2-2
+5º|-4-4-4|-0-0
+6º|------|----
+
+
+(Riff 1)
+Yo quise igual;
+a las bestias y al sol...
+perseguir y matar,
+fue mi vida...
+
+(Riff 2)
+y esta herida,
+es como un ceibo,
+C#m7       A7          (arreglo)
+me quedaré tendido aquí...
+
+Riff 3
+           E7/9#
+1º|----------|
+2º|---------8|
+3º|---------7|   X4
+4º|---------6|
+5º|---------7|
+6º|-0-0-0-0--|
+
+(Riff 1)
+
+Hoy este sol me condena,
+entre las brasas,
+del verde de la selva...
+(Riff 2)
+¿acaso el dolor es un limbo?
+
+C#m7     A7        (arreglo)
+Jamás podré regresar...
+
+(Riff 3 + Riff 4)
+
+          E7/9#
+1º|----------|
+2º|---------8|
+3º|---------7|X4  Riff 3
+4º|---------6|
+5º|---------7|
+6º|-0-0-0-0--|
+
+
+          G#7/9#      F#7/9#       E7/9#       E9
+1º|-----------|-----------|-----------|----------|
+2º|---------12|---------10|---------8-|---------7|
+3º|---------11|---------9-|---------7-|---------7|
+4º|---------10|---------8-|---------6-|---------6|  Riff 4
+5º|---------11|---------9-|---------7-|---------7|
+6º|-0-0-0-0---|-0-0-0-0---|-0-0-0-0---|-0-0-0-0--|
+
+
+Dm7 / C7M / Dm7 / Am
+
+
+Dm7
+Oigo gemir,
+            C7 
+al jaguar herido...
+Dm7
+y todos dirán,
+            Am
+que fue una piedra...
+
+Dm7
+Cuanta piedad,
+       C7 
+que distante está el sol...
+Dm7
+y todos dirán,
+           Am
+que es una sombra....
+
+Dm7
+Ay, ay, ay,
+        C7 
+Jaguar herido...
+      Dm7
+por tu piel vendrán,
+        Am        G
+las alimañas...
+
+Dm7
+cuanto dulzor,
+       C7 
+que mortal es la fe
+Dm7
+no me hagan creer,
+             Am
+que es un enigma...
+G              Gm
+uhh uhh uhhh, uhhh uhhh uhhh
+un enigma...tal vez
+
+
+Riff 1 hasta terminar el tema
+
+
+Acordes:
+
+C#7m: X46454
+A7M: X02120 ó X07654
+Dm7: XX0211
+C7M: X32000 ó X35453
+Am:  X02210 ó 577555
+G:   355433
+Gm:  355333

@@ -1,0 +1,33 @@
+--www.spinettachords.com.ar--
+
+Acordes:
+G: 320003
+C: x32010
+Am: x02210
+F: 133211
+D#mdim6: xx1212
+Em: 022000
+
+Estrofa 1:
+C      G   Am                G
+Ana lloró, Gustavo se fue al suelo,
+F     D#mdim6            C          G
+estos problemas son los que rayan a mamá
+   Am         Em   (intermedio)
+Que acude a socorrernos
+
+Intermedio:
+e|----------------------------------------------|--||
+b|-----0----0----0----0----0----0----0----0-----|--||
+g|---0-----0----0----0----0----0----0----0------|--||
+d|----------------------------------------------|x3||
+A|-6----5----3----5----3----2----3----2---------|--||
+E|-----------------------------------------4---4|--||
+
+Estrofa 2:
+(igual)
+basta una carpa,
+bastones en el cuerpo
+estos espectros son los que
+asoman al azar
+superando el cálculo.

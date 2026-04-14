@@ -1,0 +1,121 @@
+--www.spinettachords.com.ar--
+
+Acordes:
+Cmaj7(#11)/G: 332002 / x32002 (el bajo en G es aleatorio)
+G/B: X2003X
+Am7: x02010
+Gm7: 353333
+Eb: x65343
+Dmaj7: x54222
+B: 779677
+F#: 244322
+G#m: 466444
+Bb: 688766
+Cm: 81010888
+Am7*: x02013
+F: 133211
+A: 577655
+Asus4: 577755
+A(#11): 577855
+A5*: x079xx
+A5: x022xx
+B5: x244xx
+C5: x355xx
+E: 022100
+
+Intro:
+
+Cmaj7(#11)/G
+
+G/B Am7 Gm7 Eb
+
+Cmaj7(#11)/G
+LA LA LA LA..
+Dmaj7     Am7
+lararara.. lararara
+
+Estrofa 1:
+Cmaj7(#11)/G
+ Salva tu piel,
+   Dmaj7               Am7
+la ciudad te llevó el verano
+Cmaj7(#11)/G
+ponte color,
+        Dmaj7                Am7
+que al morir los hombres son blancos,
+     B
+más blancos.
+
+F#           G#m
+ Que al volar sin volver,
+Eb
+  sin volver,
+Bb            Cm
+  que al volar sin volver
+
+Puente:
+
+Am7 - Am7sus4
+
+Am7-Am7*                Dm7-Dm7sus4
+Tu tienes pies y tienes manos,
+            Am7
+pero no se ven.
+                        Dm7-Dm7sus4
+Si tus pies hoy nacieron viento,
+            Am7
+déjalos correr.
+                        Dm7-Dm7sus4
+y si tus manos con las plantas,
+        F     A
+déjalas crecer.
+
+A - Asus4 - A(#11) - A5*
+
+Estrofa 2:
+(igual)
+Vive de azul,
+porque azul no tienes domingos.
+Ríete al fin,
+que llorar trae tanto frío,
+más frío.
+
+Que olvidar como ver,
+que olvidar como ver.
+
+Puente:
+(igual)
+Una vez ví que no cantabas,
+y no se porque.
+Si tienes voz tienes palabras,
+déjalas caer,
+cayéndote suena tu vida,
+aunque no lo creas.
+
+Verso:
+Cmaj7(#11)/G          Dmaj7
+Cuanta ciudad, cuanta sed,
+               Am7
+y tú un hombre solo
+
+Cmaj7(#11)/G          Dmaj7
+Cuanta ciudad, cuanta sed,
+               Am7   (A5-A5-B5-B5-C5-C5-B5-B5-C5-C5)
+y tú un hombre solo (x3)
+
+Solo:
+(sobre Cmaj7 Dmaj7)
+
+A5-A5-B5-B5-C5-C5-B5-B5-C5-C5
+
+(Cuanta ciudad, cuanta sed
+y tú un hombre solo)
+
+(repite desde solo)
+
+Cuanta ciudad, cuanta sed
+y tú un hombre solo
+
+A - B (x4)
+
+Fin: E

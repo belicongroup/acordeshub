@@ -1,0 +1,111 @@
+La canción esta prácticamente hecha solo con acordes en forma de triadas
+en las tres primeras cuerdas.
+Cada vez que aparezcan las siguientes combinaciones de acordes, se deben
+tocar como están a continuación:
+
+      F      A      Dm      A
+ e|--5--------5----1---------5--
+ B|----6-----5-------3------5---
+ G|---5-----6-------2------6----
+
+      A#      G      A#      A
+ e|--7--------3-----7--------5--
+ B|---6-------3------6-------5--
+ G|----6------4-------6------6--
+
+      D       C        F           G
+ e|----5------3---------8-----8-7--------
+ B|---7-7----5-5------10-10-------10-8---
+ G|--7------5-------10-------------------
+
+Intro:
+
+e|---10-8------------------------------------------------
+B|--------11-10-8--------10-----------8-8/10-8-----------
+G|----------------10-7-9-------7-9-10----------10--------
+D|------------------------------------------------10-12--
+
+  A#  G  A#  A
+
+Estrofa:
+
+ F         A            Dm           A
+Que casualidad fue encontrarte justo acá,
+ F         A            Dm           A
+yo tan puesto, vos tan apuesta
+ F         A            Dm           A
+que sofisticado fue invitarte a coquetear,
+ F         A            Dm           A
+yo tan lento, vos tan regia
+
+ A#       G   A#       A
+Sos hermosa, sos hermosa
+
+
+ F         A            Dm           A
+Que barbaridad haber tenido que esperar
+ F         A            Dm           A
+para vernos de tan cerca
+ F         A            Dm           A
+desnudémonos y no digamos nada mas,
+ F         A            Dm           A
+en silencio, tus caricias
+
+ A#       G    A#         A
+Son hermosas, son hermosas, y el mundo sonríe conmigo.
+
+
+Estribillo:
+
+ (D  C  F  G) X2
+
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ A#       G   A#       A
+
+
+De acá en adelante, cuando aparezca esta última parte se toca con una
+pequeña variación, y queda:
+
+      A#      G      A#      A
+ e|--7-7------3-----7-7------5--
+ B|-----------3--------------5--
+ G|---6-6-----4------6-6-----6--
+
+
+Estrofa:
+
+ F         A            Dm           A
+Que casualidad fue encontrarte justo acá,
+ F         A            Dm           A
+yo tan puesto, vos tan apuesta
+ F         A            Dm           A
+Que atrevido fui al iniciarte en la verdad
+ F         A            Dm           A
+yo radiante, vos tan dispuesta.
+
+ A#       G   A#       A
+Soy hermoso, soy hermoso,
+ A#       G    A#        A
+soy hermoso, soy hermoso, y el mundo sonríe.
+
+
+Estribillo:
+
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ D           C          F             G         D     C     F     G
+Todo lo que pueda arreglar hoy lo dejare para mañana        Aaahh
+ A#       G   A#       A
+
+Outro:
+
+e|------------3-6/8-8-------------3-6/8-8------------3-6/8-8--------------
+B|----------6----------5-6-5-3--6---------5-6-5-3--6-------------5-6-5-3--
+G|-7/5-4-2--------------------------------------------------7/5-4---------

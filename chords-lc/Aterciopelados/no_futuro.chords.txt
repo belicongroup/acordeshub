@@ -1,0 +1,75 @@
+notacion:
+e-1--4---2----------------------
+b-1--4---2----------------------
+g-2--5---3----------------------
+d-3--6---4---3---6----4----11---
+a-3--6---4---3---6----4----11---
+E-1--4---2---1---4----2----9----
+  F  G#  F#  F5  G#5  F#5  C#5
+
+
+intro: F G# F#  X2
+
+F                    F
+la carne es de bil y hielo
+    G#                    F#   
+si te vas me convierto en hielo
+F                  F
+y aunque el amor ya no perdure 
+ G#              F#
+anesteciemonos mientras dure
+
+F                  F
+disparate una de amores 
+    G#                 F#
+aunque me causes mil dolores
+F              F
+deleitame con tus ojitos
+G#              F#
+susurrame bien suavecito
+
+
+F         G#    F#   F        G#      F#
+devorame siete veces sacudeme el esqueleto (bis)
+
+
+CORO(DISTORSION)
+F5            F5             G#5         F#5   C#5
+yei, yei, yei, yei,yei, yei, yei,yei yei no futuro(bis)
+
+
+Pon en jaque mi juego
+no dejes que se apague el fuego
+y es que no hay mal que por bien no venga 
+sere feliz cuando no te tenga
+
+desayunaremos juntos
+o quiza caeremos muertos
+y aunque yo en vos ya no confio
+hoy seras mio y solo mio
+
+F         G#    F#   F        G#      F#
+devorame siete veces sacudeme el esqueleto (bis)
+
+
+CORO(DISTORSION)
+F5            F5             G#5         F#5   C#5
+yei, yei, yei, yei,yei, yei, yei,yei yei no futuro (bis)
+
+SOLO
+
+eI-----------------------------------------I
+bI--5^6^5^3-5--5^6^5^3-5--5^6^5^3-5-3------I
+gI------------------------------------5-4--I
+dI-----------------------------------------I
+aI-----------------------------------------I
+eI-----------------------------------------I
+
+I-------------------------------------I-----------I
+I-------------------------------------I-----------I
+I--4-5^4--4-5^4----4-5^4--4-5^4-------I-----------I
+I-7------6------6^7------7------7-6---I-7^6-------I
+I-------------------------------------I----7^8^7--I
+I-------------------------------------I-----------I
+
+coro

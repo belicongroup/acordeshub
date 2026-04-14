@@ -1,0 +1,91 @@
+INTRO: G B C D x3
+
+
+G         B        C D
+Estoy recién levantado,
+  G        B   C D
+¿dónde dormí ayer?
+G          B        C D
+Ya no me acuerdo de nada,
+G              B     C D
+no tengo nada que comer.
+
+
+C             B       G
+Me siento un poco muerto,
+C        B      G
+totalmente podrido.
+B      C      D  G
+Yo me siento así,
+B      C      D
+yo me siento así.
+
+
+ G         B        C D
+¿Adónde están mis amigos?
+ G        B         C D
+¿Adónde está el dinero?
+ G        B        C D
+¿Adónde está la comida?
+G              B            C D
+Todo lo que encuentro es alcohol.
+
+
+C             B       G
+Me siento un poco muerto,
+C        B      G
+totalmente podrido.
+B      C      D  G
+Yo me siento así,
+B      C      D
+yo me siento así.
+
+
+PUENTE: G
+        B C D C x4
+        F#-G A#-B ] x
+        B-C  C#-D ] 2
+
+
+C       B       E
+Ayer estaba un poco peor
+C       E           G
+y todo esto es por vos.
+B      C      D  G
+Yo me siento así,
+B      C      D
+yo me siento así
+            G
+y me siento mal.
+
+
+B      C      D  G
+Yo me siento así,
+B      C      D
+yo me siento así.
+            G
+y me siento mal.
+
+
+
+
+
+ --------------
+|Acordes usados|
+ --------------
+
+   G5           B5           C5           D5           F#5
+e|-----|     e|-----|     e|-----|     e|-----|     e|-----|
+B|-----|     B|-----|     B|-----|     B|-----|     B|-----|
+G|-----|     G|--4--|     G|--5--|     G|--7--|     G|-----|
+D|--5--|     D|--4--|     D|--5--|     D|--7--|     D|--4--|
+A|--5--|     A|--2--|     A|--3--|     A|--5--|     A|--4--|
+E|--3--|     E|-----|     E|-----|     E|-----|     E|--2--|
+
+   A#5          C#5          E5
+e|-----|     e|-----|     e|-----|
+B|-----|     B|-----|     B|-----|
+G|-----|     G|--6--|     G|-----|
+D|--3--|     D|--6--|     D|--2--|
+A|--3--|     A|--4--|     A|--2--|
+E|--1--|     E|-----|     E|--0--|

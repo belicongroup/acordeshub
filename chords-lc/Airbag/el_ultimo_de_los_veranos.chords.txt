@@ -1,0 +1,79 @@
+Amaj7 = 002120
+
+intro: A, Amaj7, D. x2
+
+A           
+Raro era ya el día
+      D              
+en que coincidíamos todos.
+A                   
+Lo que eran meses antes,
+       F#m            E   
+se convirtieron en días muy cortos.
+A             
+Nadie decía nada,
+    D                  
+pero se nos notaba en la cara.
+A               
+Vivimos el momento
+       F#m        E   
+como si no existiera mañana.
+D          E
+Pero que todo cambie,
+    C#m           D   
+y mañana se haya terminado.
+D                E
+Supimos que este verano,
+      Amaj7       F#m 
+sería el último de los veranos.
+       D   
+sería el último,
+  E           A
+el último de los veranos.
+
+[estrofa: A,D. A,F#m.E] 2
+
+Entre alguna moraga
+y baños de noche en la raga
+se fueron terminando
+los últimos días de playa.
+Va pasando el tiempo
+y cada vez todo es más complicado.
+Y llegará Septiembre,
+y cada uno andará por su lado.
+
+D          E
+Pero que todo cambie,
+    C#m           D   
+y mañana se haya terminado.
+D                E
+Supimos que este verano,
+      Amaj7       F#m 
+sería el último de los veranos.
+       D   
+sería el último,
+  E           A
+el último de los veranos.
+
+instrumental: C#m, F#m. C#m, D, E.
+
+D           E    
+Pero que todo cambie,
+  Amaj7         F#m  
+seguro que no lo olvidamos.
+D               E  
+Supimos que este verano,
+      C#m         F#m
+sería el último de los veranos,
+      D    
+sería el último,
+  E           A    C#m
+el último de los veranos.
+      D    
+sería el último,
+  E           A    C#m
+el último de los veranos.
+       D     E
+Sería el últimoooo...
+
+final: A,C#m,D,E. x2

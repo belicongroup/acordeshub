@@ -1,0 +1,118 @@
+Hola, se que ya esta pero es un buen tema, es fácil. El solo si es
+Complicado. En cuanto a la afinación es Eb. Mi mail es alevoodoo@ovi.com
+
+Intro C#5
+
+E-------------------------------------------------------------
+B-------------------------------------------------------------
+G---6-8-9-11-9-8-6~-6-8-6-5-5-6-8----6-8-9-11-9-8-6~-6-8-6-5--
+D------------------------------------------------------------- x2
+A---4-6-7--9-7-6-4~-4-6-4-3-3-4-6----4-6-7--9-7-6-4~-4-6-4-3--
+E-------------------------------------------------------------
+
+C#m                     A        G#             C#m
+
+  Yo no se qué me sucedió, en esa tarde en que te vi,
+                        A          G#          F#m
+Te perseguí, te conquisté y como un tonto te perdí.
+
+                      C#m (riff)
+Hoy no comprendo la razón,
+F#m                    A      B
+Lo que estaba por suceder en mí
+
+E                  C#m                              A
+Ya no sé cómo comenzar, no se por dónde hay que seguir,
+                        B                         E
+En este mundo no hay lugar para el error que cometí
+                    C#m                             A
+Quizá un día entenderás, que lo que hoy siento por ti
+                      B                         (A)C#m
+Es tan difícil de borrar, porque está tan dentro de mí
+
+INTER IDEM A INTRO
+
+C#m                  A           G#           C#m
+El tiempo no permitirá Que pueda reparar mi error
+                        A            G#          F#m
+Pero mi vida sigue en pie Para encontrar lo que dejé
+
+                      C#m (riff)
+Hoy no comprendo la razón
+F#m                    A      B
+Lo que estaba por suceder en mí
+
+E                  C#m                             A
+Ya no sé cómo comenzar No se por dónde hay que seguir
+                        B                         E
+En este mundo no hay lugar Para el error que cometí
+                    C#m                            A
+Quizá un día entenderás Que lo que hoy siento por ti
+                      B                        (A)C#m
+Es tan difícil de borrar Porque está tan dentro de mí
+
+
+
+
+SOLO base C#m % A G#m x2)
+E-------------------------------------------------
+B-------------------------------------------------
+G---11^-/6~-------6/8/9/11/13~--/-----
+D-------------------------------------------------
+A-------------------------------------------------
+E-------------------------------------------------
+
+E---4h5p4h7p5p4p--5p4p----4p----------------------------------
+B---------------7h----7p5h--7p5p4h7p5p4p--5p4p----4p----------
+G---------------------------------------6h----6p4h--6p4h6p5~--
+D-------------------------------------------------------------
+A-------------------------------------------------------------
+E-------------------------------------------------------------
+ Esto lo repite por partes, los (14) y (16) son armónicos de tapping
+E---9h(14)12p10p9h-*--9h(16)12p10p9h-*--9h(14)12p10p9-/9~----
+B------------------*-----------------*------------------------
+G------------------*-----------------*------------------------
+D------------------*-----------------*------------------------
+A------------------*-----------------*------------------------
+E------------------*-----------------*------------------------
+
+E---/9~--/11~--/12~--/14~---/17-16-14-------------------------
+B-------------------------------------17^-17-16-14~-----------
+G-------------------------------------------------------------
+D-------------------------------------------------------------
+A-------------------------------------------------------------
+E-------------------------------------------------------------
+
+F#m                      C#m (riff)
+Hoy no comprendo la razón
+F#m                    A      B
+Lo que estaba por suceder en mí
+
+E                  C#m                              A
+Ya no sé cómo comenzar, no se por dónde hay que seguir,
+                        B                         E
+En este mundo no hay lugar para el error que cometí
+                    C#m                             A
+Quizá un día entenderás, que lo que hoy siento por ti
+                      B                         (A)C#m
+Es tan difícil de borrar, porque está tan dentro de mí
+
+Riff
+ G#m              F#m     A    B
+E------------------------------------
+B-----/9--7-5-4--2~~~~---------------
+G------------------------------------
+D------------------------------------
+A------------------------------------
+E------------------------------------
+
+Referencias:
+h: ligado ascendente
+p: ligado descendente
+^: estirar
+^r: estirar y volver
+~: vibrato
+/: Slide
+*: Armónico de púa
+: tremolo de púa
+(): armonico de tapping

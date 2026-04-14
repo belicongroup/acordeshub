@@ -1,0 +1,142 @@
+-----------------------
+Comentarios previos
+-----------------------
+
+1. Donde está marcado con Em* se tocan 4 tiempos de
+   Em haciendo efectos soltando las cuerdas y volviendolas
+   a presionar en el mismo acorde
+
+2. Dónde esta marcado con D* se hace un efecto soltando la
+   tercera cuerda del segundo traste al hacer el acorde D y
+   tocando solamente la cuarta, tercera y segunda cuerda y
+   volviendo hacer elacorde D completo inmediatamente
+
+   e |-----|--o--|-----|-----|-----|
+   B |-----|-----|--o--|-----|-----|
+   G |-----|-----|-----|-----|-----|
+   D |-----|-----|-----|-----|-----|
+   A |-----|-----|-----|-----|-----|
+   E |-----|-----|-----|-----|-----|
+
+
+3. Dónde esta marcado con C* se hace un efecto soltando la
+   segunda cuerda del primer traste al hacer el acorde C y
+   tocando solamente la cuarta, tercera y segunda cuerda y
+   volviendo hacer el acorde C completo inmediatamente
+
+
+   e |-----|-----|-----|-----|-----|
+   B |-----|-----|-----|-----|-----|
+   G |-----|-----|-----|-----|-----|
+   D |-----|--x--|-----|-----|-----|
+   A |-----|-----|--x--|-----|-----|
+   E |-----|-----|--x--|-----|-----|
+
+--------------------------------------------------------
+INTRO
+
+e |----------|-------------|-------------|---------|
+B |----------|-------------|-------------|---------|
+G |----------|-------------|-------------|---------|
+D |----2-0---|-------2-0---|-------2-0---|---------|
+A |-0h2----2-|-0-0h2-----2-|-0-0h2-----2-|-0-------|
+E |----------|-------------|-------------|---3-2-0-|
+
+Em*
+
+Em                G
+Por querer saber
+
+lo que había
+        D                   D* D D* D
+más allá de la luna
+Em                G
+Por querer tocar
+                 D        D* D D* D
+el fuego de una estrella fugaz
+C                G
+su cola nos envolvió y nos mando
+             D           D* D D* D
+aún mas lejos que el sol
+C                 G
+Nos caímos otra vez y chocamos
+              D           D* D D* D
+al caer contra el suelo
+C                      Em
+Que aguarda la ocasión para vernos
+      D
+romper un recuerdo
+
+de sangre y piel
+
+Em*
+
+Em                  G
+Callarán las llamas
+                      D                D* D D* D
+el recuerdo de tu piel y las sábanas
+Em                    G
+Guardaran el secreto
+                  D                 D* D D* D
+de tu vientre y de mi ser en tus entrañas
+C                  Em
+Nos caímos otra vez en un abismo
+  D                D* D D* D
+de ser y sudor
+C                  G
+Nos dejamos someter por lo dulce
+   D                D* D D* D
+que suele ser la pasión
+
+
+
+Coro
+G                        D         C      C* C C* C
+No tendra tiempo el tiempo de llorar
+G                       D        C        C* C C* C
+Ni tendra miedo el miedo de gritar
+G                         D        C      C* C C* C
+No tendra tiempo el tiempo de llorar
+G                       D        C        C* C C* C
+Ni tendrá miedo el miedo de gritar
+
+[SILENCIO EN LA GUITARRA]
+
+Basta
+
+Em*
+
+Em                G
+Por querer volar
+                          D         D* D D* D
+la inocencia que se pierde se la traga el mar
+Em                    G
+No escupira de nuevo
+                     D              D* D D* D
+sobre estas estupidas estatuas de sal
+C                  Em
+Nos caimos otra vez y chocamos
+ D                        D* D D* D
+al caer contra el suelo
+C                    G
+Que agrada la ocasión para vernos
+ D
+romper un recuerdo
+
+De sangre y piel
+
+Coro
+G                         D        C      C* C C* C
+No tendra tiempo el tiempo de llegar
+G                       D        C        C* C C* C
+Ni tendra miedo el miedo de gritar
+G                         D        C      C* C C* C
+No tendra tiempo el tiempo de llegar
+G                       D        C        C* C C* C
+Ni tendra miedo el miedo de gritar
+
+C C C C [LOS 4 TOQUES, FUERTES HACIA ABAJO SOLAMENTE]
+
+Ardo
+
+Em

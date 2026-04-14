@@ -1,0 +1,41 @@
+--www.spinettachords.com.ar
+
+Acordes:
+Em: 022000
+Bm: x24432
+G: 320033
+D: xx0232
+Am: x02210
+C7: x32310
+B7: x24242
+C: x32010
+
+Intro:
+
+Primera parte:
+Em Bm G D Am C7 B7 (x3) Am
+
+Segunda parte:
+C Bm (x12)
+
+Solo sobre riff en: Em D
+
+Estrofa 1:
+Em           Bm     G
+Esta es la pregunta,
+       D
+y yo pregunto;
+      Am       C7     B7
+¿cual fue la pregunta?
+
+Estrofa 2:
+Em         Bm  G
+Oye legionario,
+     D    Am       C7
+debes pasarme las manos,
+     G    Am
+por esta herida,
+        C       Bm
+que no aguanto
+
+Fin sobre: C Bm

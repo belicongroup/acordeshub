@@ -1,0 +1,102 @@
+Intro clásica
+
+e------------------|-------------------|---------------
+b-5--5-5-5h6-------|-------3h5p3-------|-------3-------
+g------------7-6-7-|-4-5-7-------5-4-5-|-2-4h5---5-4-2-
+d------------------|-------------------|---------------
+a------------------|-------------------|---------------
+E------------------|-------------------|---------------
+
+-------|---------------------|-----------------|------|
+-0-----|---------------------|-------------5h6-|-5-0--|
+---1---|---5-4h5--4---4------|---5-4h5-5--7----|-----1|
+-----2-|-2----------7---6-2--|-2---------------|------|
+-------|---------------------|-----------------|------|
+-------|---------------------|-----------------|------|
+
+Intro eléctrica (x2)
+
+e--------------------|-------------|-----------|------|
+b--5-5-5-5-6-5-------|---5---------|-----------|------|
+g--------------7-5-7-|-5---7-5-4-5-|-4-7-5-4---|-4----|
+d--------------------|-------------|---------7-|---6-2|
+a--------------------|-------------|-----------|------|
+E--------------------|-------------|-----------|------|
+
+-----------------|---------------|-----|-
+-----------------|---------5-6-5-|-----|-
+---4-5-4---4-----|---4-5-7-------|-----|-
+-7-------7---6-2-|-7-------------|-6-7-|-
+-----------------|---------------|-----|-
+-----------------|---------------|-----|-
+
+Estrofa 1
+LA                 SOL
+Tiene la Tarara un vestido blanco
+
+     FA                MI
+que sólo se pone en el jueves santo
+
+* Con el ritmo de la estrofa van dos guitarras: una con 
+acordes de cejilla y el Mi final abierto con un ritmillo 
+de Ska y otra guitarra que hace las quintas.
+
+Estribillo (x2)
+
+LA5           MI
+La Tarara si, la Tarara no,
+ 
+LA5       RE        MI       LA5
+la Tarara madre, que la bailo yo.
+
+Estrofa 2:
+Tiene la Tarara unos pantalones 
+que de arriba a abajo, todo son botones.
+
+Estribillo (x2)
+
+Intro eléctrica que sigue con un punteo distinto:
+
+e------------|----------|---------|------------|-
+b------------|----------|---------|------------|-
+g-------4----|---2------|---------|-\5-5-7-5-4-|-
+d-\7--7--7-5-|-5---5-3--|-3-5-3-2-|------------|-
+a------------|----------|---------|------------|-
+E------------|----------|---------|------------|-
+
+----------|----------|-
+----------|----------|- Después vienen los acordes:
+-4-5-4-2--|-2-4-2-1--|- La-Sol-Fa-Mi arpegiados, dos
+----------|----------|- veces y bastante rápido.
+----------|----------|-
+----------|----------|-
+
+Intro eléctrica
+
+Estrofa 3:
+Tiene la Tarara unas pantorrillas,
+que parecen palos para asar morcillas.
+
+Estribillo.
+
+Estrofa 4:
+Tiene la Tarara una camiseta,
+que si se la pone se la ven las tetas.
+
+Estribillo(varias veces hasta que acaba la canción).
+
+Acordes:
+
+e-5-|-3-|-1-|-0-|---|---|---|-
+b-5-|-3-|-1-|-0-|---|-7-|-9-|-
+g-6-|-4-|-2-|-1-|---|-7-|-9-|-
+d-7-|-5-|-3-|-2-|-7-|-7-|-9-|-
+a-7-|-5-|-3-|-2-|-7-|-5-|-7-|-
+e-5-|-3-|-1-|---|-5-|---|---|-
+ LA  SOL FA  MI  LA5 RE  MI
+
+Los cuatro primeros son los acordes de la Estrofa. Los
+tres últimos los del estribillo. Estos acordes son también 
+los que se utilizan para acompañar las intros 
+(en la misma secuencia que en las estrofas y el estribillo). 
+Pues nada, a disfrutarla.

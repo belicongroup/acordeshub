@@ -1,0 +1,90 @@
+VERSO:
+
+DO5                SOL5
+  Voy a pagar por todas mis penas
+DO5                      SOL5
+  Voy a cumplir con su injusta condena
+DO5                      MI5                   FA5-PM      SOL5-PM
+  Tú lo sabes bienEl castigo en concreto es no ser igual.
+
+
+(VERSO)
+  Van a correrme con todo su oficio
+
+  Van a tratarme como a un subversivo
+
+  Como siempre los buenos son ellos, y yo el criminal.
+
+
+ESTRIBILLO:
+
+       FA5                  SOL5
+  Si total la realidad, así debe funcionar
+           DO5     MI5     RE5  DO5    FA5     (SOL5)
+  Si ellos son el bien, yo debo ser el mal.
+
+
+SOLO 1:
+       ACOMPAÑADO CON:  SOL5 | LA5 | SOL5 | LA5 | SOL5 | LA5 | DO5 | RE5
+
+(VERSO)
+  Van a acusarme de rebelde idealista
+
+  Voy a reírme de lo que ellos me digan
+
+  Yo no tengo solución, y ellos tienen la razón, como siempre pierdo yo.
+
+
+(VERSO)
+  Voy a morir defendiendo lo mío
+
+  Voy a vivir más feliz y tranquilo
+
+  Cuando los necesitas, quizás no los encontras, amargate o festejá...
+
+
+(ESTRIBILLO)
+  Si total la realidad, así debe funcionar
+
+  Si ellos son el bien, yo debo ser el mal.
+
+
+(SOLO 2)
+
+
+FINAL:
+
+DO5                SOL5
+  Van a pagar por todas mis penas...
+
+                      FIN.
+
+
+SOLO 1:
+e||---------------|
+B||---------------|
+G|·---------------|  x 2
+D|·-5-5-7-7-7-5-3-|
+A||---------------|
+E||---------------|
+
+e|---------------------------||
+B|---------------------------||
+G|---------------------------·|
+D|-5-5h7-5-7-7-7-5-3-2-0-7-5-·|
+A|---------------------------||
+E|---------------------------||
+
+
+       UTILIZO LOS ACORDES DE ESTA MANERA
+
+     DO5     RE5     MI5(e)  MI5(v)  FA5     SOL5    LA5
+     ---     ---     ---     ---     ---     ---     ---
+     ---     ---     ---     ---     ---     ---     ---
+     -5-     -7-     -9-     ---     ---     ---     ---
+     -5-     -7-     -9-     -2-     -3-     -5-     -7-
+     -3-     -5-     -7-     -2-     -3-     -5-     -7-
+     ---     ---     ---     -0-     -1-     -3-     -5-
+
+(e):estribillo
+(v):verso

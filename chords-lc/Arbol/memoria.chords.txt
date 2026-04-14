@@ -1,0 +1,78 @@
+e|---------4---|-----5-------|---------4---|-----5-------||
+B|-----7---5---|---5---7-----|-----7---5---|---5---7-----||
+G|---6---------|-7-----6-----|---6---------|-7-----6-----||
+D|-7-----6-----|-------4-----|-7-----6-----|-------4-----||
+A|-------------|-------------|-------------|-------------||
+E|-------------|-------------|-------------|-------------||
+   1 * * 2 * *   1 * * 2 * *   1 * * 2 * *   1 * * 2 * *
+
+e|-----------5-|-----------7-|-8---------7-|-8-----------||
+B|-----7---7---|---5-----7---|10-------7---|10---------7-||
+G|---6---7-----|-6---6-8-----|10-----8-----|10-------6---||
+D|-7-----------|-------------|-------------|-------7-----||
+A|-------------|-------------|-------------|-------------||
+E|-------------|-------------|-------------|-------------||
+   1 * * 2 * *   1 * * 2 * *   1 * * 2 * *   1 * * 2 * *
+
+e|---4------5--|-------------||
+B|---5-----5---|-7-----------||
+G|-------7-----|-6-----------||
+D|-6-----------|-4-----------||
+A|-------------|-------------||
+E|-------------|-------------||
+   1 * * 2 * *   1 * * 2 * *
+
+ F#m        C#m   D        F#m
+hace un esfuerzo por recordar
+ F#m     C#m      D          F#
+voces y nombres que ya no estan
+ F#m        D            A          B         F    B         F
+vas a ver que hay cosas de las que no te acordas (no te acordas)
+ F#m             C#m  D     F#
+que intenta el tiempo eliminar...
+ A   B  D   F#m   A  B  D
+baum.... baum.... baum...
+
+ F#m        C#m   D        F#m
+esos olores que ya no están
+ F#m        C#m   D      F#
+esos sabores no existen más
+ F#m   D         A       B       F          B          F
+solo puede la memoria traerlos aca y es por eso que quiero
+      A    D        A  D
+esconderme en tu memoria
+      A    D        A  D  F#m
+esconderme en tu memoria...
+ A   B  D   F#m   A  B  D
+baum.... baum.... baum...
+
+ F#m       C#m   D        F#m
+vivo intentando ser inmortal
+F#m        C#m   D         F#
+y si me olvidan no existo más
+ F#m   D         A       B        F      B        F
+solo puede la memoria hacerme volver y asi yo podré
+     A    D        A  D
+econderme en tu memoria
+     A    D        A  D
+econderme en tu memoria
+
+ F#m         A         D         A
+hay quienes dicen que son más felices
+       D        A            D        A
+sin poder recordar... sin poder recordar...
+ F#m         A         D         A
+hay quienes dicen que son más felices
+       D        A           D      A
+sin poder recordar... pero yo necesito
+
+      A    D        A  D
+esconderme en tu memoria
+      A    D        A  D
+esconderme en tu memoria
+         A    D          A        D
+que me muero    si te olvidas de mi
+      A    D        A  D
+esconderme en tu memoria
+             F#m
+y que me recuerdes

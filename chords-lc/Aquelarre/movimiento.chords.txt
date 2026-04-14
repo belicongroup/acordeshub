@@ -1,0 +1,211 @@
+intro:
+
+riff principal de intro:
+
+E-----------------------------------------
+B-----------------------------------------
+G-------5---------------------------------
+D-5-6-7---7-------5-----------------------
+A-----------5-6-7---7--3-4-5--3-4-5-------
+E-----------------------------------3-4-5-
+
+E-------------------------------------------
+B-------------------------------------------
+G---------9---------------------------------
+D-9-10-11---11----------11------------------
+A--------------10-11-12----12--3-4-5--3-4-5-
+E-------------------------------------------
+
+Riff 2
+
+A-G
+
+E--------------
+B--------------
+G--------------
+D---5----------
+A-7---7-5-3-5b-
+E--------------
+
+repite riff 2
+
+repite riff principal
+
+Bm-G
+
+Arreglo:
+
+E---7---7---7---7---7----6---6---4---4-
+B-7---7---7---7---7----7---7---7---7---
+G--------------------------------------
+D--------------------------------------
+A--------------------------------------
+E--------------------------------------
+
+Bm-G-Em
+
+arreglo en clavicordio 1 pasado a guitarra:
+
+E------------------------
+B------------------------
+G------------------9-9-7-
+D------------------9-9-7-
+A-5-6-7-5-6-7-5-7--7-7-5-
+E------------------------
+
+arreglo en clavicordio 2 pasado a guitarra:
+
+E----------
+B----------
+G-6--------
+D-6--------
+A-4--2h4---
+E--------4-
+
+arreglo final (con wah-wah) x2
+
+E---------------------
+B---------------------
+G---------------------
+D-----5h7p5-----------
+A-5h7-----------5h7-7-
+E-----------5h7-------
+
+base de este ultimo arreglo: Bm-F#m x2 F#m-G-Abm-A
+
+-------- termina intro -------------------------------
+
+durante la letra, no hay acordes, se lleva un constante
+punteo, pero hice una adaptación
+
+A      Abm       F#m
+Que figuras quieren nacer
+
+C#m         F#m
+   En esta tarde
+
+F            F#m
+   En ese empobrecer
+
+Esos hombres blancos de sal
+Llevan las caras
+Sin enjuagar
+
+ F#m   G  Abm  A
+Y que me dices
+
+Si no tengo a quién esperar
+En esta selva
+Junto a la música
+Un hermano quiere llevar
+El paso lento
+Y la mano atrás
+
+F#m-G-Abm-A
+
+Riff intermedio:
+
+E-5-5h7p5-4-4h5p4-2-2-4-5-4--4h7p4-2-2h4p2--1-1h3p1-2--2-3-4-5-
+B--------------------------------------------------------------
+G--------------------------------------------------------------
+D--------------------------------------------------------------
+A--------------------------------------------------------------
+E--------------------------------------------------------------
+
+solo sobre acordes de estrofa (no lo pude sacar, sepan disculpar)
+
+riff 2 x2
+
+repite intro completa pero sin riff 2
+
+Que figuras quieren nacer
+Desde este fuego
+En ese enloquecer
+Miren esos niños
+Cómo cantan luz
+Sus cuerpos sudados
+Van a preguntar
+Y si es así la forma de configurar
+Reuniones de hermanos
+Tan blancos de sal
+Un amigo quiere llevar
+El paso lento
+Y la mano atrás
+
+arreglo de clavicordio sobre acordes de estrofa:
+
+riff 2 x2
+
+riff principal de intro con arreglo que no pude sacar
+
+riff intermedio 2:
+E----------------------------------------------------------
+B----------------------------------------------------------
+G----------------------------------------------------------
+D----------------------------------------------------------
+A-3-1-3--1-----------3-1-3--1-----------4-2-4--2-----------
+E----------3-3--3-5b----------3-3--3-5b----------4-4--4-5b-
+
+E-------------------------------------------------------------
+B-------------------------------------------------------------
+G-------------------------------------------------------------
+D-------------------------------------------------------------
+A-4-2-4--2------------5-3-5--3------------5-3-5--3------------
+E----------4-4--4-5b-----------5-5--5-5b------------5-5--5-5b-
+
+repite intro completa pero sin riff 2
+
+Que figuras quieren nacer
+En esta tarde
+En este empobrecer
+Esos hombres blancos de sal
+Llevan las caras
+Sin enjuagar
+Y que me dices
+Si no tengo a quién esperar
+En esta selva
+Junto a la música
+Un hermano quiere llevar
+El paso lento
+Y la mano atrás
+
+riff intermedio x4
+
+riff final de clavicordio pasado a guitarra:
+
+E--------8-----7---7--5-------8--12--8--7h8p7-5-
+B-8h9h10---10----8-------8h9-10--10-10----------
+G-----------------------------------------------
+D-----------------------------------------------
+A-----------------------------------------------
+E-----------------------------------------------
+
+Final con todos los instrumentos
+
+E-------------------------------]    [-12b-]    [-12s0-
+B-------------------------------]    [-----]    [------
+G-------------------------------] X4 [-----] X7 [------
+D------------------------3------]    [-----]    [------
+A----------3----------------3---]    [-----]    [------
+E-3-4-5--5---5--3-5-3--1--------]    [-----]    [------
+
+E--------------------------------------------
+B--------------------------------------------
+G-------5------------------------------------
+D-5-6-7---7-------5--------------------------
+A-----------5-6-7---7--3-4-5--3-4-5----------
+E-----------------------------------3-4-5|3b-
+
+s: slide.
+h: hammer on.
+p: pull off.
+b: bending.
+|: pasar bien rápido a la siguiente nota.
+
+cuando hay dos guiones (--) en vez de uno, significa que
+hay una minúscula pausa entre esas notas.
+
+este tema es buenísimo, no se como nadie lo publico,
+y estuve la tarde entera sacándolo de oído.
+
+Muchas Gracias
