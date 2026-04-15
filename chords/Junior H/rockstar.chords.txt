@@ -1,44 +1,31 @@
-INTRO: C#m E B B#7 (2x)
+INTRO X2: C#m E B B#7
 
-C#m                               E
+C#m.                               E
 Sé que te pones bellaca con esa bolsita de rosa lavada
-
              B
 Y no me dice nada si me ve con varias
-
    F#7
 Conmigo sabe nunca hay falla
-
 C#m                                     E
 Sé que no soy el bonito, soy un niño triste, rockstar, soy maldito
-
                   B
 Yo sé que a ella nunca no le espanta nada
-
    F#7
 No llora, ella está acostumbrada
-
             C#m
 ¿Y para qué pelea y discusiones?
-
       E
 Si prendemos los blunes
-
      B
 Lo hacemos con canciones
-
       D#7
 Ya no creo en el amor
-
         C#m
 Podemos arreglar los errores
-
  E
 Irnos de vacaciones
-
    B
 Chocolates y flores
-
    F#7
 Arriba del Rubicon
 
@@ -46,47 +33,33 @@ INTRO
 
 C#m
 Sé que eres buena persona
-
             E
 Le grabé tu nombre a mi superona
-
              B
 Ya nadie me dice, ya nadie me espanta
-
      F#7
 Las pacas son para gastarlas
-
 C#m.                                         E
 Sé que hay güeyes que te tiran, yo no me preocupo
 
 Mija, ando en la mía
-
                     B
 Al fin y al cabo de esto es la misma de siempre
-
    F#7
 Si tú me llamas voy a verte
-
             C#m
 ¿Y para qué pelea y discusiones?
-
       E
 Si prendemos los blunes
-
      B
 Lo hacemos con canciones
-
       D#7
 Ya no creo en el amor
-
         C#m
 Podemos arreglar los errores
-
  E
 Irnos de vacaciones
-
    B
 Chocolates y flores
-
    F#7
 Arriba del Rubicon
