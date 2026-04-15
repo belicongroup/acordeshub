@@ -1,0 +1,978 @@
+[
+  {
+    "candidate_name": "Lupita Cabrera",
+    "candidate_normalized_name": "lupita cabrera",
+    "possible_match_normalized_name": "lupita carrera",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "30ca68d1-a1e6-4589-9b1b-0ee42535a6e9"
+  },
+  {
+    "candidate_name": "Vicente Fernández, Jr.",
+    "candidate_normalized_name": "vicente fernandez jr",
+    "possible_match_normalized_name": "vicente fernandez",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "e6774ddb-98c9-4511-9005-8da43e9e92e3"
+  },
+  {
+    "candidate_name": "Miguelito Romero",
+    "candidate_normalized_name": "miguelito romero",
+    "possible_match_normalized_name": "miguelito romero jr",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "181963aa-f7fe-4357-8539-fcec7dcf408c"
+  },
+  {
+    "candidate_name": "Alejandro Arras",
+    "candidate_normalized_name": "alejandro arras",
+    "possible_match_normalized_name": "alejandro ibarra",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "94b77c8c-5f65-4469-ba9c-70f81e2c3749"
+  },
+  {
+    "candidate_name": "Complex Mathematics",
+    "candidate_normalized_name": "complex mathematics",
+    "possible_match_normalized_name": "compl x math matics",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "0047b52f-e15c-41c6-a023-f45777ac5c81"
+  },
+  {
+    "candidate_name": "Juan Solo",
+    "candidate_normalized_name": "juan solo",
+    "possible_match_normalized_name": "juan soto",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "921783c1-526e-41e6-ba7e-b4a4a1b06eb2"
+  },
+  {
+    "candidate_name": "YOSHI",
+    "candidate_normalized_name": "yoshi",
+    "possible_match_normalized_name": "yoshio",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "8547c4c7-b41c-4eef-b2e9-e3e9cd795641"
+  },
+  {
+    "candidate_name": "Agustín Lara Jr.",
+    "candidate_normalized_name": "agustin lara jr",
+    "possible_match_normalized_name": "agustin lara",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "8e218f0d-e93a-42db-bdc6-91429eee9d62"
+  },
+  {
+    "candidate_name": "Fernando Uribe",
+    "candidate_normalized_name": "fernando uribe",
+    "possible_match_normalized_name": "fernando riba",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "7d6b61ad-e211-4a5c-bdf2-d4a63264cb6a"
+  },
+  {
+    "candidate_name": "Eduardo Castillo",
+    "candidate_normalized_name": "eduardo castillo",
+    "possible_match_normalized_name": "eduardo capetillo",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "36c61a33-9904-4607-b350-fffe1a87278f"
+  },
+  {
+    "candidate_name": "Melissa Ibarra",
+    "candidate_normalized_name": "melissa ibarra",
+    "possible_match_normalized_name": "melissa barrera",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "dfa5fc78-c00a-4194-9777-263ac5946a05"
+  },
+  {
+    "candidate_name": "Adi Rodríguez",
+    "candidate_normalized_name": "adi rodriguez",
+    "possible_match_normalized_name": "aldo rodriguez",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "4b5f7e8d-499d-4d3a-9b89-e373d73d0565"
+  },
+  {
+    "candidate_name": "Manuel Camacho",
+    "candidate_normalized_name": "manuel camacho",
+    "possible_match_normalized_name": "manuel comacho",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "bba9d9d8-f15f-4c70-8104-6fffe452750b"
+  },
+  {
+    "candidate_name": "Graciela Mauri",
+    "candidate_normalized_name": "graciela mauri",
+    "possible_match_normalized_name": "graciela maria",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "0bd9e4db-d8c2-44af-a2a3-c77633fbf9de"
+  },
+  {
+    "candidate_name": "Héctor Zamora",
+    "candidate_normalized_name": "hector zamora",
+    "possible_match_normalized_name": "hector zamorano",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "75c9631d-5c8d-4727-beaf-e19a513fad2b"
+  },
+  {
+    "candidate_name": "Venus Ray",
+    "candidate_normalized_name": "venus ray",
+    "possible_match_normalized_name": "venus rey",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "2b63d454-244d-4a95-b63e-08ad8fce65bf"
+  },
+  {
+    "candidate_name": "Gilberto Castro",
+    "candidate_normalized_name": "gilberto castro",
+    "possible_match_normalized_name": "gualberto castro",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "84ab30a5-afe4-4e1f-88ad-a5853ee8dfa2"
+  },
+  {
+    "candidate_name": "Graciela Agudelo",
+    "candidate_normalized_name": "graciela agudelo",
+    "possible_match_normalized_name": "graciela agudela",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "3ab7bced-cb37-4f8a-b99c-f436e7135668"
+  },
+  {
+    "candidate_name": "Arturo Manrique",
+    "candidate_normalized_name": "arturo manrique",
+    "possible_match_normalized_name": "arturo marquez",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "2187f4f5-c1d8-41de-bed8-1bfce7932cf0"
+  },
+  {
+    "candidate_name": "Raniero Palm",
+    "candidate_normalized_name": "raniero palm",
+    "possible_match_normalized_name": "rayniero palma",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "0c795896-5a99-45c7-8394-2daac10a06bf"
+  },
+  {
+    "candidate_name": "Laura Rivas",
+    "candidate_normalized_name": "laura rivas",
+    "possible_match_normalized_name": "laurita rivas",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "b561cf53-4030-4d14-b4a4-d15e400d9c2f"
+  },
+  {
+    "candidate_name": "Jorge Mejía Avante",
+    "candidate_normalized_name": "jorge mejia avante",
+    "possible_match_normalized_name": "jose mejia avante",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "12cd0627-8e4e-4688-ad9f-936ba782de01"
+  },
+  {
+    "candidate_name": "Alejandro Abara",
+    "candidate_normalized_name": "alejandro abara",
+    "possible_match_normalized_name": "alejandro ibarra",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "2c68b44e-16f7-4746-bc17-4b7af025b2a6"
+  },
+  {
+    "candidate_name": "Daniel Gaytán",
+    "candidate_normalized_name": "daniel gaytan",
+    "possible_match_normalized_name": "daniel catan",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "f44de735-bd50-4811-9dcb-40261c7f8b6e"
+  },
+  {
+    "candidate_name": "Francisco Ávila",
+    "candidate_normalized_name": "francisco avila",
+    "possible_match_normalized_name": "francisco avitia",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "93d6aad8-df11-4c40-b643-12d864e34fc6"
+  },
+  {
+    "candidate_name": "Rulas",
+    "candidate_normalized_name": "rulas",
+    "possible_match_normalized_name": "ruls",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "707eca0a-8c2f-43cc-97fc-2ceba0c336a6"
+  },
+  {
+    "candidate_name": "Yoanni Pino",
+    "candidate_normalized_name": "yoanni pino",
+    "possible_match_normalized_name": "yoanny pino",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "1f705698-b9d1-499f-9e25-6b45f8a699ca"
+  },
+  {
+    "candidate_name": "Joe Morales",
+    "candidate_normalized_name": "joe morales",
+    "possible_match_normalized_name": "jorge morales",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "10c2c0ed-4773-4244-8fcb-d7b93e8339c9"
+  },
+  {
+    "candidate_name": "Alejandro Guzmán",
+    "candidate_normalized_name": "alejandro guzman",
+    "possible_match_normalized_name": "alejandra guzman",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "36bbe0bd-2ce4-493c-baa5-7a825b5c27b5"
+  },
+  {
+    "candidate_name": "Maya Karunna",
+    "candidate_normalized_name": "maya karunna",
+    "possible_match_normalized_name": "maria karunna",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "cfad6ac5-200e-4892-8058-553c4a311707"
+  },
+  {
+    "candidate_name": "SickBoy",
+    "candidate_normalized_name": "sickboy",
+    "possible_match_normalized_name": "sick boy",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "232e133a-b919-4380-9178-dfe0b9047a1a"
+  },
+  {
+    "candidate_name": "Miguel Ángeles",
+    "candidate_normalized_name": "miguel angeles",
+    "possible_match_normalized_name": "miguel angel",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "d0f3445f-755d-46c9-8c12-84c4e111877a"
+  },
+  {
+    "candidate_name": "Antimo Buonanno",
+    "candidate_normalized_name": "antimo buonanno",
+    "possible_match_normalized_name": "antimo buonnano",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "61e68409-51d7-43ca-bb12-8132a77ebedb"
+  },
+  {
+    "candidate_name": "Estrellita",
+    "candidate_normalized_name": "estrellita",
+    "possible_match_normalized_name": "estrella",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "38d7c720-1266-44aa-9868-8cea139de71f"
+  },
+  {
+    "candidate_name": "Dahel",
+    "candidate_normalized_name": "dahel",
+    "possible_match_normalized_name": "dashel",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "b05c0e1e-a8ff-4f18-b022-e4b9f3596bee"
+  },
+  {
+    "candidate_name": "Chismo Herrera",
+    "candidate_normalized_name": "chismo herrera",
+    "possible_match_normalized_name": "chico herrera",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "0d273716-8552-4a38-91b0-c39ba9760461"
+  },
+  {
+    "candidate_name": "Fntwxy",
+    "candidate_normalized_name": "fntwxy",
+    "possible_match_normalized_name": "fntxy",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "db66cad8-8dc7-4442-8a84-596b4cb28438"
+  },
+  {
+    "candidate_name": "Fobia",
+    "candidate_normalized_name": "fobia",
+    "possible_match_normalized_name": "fobiaz",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "43732dda-0963-4bf6-bc09-c657d44be875"
+  },
+  {
+    "candidate_name": "Los Acosta",
+    "candidate_normalized_name": "los acosta",
+    "possible_match_normalized_name": "leo acosta",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "ddcbd7c8-73da-4669-8f4a-cd020b2e89ae"
+  },
+  {
+    "candidate_name": "Los Locos del Ritmo",
+    "candidate_normalized_name": "los locos del ritmo",
+    "possible_match_normalized_name": "los socios del ritmo",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "94f661bb-0d65-4dbc-ba6b-5856ecee3d7e"
+  },
+  {
+    "candidate_name": "Hermanos Vazquez",
+    "candidate_normalized_name": "hermanos vazquez",
+    "possible_match_normalized_name": "hermanas velazquez",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "9b7b3a79-8fb8-479c-8956-f86bc3995196"
+  },
+  {
+    "candidate_name": "Guillotina",
+    "candidate_normalized_name": "guillotina",
+    "possible_match_normalized_name": "gvillotina",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "5450d1c0-28b8-4fdc-9f89-048394152aa2"
+  },
+  {
+    "candidate_name": "Los Traileros del Norte",
+    "candidate_normalized_name": "los traileros del norte",
+    "possible_match_normalized_name": "los rieleros del norte",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "17b882d4-c0c7-4f28-abef-f4dd1d9d7ae5"
+  },
+  {
+    "candidate_name": "Odisseo",
+    "candidate_normalized_name": "odisseo",
+    "possible_match_normalized_name": "odiseo",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "0115593c-3c1f-41ba-83d2-471ce8bd5258"
+  },
+  {
+    "candidate_name": "Los Braveros del Norte",
+    "candidate_normalized_name": "los braveros del norte",
+    "possible_match_normalized_name": "los traileros del norte",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "e48228c5-ec7a-4310-b2dd-de5933ba5b5e"
+  },
+  {
+    "candidate_name": "Plastiko",
+    "candidate_normalized_name": "plastiko",
+    "possible_match_normalized_name": "plastikboy",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "f88e2544-ef48-406d-ae34-05a63579fa6e"
+  },
+  {
+    "candidate_name": "Zonk",
+    "candidate_normalized_name": "zonk",
+    "possible_match_normalized_name": "zonka",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "40446744-ff5d-4e07-a693-43f9fe317345"
+  },
+  {
+    "candidate_name": "Sonido San Francisco",
+    "candidate_normalized_name": "sonido san francisco",
+    "possible_match_normalized_name": "sonora san francisco",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "3f7e8a3a-b887-489d-8fb2-6dcfd29a3c49"
+  },
+  {
+    "candidate_name": "Tránsito",
+    "candidate_normalized_name": "transito",
+    "possible_match_normalized_name": "transistor",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "e5fb2cca-2f06-4f6f-8c80-f34900802864"
+  },
+  {
+    "candidate_name": "Los Dinners",
+    "candidate_normalized_name": "los dinners",
+    "possible_match_normalized_name": "los sinners",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "da82e184-7850-4306-836d-e2723c7e0fc9"
+  },
+  {
+    "candidate_name": "Skalo",
+    "candidate_normalized_name": "skalo",
+    "possible_match_normalized_name": "salo",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "5bd6cb07-5a4e-4109-bb79-82f3e52ff4a4"
+  },
+  {
+    "candidate_name": "Cult of Kain",
+    "candidate_normalized_name": "cult of kain",
+    "possible_match_normalized_name": "cvlt of kain",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "9a036af2-558b-42fe-9581-ea3626fe7c78"
+  },
+  {
+    "candidate_name": "Los Mimos",
+    "candidate_normalized_name": "los mimos",
+    "possible_match_normalized_name": "los mismos",
+    "similarity": 94,
+    "source": "musicbrainz",
+    "source_artist_id": "1aad53ad-4310-41c0-b52f-ca0f79340670"
+  },
+  {
+    "candidate_name": "La Pipa de la Paz",
+    "candidate_normalized_name": "la pipa de la paz",
+    "possible_match_normalized_name": "las pipas de la paz",
+    "similarity": 94,
+    "source": "musicbrainz",
+    "source_artist_id": "8a4de7d0-264c-4a49-92e0-ae54eb8952c7"
+  },
+  {
+    "candidate_name": "Sentido Opuesto",
+    "candidate_normalized_name": "sentido opuesto",
+    "possible_match_normalized_name": "sentidos opuestos",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "08d475fb-3ccf-4d86-9414-2cbf80900369"
+  },
+  {
+    "candidate_name": "Alfonso Sayaz",
+    "candidate_normalized_name": "alfonso sayaz",
+    "possible_match_normalized_name": "alfonso maya",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "203958c7-6bf8-4b47-9f98-49ed0a2b4041"
+  },
+  {
+    "candidate_name": "Los Bambys",
+    "candidate_normalized_name": "los bambys",
+    "possible_match_normalized_name": "los babys",
+    "similarity": 94,
+    "source": "musicbrainz",
+    "source_artist_id": "0376de84-f2fd-4953-8e08-63e4ccf76da0"
+  },
+  {
+    "candidate_name": "Mil Ángeles",
+    "candidate_normalized_name": "mil angeles",
+    "possible_match_normalized_name": "miguel angeles",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "0e072ea6-6e7b-4ac2-8904-45c393ed62dc"
+  },
+  {
+    "candidate_name": "Los Dorados de Durango",
+    "candidate_normalized_name": "los dorados de durango",
+    "possible_match_normalized_name": "los dos de durango",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "c8b163a0-913d-457c-91ba-78230f19adb3"
+  },
+  {
+    "candidate_name": "Los Gatos de Sinaloa",
+    "candidate_normalized_name": "los gatos de sinaloa",
+    "possible_match_normalized_name": "los mayitos de sinaloa",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "6c9114a2-f81a-44ab-a55a-38a9c73620d2"
+  },
+  {
+    "candidate_name": "Gore Matraca",
+    "candidate_normalized_name": "gore matraca",
+    "possible_match_normalized_name": "gore matraka",
+    "similarity": 91,
+    "source": "musicbrainz",
+    "source_artist_id": "477cdf1d-a671-426b-a9bc-6d11ba60db9f"
+  },
+  {
+    "candidate_name": "Los Tres Huastecos",
+    "candidate_normalized_name": "los tres huastecos",
+    "possible_match_normalized_name": "los tres yucatecos",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "7fb7360e-72e8-4d04-9138-d450a0a159e3"
+  },
+  {
+    "candidate_name": "Los Alteños de la Sierra",
+    "candidate_normalized_name": "los altenos de la sierra",
+    "possible_match_normalized_name": "los alamenos de la sierra",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "c9770d70-62d7-45c4-aaee-5280e057a87d"
+  },
+  {
+    "candidate_name": "Sergio Lara",
+    "candidate_normalized_name": "sergio lara",
+    "possible_match_normalized_name": "sergio arau",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "80acbed1-c4ec-48c0-89ec-6c512f8da174"
+  },
+  {
+    "candidate_name": "Luis Cardenas",
+    "candidate_normalized_name": "luis cardenas",
+    "possible_match_normalized_name": "las cardenas",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "5ec30a59-08d3-48e9-a13e-d67b17ac6c8f"
+  },
+  {
+    "candidate_name": "Carlos Cavazo",
+    "candidate_normalized_name": "carlos cavazo",
+    "possible_match_normalized_name": "carlos calva",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "9e5a9e2c-611a-44b8-a42e-981d20f1d303"
+  },
+  {
+    "candidate_name": "Alejandro Orozco",
+    "candidate_normalized_name": "alejandro orozco",
+    "possible_match_normalized_name": "alejandra orozco",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "bdb86d22-8a2f-4f82-a5e3-57e89716329c"
+  },
+  {
+    "candidate_name": "Leonor",
+    "candidate_normalized_name": "leonor",
+    "possible_match_normalized_name": "leonora",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "b60c14df-070d-4fb9-9442-ceb130d66531"
+  },
+  {
+    "candidate_name": "Luis Arcaraz Jr.",
+    "candidate_normalized_name": "luis arcaraz jr",
+    "possible_match_normalized_name": "luis arcaraz",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "bb8bee12-0e4a-4cd8-9031-9f58442224d3"
+  },
+  {
+    "candidate_name": "Lillith",
+    "candidate_normalized_name": "lillith",
+    "possible_match_normalized_name": "lilith",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "df9e19c8-6ef8-4b26-b1c8-f2adfc2b92de"
+  },
+  {
+    "candidate_name": "LA Sombra",
+    "candidate_normalized_name": "la sombra",
+    "possible_match_normalized_name": "las sombras",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "72383051-87d1-4537-bea7-a4ab4209e631"
+  },
+  {
+    "candidate_name": "Gabriel Rodríguez EMC",
+    "candidate_normalized_name": "gabriel rodriguez emc",
+    "possible_match_normalized_name": "gabriel rodriguez",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "4305a856-d5e2-425a-98bb-b53278bccd29"
+  },
+  {
+    "candidate_name": "Axel Romero",
+    "candidate_normalized_name": "axel romero",
+    "possible_match_normalized_name": "abel romero",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "b2bf5d38-c0ec-40ce-ac34-353f52c984a1"
+  },
+  {
+    "candidate_name": "Daniel Sánchez",
+    "candidate_normalized_name": "daniel sanchez",
+    "possible_match_normalized_name": "dan sanchez",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "b03a4820-2928-4ffc-bfb5-d0ad40b59d6d"
+  },
+  {
+    "candidate_name": "Enrique Mora",
+    "candidate_normalized_name": "enrique mora",
+    "possible_match_normalized_name": "enrique borja",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "e5fd7751-b703-43e1-bcd5-ec1e2a09ab16"
+  },
+  {
+    "candidate_name": "Carlos Rivarola",
+    "candidate_normalized_name": "carlos rivarola",
+    "possible_match_normalized_name": "carla rivarola",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "c797f3b9-1af0-43a5-b4fd-6e61f3540896"
+  },
+  {
+    "candidate_name": "Eduardo Piña",
+    "candidate_normalized_name": "eduardo pina",
+    "possible_match_normalized_name": "eduardo linan",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "bd231818-1eae-4243-9ac8-a1a17698aad3"
+  },
+  {
+    "candidate_name": "César Ceja",
+    "candidate_normalized_name": "cesar ceja",
+    "possible_match_normalized_name": "cesar coja",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "d66c7e86-d8ce-4dd3-869c-14690a2ae98c"
+  },
+  {
+    "candidate_name": "Ana Isabel Zubillaga",
+    "candidate_normalized_name": "ana isabel zubillaga",
+    "possible_match_normalized_name": "anabel zubillaga",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "49718e94-7f00-4625-8c7c-f7a3d5965ea9"
+  },
+  {
+    "candidate_name": "Micro",
+    "candidate_normalized_name": "micro",
+    "possible_match_normalized_name": "miro",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "ec81f87d-2547-4089-8c93-f264bf2c7cd1"
+  },
+  {
+    "candidate_name": "Ernesto Amaya",
+    "candidate_normalized_name": "ernesto amaya",
+    "possible_match_normalized_name": "ernesto anaya",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "f681b0ca-0964-45ba-bc52-060d1b5e0f71"
+  },
+  {
+    "candidate_name": "Carlos González",
+    "candidate_normalized_name": "carlos gonzalez",
+    "possible_match_normalized_name": "carlos gonzales",
+    "similarity": 93,
+    "source": "musicbrainz",
+    "source_artist_id": "6e4d697b-b324-41e6-b2ad-0ff2f6f9098d"
+  },
+  {
+    "candidate_name": "Juanita Mendoza",
+    "candidate_normalized_name": "juanita mendoza",
+    "possible_match_normalized_name": "juan mendoza",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "03af3010-2736-494f-9160-8951e7770c27"
+  },
+  {
+    "candidate_name": "Trío Alma Hidalguense",
+    "candidate_normalized_name": "trio alma hidalguense",
+    "possible_match_normalized_name": "trio amor hidalguense",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "f4beae9b-c190-4943-8cbe-ffe4cebf5078"
+  },
+  {
+    "candidate_name": "Los Dukes",
+    "candidate_normalized_name": "los dukes",
+    "possible_match_normalized_name": "los dukers",
+    "similarity": 94,
+    "source": "musicbrainz",
+    "source_artist_id": "9eff5a12-1b19-4508-bcc1-ad87dcba22c2"
+  },
+  {
+    "candidate_name": "Coro de la Ciudad de México",
+    "candidate_normalized_name": "coro de la ciudad de mexico",
+    "possible_match_normalized_name": "cuarteto de la ciudad de mexico",
+    "similarity": 89,
+    "source": "musicbrainz",
+    "source_artist_id": "064aa63c-3c64-4004-b385-167d3a34f5a0"
+  },
+  {
+    "candidate_name": "Mahkina",
+    "candidate_normalized_name": "mahkina",
+    "possible_match_normalized_name": "makina",
+    "similarity": 92,
+    "source": "musicbrainz",
+    "source_artist_id": "d5ae4b61-c58c-469f-808e-4b24569acbbc"
+  },
+  {
+    "candidate_name": "Yūrei",
+    "candidate_normalized_name": "yurei",
+    "possible_match_normalized_name": "yuri",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "59940a39-5ef0-4a6c-8cdc-535235dc6f99"
+  },
+  {
+    "candidate_name": "Polvo",
+    "candidate_normalized_name": "polvo",
+    "possible_match_normalized_name": "polo",
+    "similarity": 88,
+    "source": "musicbrainz",
+    "source_artist_id": "a6161285-4e67-4080-ad85-b8748e6b3adf"
+  },
+  {
+    "candidate_name": "Mauricio Hernández",
+    "candidate_normalized_name": "mauricio hernandez",
+    "possible_match_normalized_name": "mauricio fernandez",
+    "similarity": 94,
+    "source": "musicbrainz",
+    "source_artist_id": "76538f37-6f6c-4b10-a509-97c894551da7"
+  },
+  {
+    "candidate_name": "Jose Julian",
+    "candidate_normalized_name": "jose julian",
+    "possible_match_normalized_name": "jose juan",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "cf15f1b7-8cbc-4e06-b05b-b1a303981eae"
+  },
+  {
+    "candidate_name": "Revolucion X",
+    "candidate_normalized_name": "revolucion x",
+    "possible_match_normalized_name": "revolucion",
+    "similarity": 90,
+    "source": "musicbrainz",
+    "source_artist_id": "32fb793c-3252-47e4-9c06-349c98f9d86a"
+  },
+  {
+    "candidate_name": "Los Reno",
+    "candidate_normalized_name": "los reno",
+    "possible_match_normalized_name": "los fresno",
+    "similarity": 88,
+    "source": "wikidata",
+    "source_artist_id": "Q5980293"
+  },
+  {
+    "candidate_name": "Fernando Garibay",
+    "candidate_normalized_name": "fernando garibay",
+    "possible_match_normalized_name": "fernando riba",
+    "similarity": 89,
+    "source": "wikidata",
+    "source_artist_id": "Q719172"
+  },
+  {
+    "candidate_name": "Ernesto Cortázar Sr.",
+    "candidate_normalized_name": "ernesto cortazar sr",
+    "possible_match_normalized_name": "ernesto cortazar",
+    "similarity": 91,
+    "source": "wikidata",
+    "source_artist_id": "Q1356715"
+  },
+  {
+    "candidate_name": "Ernesto Cortázar II",
+    "candidate_normalized_name": "ernesto cortazar ii",
+    "possible_match_normalized_name": "ernesto cortazar",
+    "similarity": 91,
+    "source": "wikidata",
+    "source_artist_id": "Q1356727"
+  },
+  {
+    "candidate_name": "Banda de Música del Estado de Zacatecas",
+    "candidate_normalized_name": "banda de musica del estado de zacatecas",
+    "possible_match_normalized_name": "banda de musica del estado de oaxaca",
+    "similarity": 88,
+    "source": "wikidata",
+    "source_artist_id": "Q6393037"
+  },
+  {
+    "candidate_name": "Magnet",
+    "candidate_normalized_name": "magnet",
+    "possible_match_normalized_name": "magneto",
+    "similarity": 92,
+    "source": "wikidata",
+    "source_artist_id": "Q6731652"
+  },
+  {
+    "candidate_name": "Sasha, Benny & Erik",
+    "candidate_normalized_name": "sasha benny erik",
+    "possible_match_normalized_name": "sasha benny y erik",
+    "similarity": 94,
+    "source": "wikidata",
+    "source_artist_id": "Q13550763"
+  },
+  {
+    "candidate_name": "Ana Martín",
+    "candidate_normalized_name": "ana martin",
+    "possible_match_normalized_name": "asa martin",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q2844996"
+  },
+  {
+    "candidate_name": "Marco Moré",
+    "candidate_normalized_name": "marco more",
+    "possible_match_normalized_name": "marco moreno",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q5413209"
+  },
+  {
+    "candidate_name": "Velino Preza",
+    "candidate_normalized_name": "velino preza",
+    "possible_match_normalized_name": "velino m preza",
+    "similarity": 92,
+    "source": "wikidata",
+    "source_artist_id": "Q2344700"
+  },
+  {
+    "candidate_name": "Agustín Arana",
+    "candidate_normalized_name": "agustin arana",
+    "possible_match_normalized_name": "agustin lara",
+    "similarity": 88,
+    "source": "wikidata",
+    "source_artist_id": "Q5660531"
+  },
+  {
+    "candidate_name": "Los Baby's",
+    "candidate_normalized_name": "los baby s",
+    "possible_match_normalized_name": "los babys",
+    "similarity": 94,
+    "source": "wikidata",
+    "source_artist_id": "Q9023893"
+  },
+  {
+    "candidate_name": "Miguel F. Martínez",
+    "candidate_normalized_name": "miguel f martinez",
+    "possible_match_normalized_name": "miguel martinez",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q6014268"
+  },
+  {
+    "candidate_name": "Sergio Vela",
+    "candidate_normalized_name": "sergio vela",
+    "possible_match_normalized_name": "sergio vega",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q7454439"
+  },
+  {
+    "candidate_name": "José Manuel Figueroa",
+    "candidate_normalized_name": "jose manuel figueroa",
+    "possible_match_normalized_name": "jose manuel figueroa jr",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q16215253"
+  },
+  {
+    "candidate_name": "Alejandro Algara",
+    "candidate_normalized_name": "alejandro algara",
+    "possible_match_normalized_name": "alejandro algard",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q16145542"
+  },
+  {
+    "candidate_name": "Chucho Navarro Jr",
+    "candidate_normalized_name": "chucho navarro jr",
+    "possible_match_normalized_name": "chucho navarro",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q19122343"
+  },
+  {
+    "candidate_name": "Antonio Aguilar Jr.",
+    "candidate_normalized_name": "antonio aguilar jr",
+    "possible_match_normalized_name": "antonio aguilar",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q23907189"
+  },
+  {
+    "candidate_name": "Rafael Vázquez",
+    "candidate_normalized_name": "rafael vazquez",
+    "possible_match_normalized_name": "rafael blazquez",
+    "similarity": 89,
+    "source": "wikidata",
+    "source_artist_id": "Q48761039"
+  },
+  {
+    "candidate_name": "Luis Álvarez",
+    "candidate_normalized_name": "luis alvarez",
+    "possible_match_normalized_name": "luis alvaz",
+    "similarity": 90,
+    "source": "wikidata",
+    "source_artist_id": "Q64750741"
+  },
+  {
+    "candidate_name": "Jolette",
+    "candidate_normalized_name": "jolette",
+    "possible_match_normalized_name": "joliette",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q52453146"
+  },
+  {
+    "candidate_name": "José Antonio Farías",
+    "candidate_normalized_name": "jose antonio farias",
+    "possible_match_normalized_name": "jose antonio macias",
+    "similarity": 89,
+    "source": "wikidata",
+    "source_artist_id": "Q32362695"
+  },
+  {
+    "candidate_name": "Carla Garcia",
+    "candidate_normalized_name": "carla garcia",
+    "possible_match_normalized_name": "carlos garcia",
+    "similarity": 88,
+    "source": "wikidata",
+    "source_artist_id": "Q104868463"
+  },
+  {
+    "candidate_name": "Alejandro Flores",
+    "candidate_normalized_name": "alejandro flores",
+    "possible_match_normalized_name": "alejandra flores",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q102987034"
+  },
+  {
+    "candidate_name": "Roberto Mendoza",
+    "candidate_normalized_name": "roberto mendoza",
+    "possible_match_normalized_name": "roberto a mendoza",
+    "similarity": 93,
+    "source": "wikidata",
+    "source_artist_id": "Q84424461"
+  },
+  {
+    "candidate_name": "María Fernanda Alvo",
+    "candidate_normalized_name": "maria fernanda alvo",
+    "possible_match_normalized_name": "maria fernanda malo",
+    "similarity": 94,
+    "source": "wikidata",
+    "source_artist_id": "Q125210592"
+  },
+  {
+    "candidate_name": "Carlos Medina",
+    "candidate_normalized_name": "carlos medina",
+    "possible_match_normalized_name": "carla medina",
+    "similarity": 88,
+    "source": "wikidata",
+    "source_artist_id": "Q130538269"
+  },
+  {
+    "candidate_name": "Santiago Casillas",
+    "candidate_normalized_name": "santiago casillas",
+    "possible_match_normalized_name": "santiago castillos",
+    "similarity": 91,
+    "source": "wikidata",
+    "source_artist_id": "Q130534953"
+  },
+  {
+    "candidate_name": "Carlos Parra",
+    "candidate_normalized_name": "carlos parra",
+    "possible_match_normalized_name": "carlos iparrea",
+    "similarity": 92,
+    "source": "wikidata",
+    "source_artist_id": "Q124967420"
+  },
+  {
+    "candidate_name": "Armando Rosas",
+    "candidate_normalized_name": "armando rosas",
+    "possible_match_normalized_name": "armando rosales",
+    "similarity": 92,
+    "source": "wikidata",
+    "source_artist_id": "Q136763605"
+  }
+]

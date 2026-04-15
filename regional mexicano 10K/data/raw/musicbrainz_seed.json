@@ -1,0 +1,6352 @@
+[
+  {
+    "name": "Los Rieleros del Norte",
+    "aliases": [],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f659508e-5ed6-49a3-a15f-66628c98eb0e",
+    "source_url": "https://musicbrainz.org/artist/f659508e-5ed6-49a3-a15f-66628c98eb0e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chavela Vargas",
+    "aliases": [
+      "Chabela Vargas",
+      "Isabel Vargas Lizano"
+    ],
+    "country_signals": [
+      "Heredia",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "macorina",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "77586a91-4586-4962-b836-e496d3a05432",
+    "source_url": "https://musicbrainz.org/artist/77586a91-4586-4962-b836-e496d3a05432",
+    "popularity_metric": null
+  },
+  {
+    "name": "Paquita la del Barrio",
+    "aliases": [
+      "Francisca Viveros Barradas"
+    ],
+    "country_signals": [
+      "Alto Lucero",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "34d5c30f-55f5-4ab2-abce-2456a1ee0e01",
+    "source_url": "https://musicbrainz.org/artist/34d5c30f-55f5-4ab2-abce-2456a1ee0e01",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Coyote y su Banda Tierra Santa",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mazatlan",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "corrido",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c6fdc194-f46e-495d-b84d-442eb3d74800",
+    "source_url": "https://musicbrainz.org/artist/c6fdc194-f46e-495d-b84d-442eb3d74800",
+    "popularity_metric": null
+  },
+  {
+    "name": "Gerardo Reyes",
+    "aliases": [
+      "Gerardo Reyes Ortiz"
+    ],
+    "country_signals": [
+      "Guerrero",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0d2829bf-2c71-4cc4-86b1-211f022bf490",
+    "source_url": "https://musicbrainz.org/artist/0d2829bf-2c71-4cc4-86b1-211f022bf490",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fuerza Regida",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e665ce26-6ce9-4c42-8f6a-7a361a0ba328",
+    "source_url": "https://musicbrainz.org/artist/e665ce26-6ce9-4c42-8f6a-7a361a0ba328",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Mendoza",
+    "aliases": [
+      "El Tariácuri",
+      "Juan Mendoza Garcia"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2ff4cbba-941e-4c0e-8b2a-1814d0b0b831",
+    "source_url": "https://musicbrainz.org/artist/2ff4cbba-941e-4c0e-8b2a-1814d0b0b831",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Relámpagos del Norte",
+    "aliases": [
+      "Los Relámpagos"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Reynosa"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a6d6e06f-5478-413b-9554-071138b1ac31",
+    "source_url": "https://musicbrainz.org/artist/a6d6e06f-5478-413b-9554-071138b1ac31",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda MS de Sergio Lizárraga",
+    "aliases": [
+      "Banda MS"
+    ],
+    "country_signals": [
+      "MX",
+      "Mazatlan",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "04bb4a12-08a3-463b-a0df-63c1fb658497",
+    "source_url": "https://musicbrainz.org/artist/04bb4a12-08a3-463b-a0df-63c1fb658497",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Lobos del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "32a0e6c9-7755-43d4-9114-a0c12442b987",
+    "source_url": "https://musicbrainz.org/artist/32a0e6c9-7755-43d4-9114-a0c12442b987",
+    "popularity_metric": null
+  },
+  {
+    "name": "Sergio Vega",
+    "aliases": [
+      "El Shaka",
+      "Jose Sergio Vega Cuamea",
+      "José Sergio Vega Cuamea",
+      "Sergio Vega \"El Shaka\""
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3326b816-f1c1-4a38-a381-82b36a380312",
+    "source_url": "https://musicbrainz.org/artist/3326b816-f1c1-4a38-a381-82b36a380312",
+    "popularity_metric": null
+  },
+  {
+    "name": "Conjunto Primavera",
+    "aliases": [],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "norteño-sax",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d9c37cc9-a2c0-4e79-80b4-fa310c19cb47",
+    "source_url": "https://musicbrainz.org/artist/d9c37cc9-a2c0-4e79-80b4-fa310c19cb47",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Cuates de Sinaloa",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4371c010-c59c-4332-940a-56a904c7aec9",
+    "source_url": "https://musicbrainz.org/artist/4371c010-c59c-4332-940a-56a904c7aec9",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Chapo de Sinaloa",
+    "aliases": [
+      "Ernesto Perez Zagaste",
+      "Ernesto Pérez",
+      "Ernesto Pérez Zagaste"
+    ],
+    "country_signals": [
+      "Badiraguato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a7e2a52b-db71-4ef1-892b-4a1b8a3825e5",
+    "source_url": "https://musicbrainz.org/artist/a7e2a52b-db71-4ef1-892b-4a1b8a3825e5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cornelio Reyna",
+    "aliases": [
+      "Cornelio Reyna Cisneros"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Saltillo"
+    ],
+    "genre_signals": [
+      "latin",
+      "norteño",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4ea5c4c2-07e9-4f6d-8a92-7d39c373e0f2",
+    "source_url": "https://musicbrainz.org/artist/4ea5c4c2-07e9-4f6d-8a92-7d39c373e0f2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Renovación",
+    "aliases": [],
+    "country_signals": [
+      "Culiacán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b5509567-88ee-4327-8223-a937f6a53bb5",
+    "source_url": "https://musicbrainz.org/artist/b5509567-88ee-4327-8223-a937f6a53bb5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Tiranos del Norte",
+    "aliases": [],
+    "country_signals": [
+      "Baja California",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d9b6da3d-abd4-4626-9629-c15f2b14bf02",
+    "source_url": "https://musicbrainz.org/artist/d9b6da3d-abd4-4626-9629-c15f2b14bf02",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Gorriones del Topo Chico",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Monterrey"
+    ],
+    "genre_signals": [
+      "corrido",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2330273f-bdef-4faf-88a9-3737b86e1832",
+    "source_url": "https://musicbrainz.org/artist/2330273f-bdef-4faf-88a9-3737b86e1832",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Rancheritos del Topo Chico",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2c768d3c-8c5f-4925-b331-3c5d9b4175a7",
+    "source_url": "https://musicbrainz.org/artist/2c768d3c-8c5f-4925-b331-3c5d9b4175a7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Hermanos Prado",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "norteño-sax",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "61c094d4-7dc9-48fc-a2c8-da90e3b80bd8",
+    "source_url": "https://musicbrainz.org/artist/61c094d4-7dc9-48fc-a2c8-da90e3b80bd8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mi Banda El Mexicano",
+    "aliases": [
+      "Banda El Mexicano"
+    ],
+    "country_signals": [
+      "MX",
+      "Mazatlan",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "technobanda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "13908222-2865-4326-9495-06957533b6f3",
+    "source_url": "https://musicbrainz.org/artist/13908222-2865-4326-9495-06957533b6f3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lorenzo de Monteclaro",
+    "aliases": [],
+    "country_signals": [
+      "Durango",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "98dc0744-dd24-4f03-b1bc-43e938ee42b2",
+    "source_url": "https://musicbrainz.org/artist/98dc0744-dd24-4f03-b1bc-43e938ee42b2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Luis Pérez Meza",
+    "aliases": [
+      "Ignacio Perez Meza",
+      "Ignacio Pérez Meza",
+      "Luis Pérez Meza"
+    ],
+    "country_signals": [
+      "Cosalá Municipality",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "bd663c85-c132-4bd3-8399-df03bd8c0caf",
+    "source_url": "https://musicbrainz.org/artist/bd663c85-c132-4bd3-8399-df03bd8c0caf",
+    "popularity_metric": null
+  },
+  {
+    "name": "Dueto Cartablanca",
+    "aliases": [
+      "Dueto Carta Blanca",
+      "Hermanos Peña"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5c6bb3aa-4a5e-493d-98a1-77b922c45624",
+    "source_url": "https://musicbrainz.org/artist/5c6bb3aa-4a5e-493d-98a1-77b922c45624",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Rayos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3484b569-8f6d-45ee-b46d-1a69d615f45c",
+    "source_url": "https://musicbrainz.org/artist/3484b569-8f6d-45ee-b46d-1a69d615f45c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Tierra Cali",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "tierra caliente"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6a5d9ce0-bc7e-469e-a0c7-538df4dbe39e",
+    "source_url": "https://musicbrainz.org/artist/6a5d9ce0-bc7e-469e-a0c7-538df4dbe39e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Panchito Arredondo",
+    "aliases": [
+      "Francisco Javier Arredondo Bojorquez"
+    ],
+    "country_signals": [
+      "Guamúchil",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "47f36aaf-0f9c-4a1c-834c-6ca34850d84e",
+    "source_url": "https://musicbrainz.org/artist/47f36aaf-0f9c-4a1c-834c-6ca34850d84e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Revolver Cannabis",
+    "aliases": [],
+    "country_signals": [
+      "Culiacán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "norteño-banda",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f5356b7b-d070-4d67-a5a8-5b312affb770",
+    "source_url": "https://musicbrainz.org/artist/f5356b7b-d070-4d67-a5a8-5b312affb770",
+    "popularity_metric": null
+  },
+  {
+    "name": "Junior H",
+    "aliases": [
+      "Antonio Herrera Pérez"
+    ],
+    "country_signals": [
+      "Guanajuato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido tumbado",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "af1b83bb-3edc-4443-b771-67a1d235e82b",
+    "source_url": "https://musicbrainz.org/artist/af1b83bb-3edc-4443-b771-67a1d235e82b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lalo Mora",
+    "aliases": [
+      "Eduardo Mora Hernàndez",
+      "Lalo Mora, Sr."
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8e47a469-d4ba-45ad-aba0-7272f1bc368f",
+    "source_url": "https://musicbrainz.org/artist/8e47a469-d4ba-45ad-aba0-7272f1bc368f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alegres de la Sierra",
+    "aliases": [
+      "Los Alegres de la Sierra"
+    ],
+    "country_signals": [
+      "El Fuerte",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a07dff93-e25f-438d-aecb-db4bbdce4d08",
+    "source_url": "https://musicbrainz.org/artist/a07dff93-e25f-438d-aecb-db4bbdce4d08",
+    "popularity_metric": null
+  },
+  {
+    "name": "Peso Pluma",
+    "aliases": [
+      "Doble P",
+      "Hassan Emilio Kabande Laija"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Zapopan"
+    ],
+    "genre_signals": [
+      "corrido tumbado",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+    "source_url": "https://musicbrainz.org/artist/75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+    "popularity_metric": null
+  },
+  {
+    "name": "Julio Preciado",
+    "aliases": [
+      "Julio Cesar Preciado Quevedo",
+      "Julio César Preciado Quevedo"
+    ],
+    "country_signals": [
+      "MX",
+      "Mazatlan",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "26799dd8-4efe-49bc-a8d1-d0dd778a267f",
+    "source_url": "https://musicbrainz.org/artist/26799dd8-4efe-49bc-a8d1-d0dd778a267f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Alameños De La Sierra",
+    "aliases": [],
+    "country_signals": [
+      "Los Mochis",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b5f829fe-6285-4c44-a1ff-dce2f2552a97",
+    "source_url": "https://musicbrainz.org/artist/b5f829fe-6285-4c44-a1ff-dce2f2552a97",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pedro Vargas",
+    "aliases": [
+      "Pedro Vargas Mata"
+    ],
+    "country_signals": [
+      "Guanajuato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "crooner",
+      "ranchera",
+      "regional mexicano",
+      "tenor"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6ace31a6-6b63-4f20-be6b-5e1f6b3377ac",
+    "source_url": "https://musicbrainz.org/artist/6ace31a6-6b63-4f20-be6b-5e1f6b3377ac",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Los Tamazulas de Culiacán",
+    "aliases": [
+      "Banda Sinaloense Los Tamazulas de Culiacán",
+      "Los Tamazulas"
+    ],
+    "country_signals": [
+      "Culiacán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8d7fcd03-c323-4351-baa4-99c7fb27304b",
+    "source_url": "https://musicbrainz.org/artist/8d7fcd03-c323-4351-baa4-99c7fb27304b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Yuridia",
+    "aliases": [
+      "Yuridia Francisca Gaxiola Flores"
+    ],
+    "country_signals": [
+      "Hermosillo",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "15ba83b7-d89a-4dd6-9695-1290fb567493",
+    "source_url": "https://musicbrainz.org/artist/15ba83b7-d89a-4dd6-9695-1290fb567493",
+    "popularity_metric": null
+  },
+  {
+    "name": "Federico Villa",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Zamora"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a07e570c-2672-4804-950f-066bacacd1b6",
+    "source_url": "https://musicbrainz.org/artist/a07e570c-2672-4804-950f-066bacacd1b6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pancho Barraza",
+    "aliases": [
+      "Francisco Javier Barraza Rodríguez",
+      "Jose Arriaga Barraza Rodríguez"
+    ],
+    "country_signals": [
+      "Guasave",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda",
+      "banda sinaloense",
+      "latin pop",
+      "mariachi",
+      "ranchera",
+      "regional mexicano",
+      "tropical house"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0556bfcd-52d0-4ec2-953d-52e93f2d2447",
+    "source_url": "https://musicbrainz.org/artist/0556bfcd-52d0-4ec2-953d-52e93f2d2447",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Canelos de Durango",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "duranguense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "96d6268a-c9b1-4550-91bd-98f420d396c1",
+    "source_url": "https://musicbrainz.org/artist/96d6268a-c9b1-4550-91bd-98f420d396c1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Cirerol",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexicali",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "alternative country",
+      "alternative folk",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9b33f643-2b14-4696-a13e-cf91197f9bf5",
+    "source_url": "https://musicbrainz.org/artist/9b33f643-2b14-4696-a13e-cf91197f9bf5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Perla de Occidente",
+    "aliases": [
+      "Mariachi Los Diablos Rojos",
+      "Mariachi Perla de Occidente de Marcelino Ortega"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e3df98eb-09c7-48c7-821a-bff01a98ed7c",
+    "source_url": "https://musicbrainz.org/artist/e3df98eb-09c7-48c7-821a-bff01a98ed7c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Calibre 50",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mazatlan",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido",
+      "latin",
+      "regional mexicano",
+      "serrieno-banda",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "28c7230b-cf8f-49c8-aac9-92d36fb7a067",
+    "source_url": "https://musicbrainz.org/artist/28c7230b-cf8f-49c8-aac9-92d36fb7a067",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Traviezoz de la Zierra",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7ccb674d-7dc9-48d7-809b-5ab793e6cd1e",
+    "source_url": "https://musicbrainz.org/artist/7ccb674d-7dc9-48d7-809b-5ab793e6cd1e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Francisco Avitia",
+    "aliases": [
+      "Charro Avitia",
+      "El Charro Avitia"
+    ],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido",
+      "latin",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "86fdf55a-ec4b-421a-9272-035cfa95adea",
+    "source_url": "https://musicbrainz.org/artist/86fdf55a-ec4b-421a-9272-035cfa95adea",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Traileros del Norte",
+    "aliases": [],
+    "country_signals": [
+      "Guadalupe",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "17b882d4-c0c7-4f28-abef-f4dd1d9d7ae5",
+    "source_url": "https://musicbrainz.org/artist/17b882d4-c0c7-4f28-abef-f4dd1d9d7ae5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Valentín Elizalde",
+    "aliases": [
+      "Valentín Elizalde Valencia"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Navojoa"
+    ],
+    "genre_signals": [
+      "27 club",
+      "banda sinaloense",
+      "corrido",
+      "narcocorrido",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f45cbc18-1561-4b76-9850-535e871cdd49",
+    "source_url": "https://musicbrainz.org/artist/f45cbc18-1561-4b76-9850-535e871cdd49",
+    "popularity_metric": null
+  },
+  {
+    "name": "Tavo Lara",
+    "aliases": [
+      "Octavio Lara Montiel"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "289a1b67-3ac3-4806-b74f-d345774547f5",
+    "source_url": "https://musicbrainz.org/artist/289a1b67-3ac3-4806-b74f-d345774547f5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Bulmaro Bermúdez",
+    "aliases": [
+      "Bulmaro Bermúdez Gómez"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a4dd2bfc-980b-4a10-aa7f-0b96c5ece95a",
+    "source_url": "https://musicbrainz.org/artist/a4dd2bfc-980b-4a10-aa7f-0b96c5ece95a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Intocables del Norte",
+    "aliases": [],
+    "country_signals": [
+      "Culiacán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "eeb2f5e4-52d6-4122-9ebe-ca46fc4bd02b",
+    "source_url": "https://musicbrainz.org/artist/eeb2f5e4-52d6-4122-9ebe-ca46fc4bd02b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alfonso Esparza Oteo",
+    "aliases": [],
+    "country_signals": [
+      "Aguascalientes",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3cb7e978-bb64-4d67-a231-e6bba37410f7",
+    "source_url": "https://musicbrainz.org/artist/3cb7e978-bb64-4d67-a231-e6bba37410f7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chalino Sánchez",
+    "aliases": [
+      "Rosalino Sánchez Félix"
+    ],
+    "country_signals": [
+      "Culiacán Municipality",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "_private tag 1",
+      "corrido",
+      "death by murder",
+      "latin",
+      "narcocorrido",
+      "regional mexicano",
+      "singer-songwriter"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e3205b9f-9e38-4af3-bf48-d8122d6da118",
+    "source_url": "https://musicbrainz.org/artist/e3205b9f-9e38-4af3-bf48-d8122d6da118",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chuy Lizárraga y su Banda Tierra Sinaloense",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9a536964-182b-4b86-a9f6-c5b01f6bb3e4",
+    "source_url": "https://musicbrainz.org/artist/9a536964-182b-4b86-a9f6-c5b01f6bb3e4",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Piporro",
+    "aliases": [
+      "Eulalio \"Lalo\" González Ramírez",
+      "Eulalio González Ramírez",
+      "Eulario González",
+      "Lalo González",
+      "Lalo González 'El Piporro'",
+      "Piporro González"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "comedy",
+      "corrido",
+      "mariachi",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1db561fd-15e6-4690-ae9a-a5d2bb178a9a",
+    "source_url": "https://musicbrainz.org/artist/1db561fd-15e6-4690-ae9a-a5d2bb178a9a",
+    "popularity_metric": null
+  },
+  {
+    "name": "José \"Pepe\" Martínez",
+    "aliases": [
+      "José Martínez Barajas"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tecalitlán"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f41a00c9-b8d0-41e4-b6a7-935b660486d7",
+    "source_url": "https://musicbrainz.org/artist/f41a00c9-b8d0-41e4-b6a7-935b660486d7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Christian Nodal",
+    "aliases": [
+      "Christian Jaime González Nodal"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sonora"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "ranchera",
+      "regional mexicano",
+      "vivo en el 6"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7f464f95-2410-4040-a88e-1dbe96f17fcd",
+    "source_url": "https://musicbrainz.org/artist/7f464f95-2410-4040-a88e-1dbe96f17fcd",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Los Escamillas",
+    "aliases": [
+      "Banda Sinaloense Los Escamilla",
+      "Banda Sinaloense de Los Hermanos Escamilla"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4985a6e2-9b96-4242-9da9-58f6c5635bed",
+    "source_url": "https://musicbrainz.org/artist/4985a6e2-9b96-4242-9da9-58f6c5635bed",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chavita",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "folk",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "222ae73b-7a1d-469f-be7d-9e3396e1a421",
+    "source_url": "https://musicbrainz.org/artist/222ae73b-7a1d-469f-be7d-9e3396e1a421",
+    "popularity_metric": null
+  },
+  {
+    "name": "Espinoza Paz",
+    "aliases": [
+      "Isidro Chávez Espinoza"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "corrido",
+      "latin",
+      "mariachi",
+      "norteño",
+      "regional mexicano",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3c540922-e986-4f7f-87c9-8fe34ec72bb9",
+    "source_url": "https://musicbrainz.org/artist/3c540922-e986-4f7f-87c9-8fe34ec72bb9",
+    "popularity_metric": null
+  },
+  {
+    "name": "David González",
+    "aliases": [
+      "David González Ramírez"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0331e508-8489-4a35-b211-4897d94d93e8",
+    "source_url": "https://musicbrainz.org/artist/0331e508-8489-4a35-b211-4897d94d93e8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Pinzón Saldaña",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Jalisco"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6ef33233-4d20-4b18-a0db-14cf0a0242d4",
+    "source_url": "https://musicbrainz.org/artist/6ef33233-4d20-4b18-a0db-14cf0a0242d4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Marcelino Ortega Encarnación",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Jalisco"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b4ae11a1-ad72-47a0-8a30-0f52dcca7919",
+    "source_url": "https://musicbrainz.org/artist/b4ae11a1-ad72-47a0-8a30-0f52dcca7919",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramón Gutiérrez Torres",
+    "aliases": [
+      "Ramón Gutiérrez"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Jalisco"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d185f142-d93f-4964-9d41-413193b21f10",
+    "source_url": "https://musicbrainz.org/artist/d185f142-d93f-4964-9d41-413193b21f10",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cutberto Pérez Muñoz",
+    "aliases": [],
+    "country_signals": [
+      "Chihuahua",
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "39bad765-8ead-4e9f-bb86-4fcf2aa83b8d",
+    "source_url": "https://musicbrainz.org/artist/39bad765-8ead-4e9f-bb86-4fcf2aa83b8d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pepe Zamudio",
+    "aliases": [
+      "Jose Luis Zamudio Xolalpa",
+      "José Luis Zamudio Xolalpa"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Guadalajara"
+    ],
+    "genre_signals": [
+      "latin",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "81b9a730-ed8e-4582-b96d-144218839ab1",
+    "source_url": "https://musicbrainz.org/artist/81b9a730-ed8e-4582-b96d-144218839ab1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jorge Perez Meza",
+    "aliases": [
+      "Jorge Luis Perez Zamudio",
+      "Jorge Luis Pérez Zamudio"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1ff317f3-0622-454c-ae12-5dd319767702",
+    "source_url": "https://musicbrainz.org/artist/1ff317f3-0622-454c-ae12-5dd319767702",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Renegados del Norte",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad Obregón",
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1c02e660-c556-4467-bb9e-015e7f78d6b0",
+    "source_url": "https://musicbrainz.org/artist/1c02e660-c556-4467-bb9e-015e7f78d6b0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alfonso Espriu Herrera",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "bolero",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b8c4160a-fd79-4d60-93d8-fceb827e77cc",
+    "source_url": "https://musicbrainz.org/artist/b8c4160a-fd79-4d60-93d8-fceb827e77cc",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jesús Gama Jr",
+    "aliases": [
+      "Jesús Gama Zamora"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8ebc1d8b-3b1e-4b08-b6b3-6859d7fa32fa",
+    "source_url": "https://musicbrainz.org/artist/8ebc1d8b-3b1e-4b08-b6b3-6859d7fa32fa",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chucho Gama",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0ea98ab2-0223-41e0-abb5-e55388674d59",
+    "source_url": "https://musicbrainz.org/artist/0ea98ab2-0223-41e0-abb5-e55388674d59",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Gama 1000",
+    "aliases": [
+      "Mariachi Gama Mil",
+      "Mariachi Gama Mil de Jesús Gama"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "20e247bc-e0a4-4967-b839-7daa3da55bec",
+    "source_url": "https://musicbrainz.org/artist/20e247bc-e0a4-4967-b839-7daa3da55bec",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramón Gaona",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "172797f7-8d39-46f0-97c1-c3c5d482dcaa",
+    "source_url": "https://musicbrainz.org/artist/172797f7-8d39-46f0-97c1-c3c5d482dcaa",
+    "popularity_metric": null
+  },
+  {
+    "name": "Remmy Valenzuela",
+    "aliases": [
+      "Remigio Alejandro Valenzuela Buelna"
+    ],
+    "country_signals": [
+      "Guasave",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido",
+      "narcocorrido",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "294f71b3-e120-424a-bae9-34acbd56d64f",
+    "source_url": "https://musicbrainz.org/artist/294f71b3-e120-424a-bae9-34acbd56d64f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ignacio Fernández Esperón",
+    "aliases": [
+      "Fernandez Esperon",
+      "Fernández Esperón",
+      "Ignacio Fernandez Esperon",
+      "Ignacio Fernández Esperón",
+      "Nacho"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Oaxaca de Juárez"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "99bade0e-33d0-42bb-9a54-7ce2b023b6ed",
+    "source_url": "https://musicbrainz.org/artist/99bade0e-33d0-42bb-9a54-7ce2b023b6ed",
+    "popularity_metric": null
+  },
+  {
+    "name": "Trío Tamaulipeco",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a9315d03-0d4f-4508-9600-f401c3a77938",
+    "source_url": "https://musicbrainz.org/artist/a9315d03-0d4f-4508-9600-f401c3a77938",
+    "popularity_metric": null
+  },
+  {
+    "name": "Tito Double P",
+    "aliases": [
+      "Jesus Roberto Laija Garcia",
+      "Jesús Roberto Laija García",
+      "Roberto Laija",
+      "Tito Laija"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tepic"
+    ],
+    "genre_signals": [
+      "corrido",
+      "latin",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "37316157-4e01-4ea8-b897-65a1a5a6bb30",
+    "source_url": "https://musicbrainz.org/artist/37316157-4e01-4ea8-b897-65a1a5a6bb30",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramiro Cavazos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1630ff09-9d34-4112-ac10-1c68565ce914",
+    "source_url": "https://musicbrainz.org/artist/1630ff09-9d34-4112-ac10-1c68565ce914",
+    "popularity_metric": null
+  },
+  {
+    "name": "Emilio Donato Uranga",
+    "aliases": [
+      "Emilio D. Uranga",
+      "Emilio Donato Uranga"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tulancingo"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8ef957ae-41f7-44aa-afc4-6d994d1d043d",
+    "source_url": "https://musicbrainz.org/artist/8ef957ae-41f7-44aa-afc4-6d994d1d043d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Neri",
+    "aliases": [
+      "Juan Fidel Neri Mancilla"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0b9ab897-2b41-4b45-a5ad-e4cabe4bb9da",
+    "source_url": "https://musicbrainz.org/artist/0b9ab897-2b41-4b45-a5ad-e4cabe4bb9da",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alberto Ángel",
+    "aliases": [
+      "Alberto Angel",
+      "Alberto Rafael Bustillos Alamilla"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "195a5078-6f52-485b-a21e-4c92ce3b21cb",
+    "source_url": "https://musicbrainz.org/artist/195a5078-6f52-485b-a21e-4c92ce3b21cb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda La Bufadora",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8aae97df-b497-4f59-b073-08660b8af65f",
+    "source_url": "https://musicbrainz.org/artist/8aae97df-b497-4f59-b073-08660b8af65f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Carin León",
+    "aliases": [
+      "Carin Leon",
+      "Óscar Armando Díaz de León Huez",
+      "Óscar Díaz de León"
+    ],
+    "country_signals": [
+      "Hermosillo",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "bolero",
+      "campirano",
+      "campirano-banda",
+      "corrido",
+      "latin",
+      "mariachi",
+      "norteño",
+      "norteño-banda",
+      "ranchera",
+      "reggaeton",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda",
+      "vallenato"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "db8efd58-7cd0-4ca8-a538-14ad6b44640b",
+    "source_url": "https://musicbrainz.org/artist/db8efd58-7cd0-4ca8-a538-14ad6b44640b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramón Ortega Contreras",
+    "aliases": [
+      "Ramón Ortega",
+      "Ramón Ortega Contreras"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Jalisco"
+    ],
+    "genre_signals": [
+      "corrido",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e7f13fe3-6f5d-4760-a468-8e5627fff028",
+    "source_url": "https://musicbrainz.org/artist/e7f13fe3-6f5d-4760-a468-8e5627fff028",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Plan",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Monterrey"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano",
+      "tejano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2b270b6c-a12f-4036-96b7-1ee090ea2e37",
+    "source_url": "https://musicbrainz.org/artist/2b270b6c-a12f-4036-96b7-1ee090ea2e37",
+    "popularity_metric": null
+  },
+  {
+    "name": "Antonio Aguilar Hijo",
+    "aliases": [
+      "Antonio Aguilar",
+      "Antonio Aguilar Jiménez",
+      "Antonio Aguilar, hijo",
+      "Antonio Aguilar, jr.",
+      "Jose Antonio Aguilar Jimenez",
+      "Jose Jesus Antonio Aguilar Jimenez",
+      "José Jesús Antonio Aguilar Jiménez"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b14f1658-d406-4b92-9d36-85347ee407d2",
+    "source_url": "https://musicbrainz.org/artist/b14f1658-d406-4b92-9d36-85347ee407d2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Omar Lizárraga",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "fb54b029-ff2c-4597-a42a-5f5f2651d5a3",
+    "source_url": "https://musicbrainz.org/artist/fb54b029-ff2c-4597-a42a-5f5f2651d5a3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Dan Sánchez",
+    "aliases": [
+      "Martín Daniel Sánchez López"
+    ],
+    "country_signals": [
+      "Hermosillo",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido tumbado",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "af2ae8d1-56e7-4b33-96a5-e4a217ab7622",
+    "source_url": "https://musicbrainz.org/artist/af2ae8d1-56e7-4b33-96a5-e4a217ab7622",
+    "popularity_metric": null
+  },
+  {
+    "name": "Catarino Leos",
+    "aliases": [
+      "Catarino Leos Rodríguez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tamaulipas"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano",
+      "songwriter"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "426a63a0-4fdf-43e6-8881-0ac500cde69a",
+    "source_url": "https://musicbrainz.org/artist/426a63a0-4fdf-43e6-8881-0ac500cde69a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Memo Lugo",
+    "aliases": [
+      "Guillermo García Lugo"
+    ],
+    "country_signals": [
+      "Ahome",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "death by covid-19",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1e4f5740-bd9b-411f-bff0-08a3ad25830c",
+    "source_url": "https://musicbrainz.org/artist/1e4f5740-bd9b-411f-bff0-08a3ad25830c",
+    "popularity_metric": null
+  },
+  {
+    "name": "René Poirè",
+    "aliases": [
+      "J. René Pairé Varela",
+      "Javier René Poiré Varela"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "91d87a77-0005-4761-95db-229fb9e849c6",
+    "source_url": "https://musicbrainz.org/artist/91d87a77-0005-4761-95db-229fb9e849c6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramiro Aguilar Rentería",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "México"
+    ],
+    "genre_signals": [
+      "norteño",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cceb4f44-ee7b-4e7f-b5f9-85c4b31f8a84",
+    "source_url": "https://musicbrainz.org/artist/cceb4f44-ee7b-4e7f-b5f9-85c4b31f8a84",
+    "popularity_metric": null
+  },
+  {
+    "name": "Checo Padilla",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "bolero",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "48cf7b34-5fe5-4a0e-8027-9897599d08c1",
+    "source_url": "https://musicbrainz.org/artist/48cf7b34-5fe5-4a0e-8027-9897599d08c1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda La Fregona",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "47341cd6-9701-42c0-a7d9-f5f0973e1fac",
+    "source_url": "https://musicbrainz.org/artist/47341cd6-9701-42c0-a7d9-f5f0973e1fac",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda La Elegante De Mexico",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8840af7b-1581-49bd-b7c4-450b33d3f541",
+    "source_url": "https://musicbrainz.org/artist/8840af7b-1581-49bd-b7c4-450b33d3f541",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Banda del Rey",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "044315e5-a357-488d-a4e7-13eea9b63c1d",
+    "source_url": "https://musicbrainz.org/artist/044315e5-a357-488d-a4e7-13eea9b63c1d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda La Vencedora Del Pacifico",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "61bc13c0-8a85-4d35-8131-7835462221cf",
+    "source_url": "https://musicbrainz.org/artist/61bc13c0-8a85-4d35-8131-7835462221cf",
+    "popularity_metric": null
+  },
+  {
+    "name": "Moises Pasquel",
+    "aliases": [
+      "Moisés Julián Pasquel Bedián"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Oaxaca de Juárez"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f8ebfd3d-1ed1-43f5-aa48-fb4de9db44ff",
+    "source_url": "https://musicbrainz.org/artist/f8ebfd3d-1ed1-43f5-aa48-fb4de9db44ff",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Estrellas de Sinaloa de Germán Lizárraga",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "49035718-38aa-47de-a98b-70a1c5fcfcfe",
+    "source_url": "https://musicbrainz.org/artist/49035718-38aa-47de-a98b-70a1c5fcfcfe",
+    "popularity_metric": null
+  },
+  {
+    "name": "Irma Serrano",
+    "aliases": [
+      "Consuelo Castro",
+      "Irma Consuelo Cielo Serrano Castro",
+      "Irma Consuelo Serrano Castro"
+    ],
+    "country_signals": [
+      "Chiapas",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corrido",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d7632562-17ec-46f7-861c-072939c1a850",
+    "source_url": "https://musicbrainz.org/artist/d7632562-17ec-46f7-861c-072939c1a850",
+    "popularity_metric": null
+  },
+  {
+    "name": "Daniel Alexandro García Nava",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6d247c71-22d3-4349-a1ee-d700158bf8b7",
+    "source_url": "https://musicbrainz.org/artist/6d247c71-22d3-4349-a1ee-d700158bf8b7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Julián Garza",
+    "aliases": [
+      "El Viejo Paulino",
+      "Julian Garza Arredondo",
+      "Julián Garza Arredondo"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "corrido",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8a99de04-c654-4177-a9c7-d3139c25aaa4",
+    "source_url": "https://musicbrainz.org/artist/8a99de04-c654-4177-a9c7-d3139c25aaa4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Rosendo Montiel",
+    "aliases": [
+      "Roberto Monna",
+      "Rosendo Montiel Álvarez"
+    ],
+    "country_signals": [
+      "Guaymas",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5aa6717a-ec69-43bb-ac5e-898a1e7e0fc7",
+    "source_url": "https://musicbrainz.org/artist/5aa6717a-ec69-43bb-ac5e-898a1e7e0fc7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Virgilio Ruiz García",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7524961b-c784-4e6e-83ea-822340ff4185",
+    "source_url": "https://musicbrainz.org/artist/7524961b-c784-4e6e-83ea-822340ff4185",
+    "popularity_metric": null
+  },
+  {
+    "name": "Eligio Mendoza",
+    "aliases": [
+      "Eligio Mendoza Garcia"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "802f6fd1-44ae-44fe-9ffb-b866429a3500",
+    "source_url": "https://musicbrainz.org/artist/802f6fd1-44ae-44fe-9ffb-b866429a3500",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alfonzin Garcia",
+    "aliases": [
+      "Alfonso Giovanni Garcia Sanchez",
+      "Alfonso Giovanni García Sánchez",
+      "Dj Alfonzin"
+    ],
+    "country_signals": [
+      "México"
+    ],
+    "genre_signals": [
+      "banda de zacatecas",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "787b4346-a0e7-4d3a-a20d-296889ab658e",
+    "source_url": "https://musicbrainz.org/artist/787b4346-a0e7-4d3a-a20d-296889ab658e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lenin Ramírez",
+    "aliases": [
+      "Jesús Lenin Cota Ramírez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "latin",
+      "norteño",
+      "norteño-banda",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "de8d1217-bb9d-4e6b-936c-b74d73a334ce",
+    "source_url": "https://musicbrainz.org/artist/de8d1217-bb9d-4e6b-936c-b74d73a334ce",
+    "popularity_metric": null
+  },
+  {
+    "name": "Grupo Firme",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tijuana"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f8549adf-74e1-4955-b06a-2933ede7bb04",
+    "source_url": "https://musicbrainz.org/artist/f8549adf-74e1-4955-b06a-2933ede7bb04",
+    "popularity_metric": null
+  },
+  {
+    "name": "Severiano Briseño",
+    "aliases": [
+      "Severiano Briseño Chavez",
+      "Severiano Briseño Chávez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "San Luis Potosí"
+    ],
+    "genre_signals": [
+      "bolero son",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0d82a644-b066-4ad2-9c3e-5e45285019c9",
+    "source_url": "https://musicbrainz.org/artist/0d82a644-b066-4ad2-9c3e-5e45285019c9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fabián Gómez",
+    "aliases": [
+      "Alberto Gomez Rascon",
+      "Fabian Alberto Gomez Rascon",
+      "Fabián Alberto Gómez Rascón",
+      "Fabián Gómez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sonora"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3e45caba-49b4-4147-a5be-25d429875fbd",
+    "source_url": "https://musicbrainz.org/artist/3e45caba-49b4-4147-a5be-25d429875fbd",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los 2 de la S",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "regional mexicano",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b8b730c4-749c-450c-991e-cf1739d6afc9",
+    "source_url": "https://musicbrainz.org/artist/b8b730c4-749c-450c-991e-cf1739d6afc9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Andrés Vega Delfín",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "latin",
+      "regional mexicano",
+      "son jarocho"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "91bbc678-2174-463d-8605-9da704f1cf72",
+    "source_url": "https://musicbrainz.org/artist/91bbc678-2174-463d-8605-9da704f1cf72",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alta Consigna",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tijuana"
+    ],
+    "genre_signals": [
+      "campirano",
+      "campirano-banda",
+      "latin",
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3dfdddaa-546e-405a-9de4-91c268a2b89f",
+    "source_url": "https://musicbrainz.org/artist/3dfdddaa-546e-405a-9de4-91c268a2b89f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Noel Torres",
+    "aliases": [
+      "Jesús Noel Torres Astorga"
+    ],
+    "country_signals": [
+      "Badiraguato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "corrido",
+      "norteño",
+      "norteño-banda",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "276c20a0-7063-4ab4-9b10-ac189ee9bdb5",
+    "source_url": "https://musicbrainz.org/artist/276c20a0-7063-4ab4-9b10-ac189ee9bdb5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Grupo Arranke",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "407182ed-151b-45b8-a8bc-a10bc87dff09",
+    "source_url": "https://musicbrainz.org/artist/407182ed-151b-45b8-a8bc-a10bc87dff09",
+    "popularity_metric": null
+  },
+  {
+    "name": "Trío Los Pingüinos",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Concordia"
+    ],
+    "genre_signals": [
+      "bolero",
+      "mexican bolero",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "30ea7737-cb13-48cf-9ce6-6ca32ad790de",
+    "source_url": "https://musicbrainz.org/artist/30ea7737-cb13-48cf-9ce6-6ca32ad790de",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alto Mando Sierreño",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "719130a3-9fc7-40bf-88e0-8e2915fe62c3",
+    "source_url": "https://musicbrainz.org/artist/719130a3-9fc7-40bf-88e0-8e2915fe62c3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chadbi",
+    "aliases": [
+      "Carlos Gama Zamora"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "digital music",
+      "mariachi",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "01c8eb55-5c29-4fed-b4c7-745a89a34ddd",
+    "source_url": "https://musicbrainz.org/artist/01c8eb55-5c29-4fed-b4c7-745a89a34ddd",
+    "popularity_metric": null
+  },
+  {
+    "name": "Felix Francisco Javier Vazquez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7cc0533a-c30c-414b-963d-542a3f52db11",
+    "source_url": "https://musicbrainz.org/artist/7cc0533a-c30c-414b-963d-542a3f52db11",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mario de Jesús Martínez Benítez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9cb974e6-388f-41d3-85f7-0db96e3f70e9",
+    "source_url": "https://musicbrainz.org/artist/9cb974e6-388f-41d3-85f7-0db96e3f70e9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramón López Alvarado",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mazatlán Municipality",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9e6a7983-1f0c-42c1-90b4-2ac322c4fbe8",
+    "source_url": "https://musicbrainz.org/artist/9e6a7983-1f0c-42c1-90b4-2ac322c4fbe8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Gustavo A. Santiago",
+    "aliases": [
+      "Gustavo Amador Santiago Fernandez"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "fd3a7e48-6ce7-4db7-9219-4047edd83e12",
+    "source_url": "https://musicbrainz.org/artist/fd3a7e48-6ce7-4db7-9219-4047edd83e12",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Fantasma",
+    "aliases": [
+      "Alexander Garcia",
+      "Alexander Garcia Sánchez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "corrido",
+      "mariachi",
+      "norteño",
+      "norteño-banda",
+      "ranchera",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "576c18cd-f18a-4701-baf3-45edc8f85bd9",
+    "source_url": "https://musicbrainz.org/artist/576c18cd-f18a-4701-baf3-45edc8f85bd9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Diego Bollella",
+    "aliases": [
+      "Bolela",
+      "Diego Bolela",
+      "Diego Bollella Urtusastegui"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Irapuato"
+    ],
+    "genre_signals": [
+      "latin folk",
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c82f254b-7606-49ca-851b-5da478143a52",
+    "source_url": "https://musicbrainz.org/artist/c82f254b-7606-49ca-851b-5da478143a52",
+    "popularity_metric": null
+  },
+  {
+    "name": "Teodulo Chavez Pitones",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "latin",
+      "latin pop",
+      "norteño",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f67faac5-042a-4881-8724-992339a8b8d6",
+    "source_url": "https://musicbrainz.org/artist/f67faac5-042a-4881-8724-992339a8b8d6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Guillermo Acosta",
+    "aliases": [
+      "Guillermo Acosta Segura",
+      "Memo Acosta"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "León"
+    ],
+    "genre_signals": [
+      "latin pop",
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "91fe054d-d1b3-4726-8ba1-a6c87cedc332",
+    "source_url": "https://musicbrainz.org/artist/91fe054d-d1b3-4726-8ba1-a6c87cedc332",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Carlos Abara",
+    "aliases": [
+      "Duende Bubulín",
+      "Juan Carlos Abara Halabi"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Pucón"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "latin pop",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a1c392aa-b318-4472-bc08-c27239bf6f38",
+    "source_url": "https://musicbrainz.org/artist/a1c392aa-b318-4472-bc08-c27239bf6f38",
+    "popularity_metric": null
+  },
+  {
+    "name": "Don Zares",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "contemporary folk",
+      "latin ballad",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cc02f9d8-4398-48fb-9ee9-019072cafd84",
+    "source_url": "https://musicbrainz.org/artist/cc02f9d8-4398-48fb-9ee9-019072cafd84",
+    "popularity_metric": null
+  },
+  {
+    "name": "Joss Favela",
+    "aliases": [
+      "José Alberto Inzunza Favela"
+    ],
+    "country_signals": [
+      "Guamúchil",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "latin pop",
+      "norteño",
+      "pop",
+      "regional mexicano",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3d40a821-b8b0-4e12-bd8a-61611881f237",
+    "source_url": "https://musicbrainz.org/artist/3d40a821-b8b0-4e12-bd8a-61611881f237",
+    "popularity_metric": null
+  },
+  {
+    "name": "Victor Cibrian",
+    "aliases": [
+      "Victor Manuel Valdez Cibrian"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Puerto Vallarta"
+    ],
+    "genre_signals": [
+      "campirano",
+      "corrido tumbado",
+      "norteño",
+      "norteño-banda",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "833c35f1-afb5-48de-8941-ce7276678802",
+    "source_url": "https://musicbrainz.org/artist/833c35f1-afb5-48de-8941-ce7276678802",
+    "popularity_metric": null
+  },
+  {
+    "name": "Marysol Sosa",
+    "aliases": [
+      "Marysol Estrella Sosa Noreña",
+      "Marysol Estrella Sosa Noreña de Orozco"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "latin",
+      "latin pop",
+      "regional mexicano",
+      "rock"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0e7d99b9-8dc8-4216-a211-08e48e125d92",
+    "source_url": "https://musicbrainz.org/artist/0e7d99b9-8dc8-4216-a211-08e48e125d92",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chucho Rincón",
+    "aliases": [
+      "Jesús Rincón Cárdenas"
+    ],
+    "country_signals": [
+      "Ciudad Juárez",
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "latin pop",
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0a8486a0-61f2-4c8c-a187-c65269a767c4",
+    "source_url": "https://musicbrainz.org/artist/0a8486a0-61f2-4c8c-a187-c65269a767c4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Leonardo Aguilar",
+    "aliases": [
+      "Leonardo Antonio Aguilar",
+      "Leonardo Antonio Aguilar Alvarez Alcala",
+      "Leonardo Antonio Aguilar Álvarez Alcalá"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin pop",
+      "norteño",
+      "pop",
+      "ranchera",
+      "regional mexicano",
+      "rock"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "df6ef7ad-8064-40d0-9c6b-9ad6dea9a62b",
+    "source_url": "https://musicbrainz.org/artist/df6ef7ad-8064-40d0-9c6b-9ad6dea9a62b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Evert Gutierrez",
+    "aliases": [
+      "Evert Gutierrez Orbe",
+      "Evert Gutiérrez Orbe"
+    ],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "norteño",
+      "regional mexicano",
+      "sierreño",
+      "sierreño-banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "88f0d5af-17dc-497f-9b07-826e7cc77847",
+    "source_url": "https://musicbrainz.org/artist/88f0d5af-17dc-497f-9b07-826e7cc77847",
+    "popularity_metric": null
+  },
+  {
+    "name": "Candelario Macedo",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Tepic"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "grupero",
+      "latin pop",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f4d2074b-670b-438e-9a4e-84133446eede",
+    "source_url": "https://musicbrainz.org/artist/f4d2074b-670b-438e-9a4e-84133446eede",
+    "popularity_metric": null
+  },
+  {
+    "name": "Manuel Bautista Reynoso",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Guerrero"
+    ],
+    "genre_signals": [
+      "latin ballad",
+      "latin pop",
+      "mariachi",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "63880f9f-8231-4243-8024-69fe823311da",
+    "source_url": "https://musicbrainz.org/artist/63880f9f-8231-4243-8024-69fe823311da",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Solo",
+    "aliases": [
+      "Juan Alberto Solís Cosío"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Puebla"
+    ],
+    "genre_signals": [
+      "bolero",
+      "fandango",
+      "latin pop",
+      "regional mexicano",
+      "rock urbano mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "921783c1-526e-41e6-ba7e-b4a4a1b06eb2",
+    "source_url": "https://musicbrainz.org/artist/921783c1-526e-41e6-ba7e-b4a4a1b06eb2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Nicandro Castillo",
+    "aliases": [
+      "Nicandro Castillo Gómez"
+    ],
+    "country_signals": [
+      "Hidalgo",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda sinaloense",
+      "bolero",
+      "mexican bolero",
+      "norteño",
+      "ranchera",
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d75ff439-e91c-4c2c-b654-bd5a7da5ef56",
+    "source_url": "https://musicbrainz.org/artist/d75ff439-e91c-4c2c-b654-bd5a7da5ef56",
+    "popularity_metric": null
+  },
+  {
+    "name": "Emi Key",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "regional mexicano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9f8630f7-12db-4a78-b1a3-a44579e8233d",
+    "source_url": "https://musicbrainz.org/artist/9f8630f7-12db-4a78-b1a3-a44579e8233d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Machos",
+    "aliases": [],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "46a7282b-af3e-4e4f-badb-41d2e12d1a19",
+    "source_url": "https://musicbrainz.org/artist/46a7282b-af3e-4e4f-badb-41d2e12d1a19",
+    "popularity_metric": null
+  },
+  {
+    "name": "Antonio Aguilar",
+    "aliases": [
+      "Antonio Aguilar Barraza",
+      "Antonio Aguilar, Sr",
+      "El Charro de México",
+      "José Pascual Antonio Aguilar Márquez Barraza",
+      "Pascual Barraza",
+      "The Godfather of Banda Music",
+      "Tony Aguilar"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Zacatecas"
+    ],
+    "genre_signals": [
+      "banda",
+      "corrido",
+      "latin",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ba683849-490c-4afb-9c8d-7278b25cbdc1",
+    "source_url": "https://musicbrainz.org/artist/ba683849-490c-4afb-9c8d-7278b25cbdc1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Elástica",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0cea8ead-6522-4bad-960b-baf41f24bbda",
+    "source_url": "https://musicbrainz.org/artist/0cea8ead-6522-4bad-960b-baf41f24bbda",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Bostik",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "372469d1-a2e8-42cb-8695-e6979bc7768b",
+    "source_url": "https://musicbrainz.org/artist/372469d1-a2e8-42cb-8695-e6979bc7768b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Maguey",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "586d058a-ab80-491a-a720-bbd2a70b39d0",
+    "source_url": "https://musicbrainz.org/artist/586d058a-ab80-491a-a720-bbd2a70b39d0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Toro",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8bd5e1a3-3f51-4b3c-9ed7-d637edde2d88",
+    "source_url": "https://musicbrainz.org/artist/8bd5e1a3-3f51-4b3c-9ed7-d637edde2d88",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Matlatzinca",
+    "aliases": [],
+    "country_signals": [
+      "México"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "51c46ec2-6ccf-41d4-af7c-1e67576007f1",
+    "source_url": "https://musicbrainz.org/artist/51c46ec2-6ccf-41d4-af7c-1e67576007f1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Yeshua",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9b9ccee4-cd01-432b-9d1a-e9935b43c9bb",
+    "source_url": "https://musicbrainz.org/artist/9b9ccee4-cd01-432b-9d1a-e9935b43c9bb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Metrópoli",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "de6413d0-a1a6-4167-aece-90671789d1a0",
+    "source_url": "https://musicbrainz.org/artist/de6413d0-a1a6-4167-aece-90671789d1a0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Brava",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4de42522-d4d4-484d-9c04-b8246e4d15ad",
+    "source_url": "https://musicbrainz.org/artist/4de42522-d4d4-484d-9c04-b8246e4d15ad",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Zeta",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tepic"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "97211033-3cf4-493d-baa4-db0feee4acc0",
+    "source_url": "https://musicbrainz.org/artist/97211033-3cf4-493d-baa4-db0feee4acc0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Yurirense",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5015d1e0-fe4f-49ce-b8e5-4a20c952c767",
+    "source_url": "https://musicbrainz.org/artist/5015d1e0-fe4f-49ce-b8e5-4a20c952c767",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Dimens",
+    "aliases": [
+      "Banda Dimen's"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e900b023-3ed8-463c-b888-10107f9838c4",
+    "source_url": "https://musicbrainz.org/artist/e900b023-3ed8-463c-b888-10107f9838c4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Macho",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "59fea619-d765-40dc-be51-ae851b9c835f",
+    "source_url": "https://musicbrainz.org/artist/59fea619-d765-40dc-be51-ae851b9c835f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Campos Banda",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "03352d86-ab42-4bd1-b6fa-d8a6c2e57ff1",
+    "source_url": "https://musicbrainz.org/artist/03352d86-ab42-4bd1-b6fa-d8a6c2e57ff1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cuisillos",
+    "aliases": [
+      "Banda Cuisillos",
+      "Cuisillos de Arturo Macías"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7c71f7cb-f4af-42ca-8dcb-93936339b8d4",
+    "source_url": "https://musicbrainz.org/artist/7c71f7cb-f4af-42ca-8dcb-93936339b8d4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Coraleña",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tepic"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e680cfed-8a7a-4133-a49b-175f4c0a8962",
+    "source_url": "https://musicbrainz.org/artist/e680cfed-8a7a-4133-a49b-175f4c0a8962",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Municipal",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "73eda876-b133-4b8c-930e-e17364c73194",
+    "source_url": "https://musicbrainz.org/artist/73eda876-b133-4b8c-930e-e17364c73194",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Banda",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f87726bf-90d0-4932-926f-57b16529cbde",
+    "source_url": "https://musicbrainz.org/artist/f87726bf-90d0-4932-926f-57b16529cbde",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Los Sebastianes",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b45b16a0-482b-4f01-ac28-3d6e1c39fe48",
+    "source_url": "https://musicbrainz.org/artist/b45b16a0-482b-4f01-ac28-3d6e1c39fe48",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Tierra Mojada",
+    "aliases": [
+      "Banda Infantil San Andrés",
+      "Banda Tierra Mojada"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Oaxaca"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7b6763d6-cb62-485d-a57a-18e0008ebf60",
+    "source_url": "https://musicbrainz.org/artist/7b6763d6-cb62-485d-a57a-18e0008ebf60",
+    "popularity_metric": null
+  },
+  {
+    "name": "Julión Álvarez y su Norteño Banda",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8ce75102-6c9b-41e7-b4e4-ef93ba982635",
+    "source_url": "https://musicbrainz.org/artist/8ce75102-6c9b-41e7-b4e4-ef93ba982635",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Santa Cruz",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cb9811ad-f33d-4ddc-ba11-586e32775b9a",
+    "source_url": "https://musicbrainz.org/artist/cb9811ad-f33d-4ddc-ba11-586e32775b9a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Regional Sinaloense",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "92e50983-6219-4a54-ab63-3b1fbd2f5785",
+    "source_url": "https://musicbrainz.org/artist/92e50983-6219-4a54-ab63-3b1fbd2f5785",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Hermanos Pacheco",
+    "aliases": [
+      "Banda Nayarita Hermanos Pacheco"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nayarit"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "37a2a6cc-b1e5-4be6-846b-b2b509385617",
+    "source_url": "https://musicbrainz.org/artist/37a2a6cc-b1e5-4be6-846b-b2b509385617",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda la Jaripera",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7ee81984-b7d1-443b-b67b-e5ee7540a14c",
+    "source_url": "https://musicbrainz.org/artist/7ee81984-b7d1-443b-b67b-e5ee7540a14c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Nacional Mexicana",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "fe6979a1-09ef-41e1-a3c9-b6d64d8d1358",
+    "source_url": "https://musicbrainz.org/artist/fe6979a1-09ef-41e1-a3c9-b6d64d8d1358",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Banda de Oro",
+    "aliases": [],
+    "country_signals": [
+      "New Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f62244cf-c466-4db3-b583-07b01955ff26",
+    "source_url": "https://musicbrainz.org/artist/f62244cf-c466-4db3-b583-07b01955ff26",
+    "popularity_metric": null
+  },
+  {
+    "name": "Punto Medio Popteño Banda",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7f4be3f4-fcbb-4199-ba51-d4152f4a48d1",
+    "source_url": "https://musicbrainz.org/artist/7f4be3f4-fcbb-4199-ba51-d4152f4a48d1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Leonora",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "banda",
+      "banda mexicana",
+      "indie en español",
+      "indie rock",
+      "rock en español"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "faf09426-7ca8-4018-a586-0b8ccff6a09c",
+    "source_url": "https://musicbrainz.org/artist/faf09426-7ca8-4018-a586-0b8ccff6a09c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Musical Don Pepe",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "bc536382-8bed-4e3c-aefb-fe96398c2970",
+    "source_url": "https://musicbrainz.org/artist/bc536382-8bed-4e3c-aefb-fe96398c2970",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Refrescante Banda Aljibe",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "118f5399-e611-4ffa-acfd-c70d2eb3bd5a",
+    "source_url": "https://musicbrainz.org/artist/118f5399-e611-4ffa-acfd-c70d2eb3bd5a",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Arrasadora Banda Ciclón",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "60660f08-7d24-4612-b95c-3a74a44d9b91",
+    "source_url": "https://musicbrainz.org/artist/60660f08-7d24-4612-b95c-3a74a44d9b91",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Incomparable Banda Vallejos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "25644065-b6bc-4b6a-b194-20b6220634ff",
+    "source_url": "https://musicbrainz.org/artist/25644065-b6bc-4b6a-b194-20b6220634ff",
+    "popularity_metric": null
+  },
+  {
+    "name": "Tex Tex",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "dc4fcf68-9e34-48e6-8d67-0fe11e0ac89d",
+    "source_url": "https://musicbrainz.org/artist/dc4fcf68-9e34-48e6-8d67-0fe11e0ac89d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de Música del Estado de Oaxaca",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Oaxaca de Juárez"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "05df447a-b547-4318-86b1-f38eb78de9ef",
+    "source_url": "https://musicbrainz.org/artist/05df447a-b547-4318-86b1-f38eb78de9ef",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Plebes del Rancho de Ariel Camacho",
+    "aliases": [
+      "Ariel Camacho y Los Plebes del Rancho"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda",
+      "banda sinaloense",
+      "latin",
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "038d3f6c-4bd1-4403-bc80-31e8b6880d94",
+    "source_url": "https://musicbrainz.org/artist/038d3f6c-4bd1-4403-bc80-31e8b6880d94",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Banda de las Estrellas",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Pachuca"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ef19ca97-17f8-40e2-843d-eaf336c5718a",
+    "source_url": "https://musicbrainz.org/artist/ef19ca97-17f8-40e2-843d-eaf336c5718a",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Banda Mixe de Oaxaca",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ee3d027a-b4de-4843-8587-4c91b0522315",
+    "source_url": "https://musicbrainz.org/artist/ee3d027a-b4de-4843-8587-4c91b0522315",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Sinfónica Municipal de Aguascalientes",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4a7ab620-fc83-4bd9-bbaf-0894d9d0e419",
+    "source_url": "https://musicbrainz.org/artist/4a7ab620-fc83-4bd9-bbaf-0894d9d0e419",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de \"El Limón, Sinaloa\"",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "fab9aca7-6d93-41be-a546-2d393e05cf00",
+    "source_url": "https://musicbrainz.org/artist/fab9aca7-6d93-41be-a546-2d393e05cf00",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de Policía de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f84db270-0a60-4d48-a009-1745ab29e97b",
+    "source_url": "https://musicbrainz.org/artist/f84db270-0a60-4d48-a009-1745ab29e97b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda La Auténtica de Jerez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Zacatecas"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0c76ead7-61bb-4765-8748-486240e90b8d",
+    "source_url": "https://musicbrainz.org/artist/0c76ead7-61bb-4765-8748-486240e90b8d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de Zapadores de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "73e3e5fa-0116-4f90-b5ca-6ddca0725054",
+    "source_url": "https://musicbrainz.org/artist/73e3e5fa-0116-4f90-b5ca-6ddca0725054",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Costera de Mazatlán",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a037ef13-a3b6-4bcc-8114-6d1677bca36d",
+    "source_url": "https://musicbrainz.org/artist/a037ef13-a3b6-4bcc-8114-6d1677bca36d",
+    "popularity_metric": null
+  },
+  {
+    "name": "TDM T-Naz de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cd3c9b74-8211-4fdc-8060-832d8ce428f2",
+    "source_url": "https://musicbrainz.org/artist/cd3c9b74-8211-4fdc-8060-832d8ce428f2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Sinaloense de los Hermanos Escamilla",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9385d110-cf52-4a5f-8301-1fc89fd99752",
+    "source_url": "https://musicbrainz.org/artist/9385d110-cf52-4a5f-8301-1fc89fd99752",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Supergenios de la Banda Oxidada",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "156feb85-1017-4da3-ab98-fa83a606d47a",
+    "source_url": "https://musicbrainz.org/artist/156feb85-1017-4da3-ab98-fa83a606d47a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Edwin Luna y La Trakalosa de Monterrey",
+    "aliases": [
+      "Edwin Luna y La Trakalosa de Monterrey"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda",
+      "latin"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e4b31c0a-ae5f-41a6-b5c0-c704e2a9e263",
+    "source_url": "https://musicbrainz.org/artist/e4b31c0a-ae5f-41a6-b5c0-c704e2a9e263",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Melchor Ocampo de San Ángel Zurumucapio",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2447423c-e1b1-4f94-84b0-c2be28c3bbb4",
+    "source_url": "https://musicbrainz.org/artist/2447423c-e1b1-4f94-84b0-c2be28c3bbb4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Carlos Robles y su Banda Regional del Istmo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c9ab740a-2157-4d3b-b78d-0614091d2142",
+    "source_url": "https://musicbrainz.org/artist/c9ab740a-2157-4d3b-b78d-0614091d2142",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda Sinfónica de la Secretaría de Marina",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "88425091-6e4c-4973-b9d4-9cab2149d62d",
+    "source_url": "https://musicbrainz.org/artist/88425091-6e4c-4973-b9d4-9cab2149d62d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de Guerra de las Guardias Presidenciales",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b403db27-9916-4cb3-9761-214f48c176ce",
+    "source_url": "https://musicbrainz.org/artist/b403db27-9916-4cb3-9761-214f48c176ce",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda de Gaitas del Batallón de San Patricio",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b86e8292-a2c8-44fd-b484-9d0886de65f4",
+    "source_url": "https://musicbrainz.org/artist/b86e8292-a2c8-44fd-b484-9d0886de65f4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alfredo Olivas",
+    "aliases": [
+      "José Alfredo Olivas Roja"
+    ],
+    "country_signals": [
+      "Ciudad Obregón",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "2010s",
+      "banda",
+      "corrido",
+      "narcocorrido",
+      "norteño",
+      "ranchera",
+      "regional mexican"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ea19b7eb-24ed-4531-b29a-90319add2821",
+    "source_url": "https://musicbrainz.org/artist/ea19b7eb-24ed-4531-b29a-90319add2821",
+    "popularity_metric": null
+  },
+  {
+    "name": "Banda del Estado Mayor de la Secretaria de la Defensa Nacional",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "45cc03ef-5d32-460c-88b6-b2b8c5b1c9e9",
+    "source_url": "https://musicbrainz.org/artist/45cc03ef-5d32-460c-88b6-b2b8c5b1c9e9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Domingo Velarde",
+    "aliases": [
+      "Domingo Velarde Ozuna"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda",
+      "banda sinaloense",
+      "mariachi",
+      "norteño",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "00c494c4-53fb-4de6-80e2-ffa3ecddacec",
+    "source_url": "https://musicbrainz.org/artist/00c494c4-53fb-4de6-80e2-ffa3ecddacec",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cinema",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "banda",
+      "cin3ma",
+      "cinema",
+      "comos cinema",
+      "hasta el amanecer",
+      "mexico",
+      "monterrey",
+      "yo sin ti"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0fe6b712-a689-48b9-8095-3ba3c0a39709",
+    "source_url": "https://musicbrainz.org/artist/0fe6b712-a689-48b9-8095-3ba3c0a39709",
+    "popularity_metric": null
+  },
+  {
+    "name": "Sin Tiempo",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "alternative",
+      "banda",
+      "banda sin tiempo",
+      "bandasintiempo",
+      "chicas locas",
+      "dalia es punk",
+      "indie",
+      "punk",
+      "punkrock",
+      "rock",
+      "sin tiempo",
+      "yo solo quiero dormir"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b3d343a8-33be-42d7-99ad-0b49acc285ae",
+    "source_url": "https://musicbrainz.org/artist/b3d343a8-33be-42d7-99ad-0b49acc285ae",
+    "popularity_metric": null
+  },
+  {
+    "name": "The Lukewarm",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "2013",
+      "2014",
+      "<3",
+      "aldezca",
+      "arrearan",
+      "band",
+      "banda",
+      "brand",
+      "coparck",
+      "dance",
+      "desire",
+      "electro",
+      "electronica",
+      "electronico",
+      "ep",
+      "girl",
+      "grupomexicano",
+      "harmless",
+      "i<3u",
+      "iloveyou",
+      "impostors",
+      "john",
+      "johnharmless",
+      "lookwarm",
+      "los",
+      "losimpostors",
+      "losmochis",
+      "love",
+      "lp",
+      "luckwarm",
+      "luis",
+      "luisvaldez",
+      "luke",
+      "lukeskywalker",
+      "lukewar",
+      "lukewarm",
+      "lukewarn",
+      "lukwarm",
+      "mexican",
+      "mexicana",
+      "mexicano",
+      "mexicanos",
+      "mochis",
+      "mochitences",
+      "mochitenses",
+      "new",
+      "noangel",
+      "noangelcoparck",
+      "noangelorejel",
+      "olea",
+      "oleastudio",
+      "orejel",
+      "pop",
+      "reeds",
+      "rock",
+      "select",
+      "selleck",
+      "sinaloa",
+      "sinaloenses",
+      "sinte",
+      "somewhere",
+      "synth",
+      "synthpop",
+      "the",
+      "theluke",
+      "thelukeskywalker",
+      "thelukewarm",
+      "tom",
+      "tomselect",
+      "tomselleck",
+      "u",
+      "ultra",
+      "universo",
+      "valdez",
+      "you"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "12f6d2bc-7838-4e73-b692-6b553aadc1fb",
+    "source_url": "https://musicbrainz.org/artist/12f6d2bc-7838-4e73-b692-6b553aadc1fb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Conjunto Norteño",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "985e52fd-5ea6-4b9f-8128-81741eb38806",
+    "source_url": "https://musicbrainz.org/artist/985e52fd-5ea6-4b9f-8128-81741eb38806",
+    "popularity_metric": null
+  },
+  {
+    "name": "Imperio Norteño",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "16b1cf8c-d494-4d19-8979-802d5122fc54",
+    "source_url": "https://musicbrainz.org/artist/16b1cf8c-d494-4d19-8979-802d5122fc54",
+    "popularity_metric": null
+  },
+  {
+    "name": "Refuego Norteño",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0d0cc06f-39a6-4ed9-991c-b6bd0cdf4772",
+    "source_url": "https://musicbrainz.org/artist/0d0cc06f-39a6-4ed9-991c-b6bd0cdf4772",
+    "popularity_metric": null
+  },
+  {
+    "name": "Troppel Legado Norteño",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9b0e42d3-8793-4b90-af39-19506d4cb00a",
+    "source_url": "https://musicbrainz.org/artist/9b0e42d3-8793-4b90-af39-19506d4cb00a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Bronco",
+    "aliases": [
+      "El Gigante de America"
+    ],
+    "country_signals": [
+      "Apodaca",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5b10d2e8-b4d7-420a-a914-9c6504ff18e9",
+    "source_url": "https://musicbrainz.org/artist/5b10d2e8-b4d7-420a-a914-9c6504ff18e9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Salazar",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8aa6cf10-87ce-43a4-97be-02673e3de2c5",
+    "source_url": "https://musicbrainz.org/artist/8aa6cf10-87ce-43a4-97be-02673e3de2c5",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Poder del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Monterrey"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a0e7007b-6fb9-4db1-a8ec-31191bc9c310",
+    "source_url": "https://musicbrainz.org/artist/a0e7007b-6fb9-4db1-a8ec-31191bc9c310",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Cuatitos Cantú",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c762de74-c90b-4b42-ab75-bfc54a2364c9",
+    "source_url": "https://musicbrainz.org/artist/c762de74-c90b-4b42-ab75-bfc54a2364c9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Dueto Río Bravo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8d2752a8-690e-4256-9215-7571072361ef",
+    "source_url": "https://musicbrainz.org/artist/8d2752a8-690e-4256-9215-7571072361ef",
+    "popularity_metric": null
+  },
+  {
+    "name": "Manuel Nuñez",
+    "aliases": [
+      "Manuel D. Nuñez",
+      "Manuel Duarte Nuñez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cabdb783-2f15-4f80-8010-14b26a4e40c8",
+    "source_url": "https://musicbrainz.org/artist/cabdb783-2f15-4f80-8010-14b26a4e40c8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chuy Luviano",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "37845fa9-5c6d-448d-86b2-8130e4003a14",
+    "source_url": "https://musicbrainz.org/artist/37845fa9-5c6d-448d-86b2-8130e4003a14",
+    "popularity_metric": null
+  },
+  {
+    "name": "Dueto Rio Grande",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "678918a6-f2fc-4b8f-8671-919a66092818",
+    "source_url": "https://musicbrainz.org/artist/678918a6-f2fc-4b8f-8671-919a66092818",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Atomicos de Monterrey",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "31dfbc35-f1ee-4f36-b792-017a1456148a",
+    "source_url": "https://musicbrainz.org/artist/31dfbc35-f1ee-4f36-b792-017a1456148a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Jilgueros del Arroyo",
+    "aliases": [],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ea246a9b-b8d3-4121-a3f1-fbc300958c7c",
+    "source_url": "https://musicbrainz.org/artist/ea246a9b-b8d3-4121-a3f1-fbc300958c7c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Norteños de Nuevo Laredo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo Laredo"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1fe9c622-4754-42a1-80a8-77f5543d1250",
+    "source_url": "https://musicbrainz.org/artist/1fe9c622-4754-42a1-80a8-77f5543d1250",
+    "popularity_metric": null
+  },
+  {
+    "name": "Las Palomas del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "511809e0-dcb7-4603-b2ea-00eb865fa563",
+    "source_url": "https://musicbrainz.org/artist/511809e0-dcb7-4603-b2ea-00eb865fa563",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Terribles del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "San Luis Potosí"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a2594db1-36a7-46dd-ad0b-09ee6b5ac741",
+    "source_url": "https://musicbrainz.org/artist/a2594db1-36a7-46dd-ad0b-09ee6b5ac741",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Leyenda",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b6ce5c4a-6ea0-48e2-b497-48a8c2690061",
+    "source_url": "https://musicbrainz.org/artist/b6ce5c4a-6ea0-48e2-b497-48a8c2690061",
+    "popularity_metric": null
+  },
+  {
+    "name": "La Migra",
+    "aliases": [],
+    "country_signals": [
+      "California",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "35325c92-7146-45c6-a91a-98da626f8f58",
+    "source_url": "https://musicbrainz.org/artist/35325c92-7146-45c6-a91a-98da626f8f58",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Caporales del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "12c31f03-544e-40ae-b401-b11f9b9ccf60",
+    "source_url": "https://musicbrainz.org/artist/12c31f03-544e-40ae-b401-b11f9b9ccf60",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Dos de Durango",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c416c464-6685-4b96-af13-2fe7538672a3",
+    "source_url": "https://musicbrainz.org/artist/c416c464-6685-4b96-af13-2fe7538672a3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Braceros",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5b1371dd-c792-42c3-8f6f-fb09c23e4349",
+    "source_url": "https://musicbrainz.org/artist/5b1371dd-c792-42c3-8f6f-fb09c23e4349",
+    "popularity_metric": null
+  },
+  {
+    "name": "Conjunto Río Bravo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "774ff87b-df6d-47ff-8baf-f4b32289b178",
+    "source_url": "https://musicbrainz.org/artist/774ff87b-df6d-47ff-8baf-f4b32289b178",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Coyotes del Río Bravo",
+    "aliases": [],
+    "country_signals": [
+      "General Terán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "61875ab0-642f-45de-90f7-2406c068aca4",
+    "source_url": "https://musicbrainz.org/artist/61875ab0-642f-45de-90f7-2406c068aca4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Panterones de Torreón",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "27943e6c-973f-4623-80b8-56012a1c0f6b",
+    "source_url": "https://musicbrainz.org/artist/27943e6c-973f-4623-80b8-56012a1c0f6b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Eliseo Robles",
+    "aliases": [
+      "Eliseo Robles Reyes"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8d8d90aa-2e91-45ec-81f7-0ea3db5dae50",
+    "source_url": "https://musicbrainz.org/artist/8d8d90aa-2e91-45ec-81f7-0ea3db5dae50",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ramona Ponce",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nayarit"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a1a1275a-d686-43a1-bbb9-a44d26cf15fb",
+    "source_url": "https://musicbrainz.org/artist/a1a1275a-d686-43a1-bbb9-a44d26cf15fb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Astros de Linares",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0d753fdc-de52-4d3b-a86f-7c5985e8cb1b",
+    "source_url": "https://musicbrainz.org/artist/0d753fdc-de52-4d3b-a86f-7c5985e8cb1b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mundo Miranda",
+    "aliases": [
+      "Edmundo Miranda Sánchez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "271798cc-2ca1-49b8-bca1-5fd037fd32ae",
+    "source_url": "https://musicbrainz.org/artist/271798cc-2ca1-49b8-bca1-5fd037fd32ae",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jovanny Cadena y su Estilo Privado",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño",
+      "regional mexican"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "721485ec-e030-4bb6-ba60-9f87f0488a39",
+    "source_url": "https://musicbrainz.org/artist/721485ec-e030-4bb6-ba60-9f87f0488a39",
+    "popularity_metric": null
+  },
+  {
+    "name": "Servando Cano Rodríguez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "norteño",
+      "ranchera",
+      "regional mexican"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "510569f2-05cc-48c4-bb80-45df91d79738",
+    "source_url": "https://musicbrainz.org/artist/510569f2-05cc-48c4-bb80-45df91d79738",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mario Castelo",
+    "aliases": [
+      "Mario Alberto Castelo",
+      "Mario Alberto Castelo Quintero"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1a4aa075-9482-4a1f-822a-dfef6acab46c",
+    "source_url": "https://musicbrainz.org/artist/1a4aa075-9482-4a1f-822a-dfef6acab46c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jose Luis Garza",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "norteño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "128c8da2-c562-4131-ac8a-89616e2f1ab0",
+    "source_url": "https://musicbrainz.org/artist/128c8da2-c562-4131-ac8a-89616e2f1ab0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Beto Quintanilla",
+    "aliases": [
+      "Norberto Quintanilla Iracheta"
+    ],
+    "country_signals": [
+      "General Terán",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corridos",
+      "narcocorridos"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "abca3ff6-84f8-4b0a-8d8a-bb2f39779ace",
+    "source_url": "https://musicbrainz.org/artist/abca3ff6-84f8-4b0a-8d8a-bb2f39779ace",
+    "popularity_metric": null
+  },
+  {
+    "name": "Samuel M. Lozano",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Morelos"
+    ],
+    "genre_signals": [
+      "corridos"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d2bf94ec-7750-4df6-b58d-2657c530d03d",
+    "source_url": "https://musicbrainz.org/artist/d2bf94ec-7750-4df6-b58d-2657c530d03d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Sahir Montoya",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Monterrey"
+    ],
+    "genre_signals": [
+      "corridos"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "aa846287-97ca-4856-9591-c37bdaeb93c0",
+    "source_url": "https://musicbrainz.org/artist/aa846287-97ca-4856-9591-c37bdaeb93c0",
+    "popularity_metric": null
+  },
+  {
+    "name": "YupiNos Elias",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "corridos",
+      "srnay music",
+      "yupinos",
+      "yupinos elias"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "70b277f1-1f9a-4d97-a629-3f2fa10566f4",
+    "source_url": "https://musicbrainz.org/artist/70b277f1-1f9a-4d97-a629-3f2fa10566f4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Guadalajara",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a9fdd51b-70be-4aa3-9b7c-50186ec1c8ce",
+    "source_url": "https://musicbrainz.org/artist/a9fdd51b-70be-4aa3-9b7c-50186ec1c8ce",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Vargas de Tecalitlán",
+    "aliases": [
+      "Mariachi Vargas",
+      "Mariachi Vargas De Tecatitlán",
+      "The Mariachi Vargas de Tecalitlar"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tecalitlán"
+    ],
+    "genre_signals": [
+      "latin",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0af02af6-311a-4ce3-a3e3-9b17c498f297",
+    "source_url": "https://musicbrainz.org/artist/0af02af6-311a-4ce3-a3e3-9b17c498f297",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi México",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2a103b0d-ecca-4ec0-8d19-94d7d32c1160",
+    "source_url": "https://musicbrainz.org/artist/2a103b0d-ecca-4ec0-8d19-94d7d32c1160",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Azteca",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8eb1490b-8c98-428f-928f-96e9766933f6",
+    "source_url": "https://musicbrainz.org/artist/8eb1490b-8c98-428f-928f-96e9766933f6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Elí",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "05301ecc-908b-4359-bd46-e404e926d4aa",
+    "source_url": "https://musicbrainz.org/artist/05301ecc-908b-4359-bd46-e404e926d4aa",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Chapala",
+    "aliases": [
+      "Mariachi Reyes de Chapala"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e692f501-7921-4d5f-8d5d-b9c70d3d1351",
+    "source_url": "https://musicbrainz.org/artist/e692f501-7921-4d5f-8d5d-b9c70d3d1351",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi de Román Palomar",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5ced350b-d169-4d1c-b48e-26cb83f415cd",
+    "source_url": "https://musicbrainz.org/artist/5ced350b-d169-4d1c-b48e-26cb83f415cd",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Santana",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6b6f4e17-0cef-42ec-936b-aaf3b3662861",
+    "source_url": "https://musicbrainz.org/artist/6b6f4e17-0cef-42ec-936b-aaf3b3662861",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Pulido",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3efc3ca3-c260-47ee-a35b-3c9b8fe553a6",
+    "source_url": "https://musicbrainz.org/artist/3efc3ca3-c260-47ee-a35b-3c9b8fe553a6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Bailador",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4904d52a-228d-4f26-8014-5c6daadc56d5",
+    "source_url": "https://musicbrainz.org/artist/4904d52a-228d-4f26-8014-5c6daadc56d5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Agave",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ea3bf4fe-0897-4251-bc77-8935b0a3bcb3",
+    "source_url": "https://musicbrainz.org/artist/ea3bf4fe-0897-4251-bc77-8935b0a3bcb3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Misterio",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ee579210-7abb-495d-8e12-f3f30f655357",
+    "source_url": "https://musicbrainz.org/artist/ee579210-7abb-495d-8e12-f3f30f655357",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Miguel Dias",
+    "aliases": [
+      "Mariachi de Miguel Díaz"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6b2c527d-ef9b-4050-a837-5fa0f9b2dfeb",
+    "source_url": "https://musicbrainz.org/artist/6b2c527d-ef9b-4050-a837-5fa0f9b2dfeb",
+    "popularity_metric": null
+  },
+  {
+    "name": "José Alfredo Jiménez",
+    "aliases": [
+      "Jose Alfredo Jimenez",
+      "José Alfredo Jiménez Sandoval",
+      "José a. Jimenez"
+    ],
+    "country_signals": [
+      "Guanajuato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "mariachi",
+      "national folk",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c02be87c-adc4-4c34-afb3-900393050727",
+    "source_url": "https://musicbrainz.org/artist/c02be87c-adc4-4c34-afb3-900393050727",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Los Palmeros",
+    "aliases": [
+      "Mariachi Los Palmeros de Ramiro Jauregui"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ef63fab0-91ab-4494-bb32-9955dda5b21b",
+    "source_url": "https://musicbrainz.org/artist/ef63fab0-91ab-4494-bb32-9955dda5b21b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Los Toritos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "46544fa9-2a9e-4736-9883-5db318252b17",
+    "source_url": "https://musicbrainz.org/artist/46544fa9-2a9e-4736-9883-5db318252b17",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Arriba Juárez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "22cedd20-4bba-48bc-99b5-38d5a2546452",
+    "source_url": "https://musicbrainz.org/artist/22cedd20-4bba-48bc-99b5-38d5a2546452",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Los Michoacanos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "76a3ea4b-53eb-48f7-9598-b1a9017826af",
+    "source_url": "https://musicbrainz.org/artist/76a3ea4b-53eb-48f7-9598-b1a9017826af",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Silvestre Vargas",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e39a8d5a-492d-4037-90f4-484ca6105491",
+    "source_url": "https://musicbrainz.org/artist/e39a8d5a-492d-4037-90f4-484ca6105491",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Aguila Real",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a9d8b1b7-be7e-4c42-85cb-5edf433a3468",
+    "source_url": "https://musicbrainz.org/artist/a9d8b1b7-be7e-4c42-85cb-5edf433a3468",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Los Apaches",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "bd828a09-c39f-40d0-a721-f14e957cc695",
+    "source_url": "https://musicbrainz.org/artist/bd828a09-c39f-40d0-a721-f14e957cc695",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Gabriel",
+    "aliases": [
+      "Alberto Aguilera Valadez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Parácuaro"
+    ],
+    "genre_signals": [
+      "canción melódica",
+      "latin",
+      "latin ballad",
+      "latin pop",
+      "mariachi",
+      "mexican",
+      "pop",
+      "ranchera",
+      "rock"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "bc9b7500-0afc-41ba-a056-b0bc81669702",
+    "source_url": "https://musicbrainz.org/artist/bc9b7500-0afc-41ba-a056-b0bc81669702",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Amanecer Jalisciense",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e39220d4-0276-47b2-a691-0cfbd97f0fbb",
+    "source_url": "https://musicbrainz.org/artist/e39220d4-0276-47b2-a691-0cfbd97f0fbb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Perla Jalisciense",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "942e17e1-5c87-4609-8c3d-4bd3b6c071ab",
+    "source_url": "https://musicbrainz.org/artist/942e17e1-5c87-4609-8c3d-4bd3b6c071ab",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Tecolotes",
+    "aliases": [
+      "Mariachi Los Tecolotes",
+      "Mariachi Los Tecolotes de Felipe Pérez López"
+    ],
+    "country_signals": [
+      "Guadalajara",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "27ef1ddf-3bf6-4659-b066-b29fc33e5b31",
+    "source_url": "https://musicbrainz.org/artist/27ef1ddf-3bf6-4659-b066-b29fc33e5b31",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Dos Mundos",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "43caa0b6-51fd-4110-8ee2-eda139668294",
+    "source_url": "https://musicbrainz.org/artist/43caa0b6-51fd-4110-8ee2-eda139668294",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi San José",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a9c8f33b-24e5-4ed9-b43c-1902f5e3e88e",
+    "source_url": "https://musicbrainz.org/artist/a9c8f33b-24e5-4ed9-b43c-1902f5e3e88e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Rock‐O",
+    "aliases": [],
+    "country_signals": [
+      "Guadalajara",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c473b8d0-d5c5-4e86-a383-e1b97a7984cd",
+    "source_url": "https://musicbrainz.org/artist/c473b8d0-d5c5-4e86-a383-e1b97a7984cd",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jesús Rodríguez de Hijar",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Tequila"
+    ],
+    "genre_signals": [
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "59b23394-4d6c-4182-a2e4-e1e7f6fb6189",
+    "source_url": "https://musicbrainz.org/artist/59b23394-4d6c-4182-a2e4-e1e7f6fb6189",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Camino de Salvación",
+    "aliases": [],
+    "country_signals": [
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ddeaad87-ae8f-4ff0-ae7e-d40db4d2d91c",
+    "source_url": "https://musicbrainz.org/artist/ddeaad87-ae8f-4ff0-ae7e-d40db4d2d91c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Sol de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "373f0e1a-349a-47c8-b450-206b67c877d4",
+    "source_url": "https://musicbrainz.org/artist/373f0e1a-349a-47c8-b450-206b67c877d4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Tenochtitlán de Heriberto Aceves",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7fa78c3f-7b50-442b-b302-284d44fd4ff3",
+    "source_url": "https://musicbrainz.org/artist/7fa78c3f-7b50-442b-b302-284d44fd4ff3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cuco Sánchez",
+    "aliases": [
+      "José del Refugio Sánchez Saldaña"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tamaulipas"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "mariachi",
+      "ranchera",
+      "singer-songwriter"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "161ff9a7-b629-4dc5-8bd6-57e0c1af32bb",
+    "source_url": "https://musicbrainz.org/artist/161ff9a7-b629-4dc5-8bd6-57e0c1af32bb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Nacional de Arcadio Elías",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "d895f4f2-a449-445a-bc2a-29dfd804270d",
+    "source_url": "https://musicbrainz.org/artist/d895f4f2-a449-445a-bc2a-29dfd804270d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Rigoberto Alfaro Rodríguez",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "bachata",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "411464fc-2692-4490-bf17-db1507102c17",
+    "source_url": "https://musicbrainz.org/artist/411464fc-2692-4490-bf17-db1507102c17",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Estrella de Boni Collazo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "27ccb2dd-b83b-4348-8309-25845197c3e3",
+    "source_url": "https://musicbrainz.org/artist/27ccb2dd-b83b-4348-8309-25845197c3e3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Los Rancheros de Jalisco",
+    "aliases": [
+      "Mariachi Los Rancheros de José Santos Aguilar"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "58b1989f-44da-4d89-973b-81221f38549a",
+    "source_url": "https://musicbrainz.org/artist/58b1989f-44da-4d89-973b-81221f38549a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi México Del Norte",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "05a3f459-3492-4062-9b9a-8e7853469ec6",
+    "source_url": "https://musicbrainz.org/artist/05a3f459-3492-4062-9b9a-8e7853469ec6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Instituto Mexicano del Mariachi",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a98e562c-ca1d-45b5-8adc-279aaa6baafe",
+    "source_url": "https://musicbrainz.org/artist/a98e562c-ca1d-45b5-8adc-279aaa6baafe",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mariachi Gallos De Mexico",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "091f3111-a4a2-457f-be67-047f3c5f22a8",
+    "source_url": "https://musicbrainz.org/artist/091f3111-a4a2-457f-be67-047f3c5f22a8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alejandro Fernández",
+    "aliases": [
+      "Alejandro Fernandez",
+      "Alejandro Fernández Abarca",
+      "El Potrillo",
+      "El Potrillo Fernández"
+    ],
+    "country_signals": [
+      "Guadalajara",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "1990s",
+      "2000s",
+      "ballad",
+      "bolero",
+      "latin",
+      "latin pop",
+      "mariachi",
+      "norteña",
+      "pop",
+      "pop rock",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "772a8360-e81e-4647-92e2-195c19efddad",
+    "source_url": "https://musicbrainz.org/artist/772a8360-e81e-4647-92e2-195c19efddad",
+    "popularity_metric": null
+  },
+  {
+    "name": "Yuri",
+    "aliases": [
+      "Yuridia Valenzuela Canseco"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "latin",
+      "latin pop",
+      "mariachi",
+      "mexican pop",
+      "pop",
+      "ranchera",
+      "salsa"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "40bad6e2-77f9-47b7-b0da-ffe035a10f67",
+    "source_url": "https://musicbrainz.org/artist/40bad6e2-77f9-47b7-b0da-ffe035a10f67",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Mariachi Premier de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "eedda933-8fab-4a8e-b2db-a1103c5d3b98",
+    "source_url": "https://musicbrainz.org/artist/eedda933-8fab-4a8e-b2db-a1103c5d3b98",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lila Downs",
+    "aliases": [
+      "Ana Lila Downs Sánchez"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tlaxiaco"
+    ],
+    "genre_signals": [
+      "00s",
+      "10s",
+      "80s",
+      "90s",
+      "female vocalists",
+      "folk",
+      "latin",
+      "latin rock",
+      "mariachi",
+      "mexico",
+      "pop",
+      "spanish",
+      "world"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ad29ae1c-2eda-4071-9dc8-31910e7e546c",
+    "source_url": "https://musicbrainz.org/artist/ad29ae1c-2eda-4071-9dc8-31910e7e546c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ángel López",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "018a7dcb-cf35-4db8-846c-40693af9f3f1",
+    "source_url": "https://musicbrainz.org/artist/018a7dcb-cf35-4db8-846c-40693af9f3f1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pepe Villa",
+    "aliases": [
+      "José Villa Pérez"
+    ],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "92be7411-5a2a-4e27-be9c-4510693976b6",
+    "source_url": "https://musicbrainz.org/artist/92be7411-5a2a-4e27-be9c-4510693976b6",
+    "popularity_metric": null
+  },
+  {
+    "name": "Rubén Fuentes",
+    "aliases": [
+      "Rubén Fuentes Gassón"
+    ],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cfbff820-f713-482c-afb5-04f0b82a1872",
+    "source_url": "https://musicbrainz.org/artist/cfbff820-f713-482c-afb5-04f0b82a1872",
+    "popularity_metric": null
+  },
+  {
+    "name": "Victor Buelna",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "78bec633-09b3-4865-8ff2-eba1d3af2a62",
+    "source_url": "https://musicbrainz.org/artist/78bec633-09b3-4865-8ff2-eba1d3af2a62",
+    "popularity_metric": null
+  },
+  {
+    "name": "Norberto Mendoza",
+    "aliases": [
+      "Norberto Mendoza Garcia"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "bolero",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8b07d215-a1f2-4bc3-96a4-63b69d4cb74c",
+    "source_url": "https://musicbrainz.org/artist/8b07d215-a1f2-4bc3-96a4-63b69d4cb74c",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Antonio \"Tony\" Meléndez",
+    "aliases": [
+      "Juan Antonio Meléndez Ortega"
+    ],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7854ece9-1044-4b51-83e6-71fbe3113be8",
+    "source_url": "https://musicbrainz.org/artist/7854ece9-1044-4b51-83e6-71fbe3113be8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Silvestre Vargas",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tecalitlán"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e46d05e9-c48b-4768-b835-0d22a0c1f3c4",
+    "source_url": "https://musicbrainz.org/artist/e46d05e9-c48b-4768-b835-0d22a0c1f3c4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Miguel Martínez",
+    "aliases": [],
+    "country_signals": [
+      "Celaya",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8daaef46-820d-437e-9094-f29c473777e6",
+    "source_url": "https://musicbrainz.org/artist/8daaef46-820d-437e-9094-f29c473777e6",
+    "popularity_metric": null
+  },
+  {
+    "name": "San Pascualito Rey",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "00s",
+      "folk",
+      "latin",
+      "lounge",
+      "mariachi",
+      "metal",
+      "mexico",
+      "rock",
+      "trip hop"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cb9dd7c8-f240-4816-a2a2-731090ae880e",
+    "source_url": "https://musicbrainz.org/artist/cb9dd7c8-f240-4816-a2a2-731090ae880e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Avelina Landín",
+    "aliases": [
+      "Avelina Landín Rodríguez"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "mariachi",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "efd48cc2-e252-4240-a470-d63368e1996a",
+    "source_url": "https://musicbrainz.org/artist/efd48cc2-e252-4240-a470-d63368e1996a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Antonio Velazquez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cf4700b1-234c-4b2a-b28c-bedaa21c4d63",
+    "source_url": "https://musicbrainz.org/artist/cf4700b1-234c-4b2a-b28c-bedaa21c4d63",
+    "popularity_metric": null
+  },
+  {
+    "name": "Juan Navarrete",
+    "aliases": [
+      "Juan Navarrete Curiel"
+    ],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "mariachi"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "30e84134-1652-4d9e-8567-c222163a0a3a",
+    "source_url": "https://musicbrainz.org/artist/30e84134-1652-4d9e-8567-c222163a0a3a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alejandra Robles",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "00s",
+      "10s",
+      "female vocalists",
+      "folk",
+      "latin",
+      "mariachi",
+      "mexico",
+      "ranchera",
+      "spanish",
+      "traditional",
+      "world"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6105e68c-6a3d-4cfc-81e3-4e741d1d812b",
+    "source_url": "https://musicbrainz.org/artist/6105e68c-6a3d-4cfc-81e3-4e741d1d812b",
+    "popularity_metric": null
+  },
+  {
+    "name": "Vicente Fernández",
+    "aliases": [
+      "El Rey de la Música Ranchera",
+      "Vicente \"Chente\" Fernandez Gomez",
+      "Vicente \"Chente\" Fernández Gómez",
+      "Vicente El Rey de la Música Ranchera Fernández",
+      "Vicente Fernandez",
+      "Vicente Fernandez Gomez",
+      "Vicente Fernández Gómez",
+      "Vincente Fernandez"
+    ],
+    "country_signals": [
+      "Guadalajara",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "national folk",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3b829056-d975-4ae7-be3c-20661ce980e8",
+    "source_url": "https://musicbrainz.org/artist/3b829056-d975-4ae7-be3c-20661ce980e8",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pedro Infante",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Sinaloa"
+    ],
+    "genre_signals": [
+      "death by airplane",
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "35b17a3b-601b-4049-9bdd-4933d8ec4e10",
+    "source_url": "https://musicbrainz.org/artist/35b17a3b-601b-4049-9bdd-4933d8ec4e10",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lola Beltrán",
+    "aliases": [
+      "Lola Beltran y Amalia Mendoza y Lucha Villa",
+      "María Lucila Beltrán Ruiz"
+    ],
+    "country_signals": [
+      "El Rosario",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "huapango",
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5bace4e8-2280-4d13-a198-94e13587e111",
+    "source_url": "https://musicbrainz.org/artist/5bace4e8-2280-4d13-a198-94e13587e111",
+    "popularity_metric": null
+  },
+  {
+    "name": "Miguel Aceves Mejía",
+    "aliases": [],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9f61287e-bfc4-4509-9364-d7bb750a7d7d",
+    "source_url": "https://musicbrainz.org/artist/9f61287e-bfc4-4509-9364-d7bb750a7d7d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Jorge Negrete",
+    "aliases": [
+      "Jorge Alberto Negrete Moreno"
+    ],
+    "country_signals": [
+      "Guanajuato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ec57c22f-9bb7-48ab-aa85-dab108a71b53",
+    "source_url": "https://musicbrainz.org/artist/ec57c22f-9bb7-48ab-aa85-dab108a71b53",
+    "popularity_metric": null
+  },
+  {
+    "name": "Joan Sebastian",
+    "aliases": [
+      "José Manuel Figueroa",
+      "José Manuel Figueroa Figueroa"
+    ],
+    "country_signals": [
+      "Juliantla",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "87c18952-956e-46bf-a4b9-8c13f5a4e3fa",
+    "source_url": "https://musicbrainz.org/artist/87c18952-956e-46bf-a4b9-8c13f5a4e3fa",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ana Gabriel",
+    "aliases": [
+      "María Guadalupe Araújo Young"
+    ],
+    "country_signals": [
+      "Guamúchil",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3c6a29ce-5056-4d07-9be5-81393956dd4e",
+    "source_url": "https://musicbrainz.org/artist/3c6a29ce-5056-4d07-9be5-81393956dd4e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Javier Solís",
+    "aliases": [
+      "Gabriel Siria Levario"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "national folk",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "49d300e4-b3bd-4a61-b85e-fb5d66948210",
+    "source_url": "https://musicbrainz.org/artist/49d300e4-b3bd-4a61-b85e-fb5d66948210",
+    "popularity_metric": null
+  },
+  {
+    "name": "Amalia Mendoza",
+    "aliases": [
+      "Amalia Mendoza Garcia",
+      "La Tariácuri"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Michoacán"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8d3de53e-53aa-49be-b34b-e787262a891a",
+    "source_url": "https://musicbrainz.org/artist/8d3de53e-53aa-49be-b34b-e787262a891a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Estela Núñez",
+    "aliases": [],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "73ab453d-f9e4-4f29-9d61-a12b19e2b97a",
+    "source_url": "https://musicbrainz.org/artist/73ab453d-f9e4-4f29-9d61-a12b19e2b97a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Marco Antonio Solís",
+    "aliases": [
+      "Marco Antonio Solís Sosa"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ballad",
+      "latin",
+      "latin pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "006631f4-5214-49ff-a386-a064853d1a1e",
+    "source_url": "https://musicbrainz.org/artist/006631f4-5214-49ff-a386-a064853d1a1e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Pedro Fernández",
+    "aliases": [
+      "José Martín Cuevas Cobos",
+      "Pedrito Fernández"
+    ],
+    "country_signals": [
+      "Guadalajara",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ce0646e2-98a4-4698-a494-c45034a03192",
+    "source_url": "https://musicbrainz.org/artist/ce0646e2-98a4-4698-a494-c45034a03192",
+    "popularity_metric": null
+  },
+  {
+    "name": "Tania Libertad",
+    "aliases": [],
+    "country_signals": [
+      "Lambayeque",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "ranchera",
+      "trova"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a4b9944c-57c9-4098-b011-259f47695b84",
+    "source_url": "https://musicbrainz.org/artist/a4b9944c-57c9-4098-b011-259f47695b84",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lucero",
+    "aliases": [
+      "Lucerito",
+      "Lucero Hogaza León"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "national folk",
+      "pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "4befe93e-7cb6-4adb-b822-8b19ceb59768",
+    "source_url": "https://musicbrainz.org/artist/4befe93e-7cb6-4adb-b822-8b19ceb59768",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lucha Villa",
+    "aliases": [
+      "Luz Elena Ruiz Bejarano"
+    ],
+    "country_signals": [
+      "Chihuahua",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "méxico",
+      "ranchera",
+      "ranchero"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "342e6dc9-8b9d-4feb-b48a-cbb32c0429ae",
+    "source_url": "https://musicbrainz.org/artist/342e6dc9-8b9d-4feb-b48a-cbb32c0429ae",
+    "popularity_metric": null
+  },
+  {
+    "name": "Luis Miguel",
+    "aliases": [
+      "Luis Miguel",
+      "Luis Miguel Gallego Basteri"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "San Juan"
+    ],
+    "genre_signals": [
+      "bolero",
+      "canción melódica",
+      "latin",
+      "latin american",
+      "latin ballad",
+      "latin pop",
+      "mexican",
+      "national folk",
+      "pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "90270118-8ed0-4446-bf97-8a09b3f9e8f3",
+    "source_url": "https://musicbrainz.org/artist/90270118-8ed0-4446-bf97-8a09b3f9e8f3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Martín y Eloisa",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "1ee5b1c4-b08a-478d-a890-b45c95c34af3",
+    "source_url": "https://musicbrainz.org/artist/1ee5b1c4-b08a-478d-a890-b45c95c34af3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Agustín Lara",
+    "aliases": [
+      "A. Lara",
+      "Agustin Lara",
+      "Agustín Lara Aguirre del Pino",
+      "Alberto Lara",
+      "Augustín Lara",
+      "Ángel Agustín María Carlos Fausto Mariano Alfonso del Sagrado Corazón de Jesús Lara y Aguirre del Pino"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Veracruz"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "mexican",
+      "mexican composer",
+      "ranchera",
+      "songwriter"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8c8837b1-60cc-4bf4-b9bb-71ad2f757841",
+    "source_url": "https://musicbrainz.org/artist/8c8837b1-60cc-4bf4-b9bb-71ad2f757841",
+    "popularity_metric": null
+  },
+  {
+    "name": "Chelo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Zapopan"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "7f8cc833-b5a5-4358-a471-4ac2941f786a",
+    "source_url": "https://musicbrainz.org/artist/7f8cc833-b5a5-4358-a471-4ac2941f786a",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ángela Aguilar",
+    "aliases": [
+      "Ángela Aguilar Álvarez-Alcalá"
+    ],
+    "country_signals": [
+      "Los Angeles",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "cda7b93f-f9e9-4a1b-b66a-7d0c8678d4ae",
+    "source_url": "https://musicbrainz.org/artist/cda7b93f-f9e9-4a1b-b66a-7d0c8678d4ae",
+    "popularity_metric": null
+  },
+  {
+    "name": "Las Queretanas",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b9e64df5-5f95-4aad-bdbe-846ebf0c8844",
+    "source_url": "https://musicbrainz.org/artist/b9e64df5-5f95-4aad-bdbe-846ebf0c8844",
+    "popularity_metric": null
+  },
+  {
+    "name": "Dora María",
+    "aliases": [
+      "Dora María Pérez Vidal"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Villahermosa"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "344c1a3b-db98-49d7-a74e-76d5319897b5",
+    "source_url": "https://musicbrainz.org/artist/344c1a3b-db98-49d7-a74e-76d5319897b5",
+    "popularity_metric": null
+  },
+  {
+    "name": "Salvador Huerta",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "65a9fcb9-b5c9-449c-b137-5553df4099d4",
+    "source_url": "https://musicbrainz.org/artist/65a9fcb9-b5c9-449c-b137-5553df4099d4",
+    "popularity_metric": null
+  },
+  {
+    "name": "Carlos Rivera",
+    "aliases": [
+      "Carlos Rivera Guerra"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "latin pop",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "63b7412b-54f1-4568-a6b8-25194699ca96",
+    "source_url": "https://musicbrainz.org/artist/63b7412b-54f1-4568-a6b8-25194699ca96",
+    "popularity_metric": null
+  },
+  {
+    "name": "María de Lourdes",
+    "aliases": [],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3b4ea984-5b9b-4d8e-93fd-ca8c93712ff2",
+    "source_url": "https://musicbrainz.org/artist/3b4ea984-5b9b-4d8e-93fd-ca8c93712ff2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Rosa de Castilla",
+    "aliases": [
+      "María Victoria Ledesma Cuevas"
+    ],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ce5b966a-083b-4369-bd20-021c0112ecec",
+    "source_url": "https://musicbrainz.org/artist/ce5b966a-083b-4369-bd20-021c0112ecec",
+    "popularity_metric": null
+  },
+  {
+    "name": "Paulina Rubio",
+    "aliases": [
+      "Paulina Susana Rubio Rue",
+      "Paulina Susana Rubio-Dosamantes",
+      "Pauline Rubio"
+    ],
+    "country_signals": [
+      "Ciudad de México",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "arena rock",
+      "bubblegum pop",
+      "cumbia",
+      "dance",
+      "dance-pop",
+      "edm",
+      "electropop",
+      "español",
+      "folk",
+      "latin pop",
+      "méxico",
+      "pop",
+      "pop rock",
+      "r&b",
+      "ranchera",
+      "reggaeton",
+      "rock en espanol",
+      "synth-pop",
+      "techno",
+      "trap",
+      "vallenato"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5938c629-1d06-480b-9780-859b153af11e",
+    "source_url": "https://musicbrainz.org/artist/5938c629-1d06-480b-9780-859b153af11e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Ray y Lupita",
+    "aliases": [
+      "Ray y Lupita"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6040c747-b26b-4653-83c8-0e5520d96a94",
+    "source_url": "https://musicbrainz.org/artist/6040c747-b26b-4653-83c8-0e5520d96a94",
+    "popularity_metric": null
+  },
+  {
+    "name": "Mon Laferte",
+    "aliases": [
+      "Monserrat Bustamante",
+      "Norma Monserrat Bustamante Laferte"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Viña del Mar"
+    ],
+    "genre_signals": [
+      "art pop",
+      "latin alternative",
+      "latin pop",
+      "pop rock",
+      "ranchera",
+      "singer-songwriter"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ab966c0f-e526-46ae-b492-82c27b87f81f",
+    "source_url": "https://musicbrainz.org/artist/ab966c0f-e526-46ae-b492-82c27b87f81f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Edilberto Nuñez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "62237477-1d17-4a62-bb6b-4230258c2965",
+    "source_url": "https://musicbrainz.org/artist/62237477-1d17-4a62-bb6b-4230258c2965",
+    "popularity_metric": null
+  },
+  {
+    "name": "Las Dos Marías",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3a734ab3-e4da-4e20-92cc-245d3abf8edf",
+    "source_url": "https://musicbrainz.org/artist/3a734ab3-e4da-4e20-92cc-245d3abf8edf",
+    "popularity_metric": null
+  },
+  {
+    "name": "Amalia Macías",
+    "aliases": [
+      "María Dolores Amalia Macías Gutiérrez"
+    ],
+    "country_signals": [
+      "Irapuato",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c2d2c71c-6bdc-4f41-9c9c-525fa55e2085",
+    "source_url": "https://musicbrainz.org/artist/c2d2c71c-6bdc-4f41-9c9c-525fa55e2085",
+    "popularity_metric": null
+  },
+  {
+    "name": "Alberto Vázquez",
+    "aliases": [],
+    "country_signals": [
+      "Guaymas",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "bolero",
+      "corrido",
+      "latin ballad",
+      "ranchera",
+      "rock",
+      "rock and roll"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "35200f83-289b-4e51-94c8-792cfdf6fe08",
+    "source_url": "https://musicbrainz.org/artist/35200f83-289b-4e51-94c8-792cfdf6fe08",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fernando Fernández",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Monterrey"
+    ],
+    "genre_signals": [
+      "bolero",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "17104cc4-f296-4494-84f2-266c35f2e4f3",
+    "source_url": "https://musicbrainz.org/artist/17104cc4-f296-4494-84f2-266c35f2e4f3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Vicente Fernández, Jr.",
+    "aliases": [
+      "Vicente Fernández Hijo"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "latin",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e6774ddb-98c9-4511-9005-8da43e9e92e3",
+    "source_url": "https://musicbrainz.org/artist/e6774ddb-98c9-4511-9005-8da43e9e92e3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Martín y Lily",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "adbb8abd-5f9c-4daf-91f5-244fea85f1ed",
+    "source_url": "https://musicbrainz.org/artist/adbb8abd-5f9c-4daf-91f5-244fea85f1ed",
+    "popularity_metric": null
+  },
+  {
+    "name": "Águeda Curiel",
+    "aliases": [
+      "La Paloma Tapatía"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "e00fd0c6-7a9d-49c1-8d59-9f0789d648d2",
+    "source_url": "https://musicbrainz.org/artist/e00fd0c6-7a9d-49c1-8d59-9f0789d648d2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Ermitaños",
+    "aliases": [],
+    "country_signals": [
+      "Aguascalientes",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "97984419-30ee-4905-94a7-60f473da63e0",
+    "source_url": "https://musicbrainz.org/artist/97984419-30ee-4905-94a7-60f473da63e0",
+    "popularity_metric": null
+  },
+  {
+    "name": "Manolo Muñoz",
+    "aliases": [],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera",
+      "rock",
+      "rock and roll"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5bf3674e-7258-42d3-8d36-a2d7a19ca4cb",
+    "source_url": "https://musicbrainz.org/artist/5bf3674e-7258-42d3-8d36-a2d7a19ca4cb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lourdes de Montecristo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3103c959-82b8-4bc0-becd-17fadcbbd2e2",
+    "source_url": "https://musicbrainz.org/artist/3103c959-82b8-4bc0-becd-17fadcbbd2e2",
+    "popularity_metric": null
+  },
+  {
+    "name": "Coral Chávez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b4f5c58a-4f62-4eac-acd3-1e1fd30f27cb",
+    "source_url": "https://musicbrainz.org/artist/b4f5c58a-4f62-4eac-acd3-1e1fd30f27cb",
+    "popularity_metric": null
+  },
+  {
+    "name": "Las Tres Morenas",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "8400dcdf-babc-47b9-9ad7-312d79c2207f",
+    "source_url": "https://musicbrainz.org/artist/8400dcdf-babc-47b9-9ad7-312d79c2207f",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fernando Z. Maldonado",
+    "aliases": [
+      "Fernando Zenaido Maldonado Rivera"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "composer",
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0ea5457c-d57f-4406-b32d-43c6a68146a9",
+    "source_url": "https://musicbrainz.org/artist/0ea5457c-d57f-4406-b32d-43c6a68146a9",
+    "popularity_metric": null
+  },
+  {
+    "name": "Lalo Rodriguez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "3033c32e-52dc-4500-8d9b-5aa9b12fc2d3",
+    "source_url": "https://musicbrainz.org/artist/3033c32e-52dc-4500-8d9b-5aa9b12fc2d3",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Ranger's",
+    "aliases": [
+      "Los Ranger's de Fama"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "9149952a-bd33-459d-a6b3-94f7e74ed037",
+    "source_url": "https://musicbrainz.org/artist/9149952a-bd33-459d-a6b3-94f7e74ed037",
+    "popularity_metric": null
+  },
+  {
+    "name": "José Luis Valderrábano",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Puebla"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "0cbde1dc-3e10-4d0e-9d47-f1ba043ce855",
+    "source_url": "https://musicbrainz.org/artist/0cbde1dc-3e10-4d0e-9d47-f1ba043ce855",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Comodines",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "22038973-a913-4ce0-969e-06c38d927588",
+    "source_url": "https://musicbrainz.org/artist/22038973-a913-4ce0-969e-06c38d927588",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Delfines",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "97f42014-25c6-4599-a28d-65748a445109",
+    "source_url": "https://musicbrainz.org/artist/97f42014-25c6-4599-a28d-65748a445109",
+    "popularity_metric": null
+  },
+  {
+    "name": "César Suedán",
+    "aliases": [
+      "César"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "dfed9148-ffd3-4964-9df6-4f13d3833705",
+    "source_url": "https://musicbrainz.org/artist/dfed9148-ffd3-4964-9df6-4f13d3833705",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fred McDonald",
+    "aliases": [
+      "Fernando Z. Maldonado",
+      "Fernando Zenaido Maldonado Rivera"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "San Luis Potosí"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "a9e238bf-13b3-4f19-b584-006523ab7f35",
+    "source_url": "https://musicbrainz.org/artist/a9e238bf-13b3-4f19-b584-006523ab7f35",
+    "popularity_metric": null
+  },
+  {
+    "name": "Sebástian Curiel",
+    "aliases": [],
+    "country_signals": [
+      "Jalisco",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "ranchera"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "73eda824-2062-4f4e-a150-558f4e4dde65",
+    "source_url": "https://musicbrainz.org/artist/73eda824-2062-4f4e-a150-558f4e4dde65",
+    "popularity_metric": null
+  },
+  {
+    "name": "El Trono de México",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "duranguense"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "2c5eb9c0-e2b5-4d86-9fb9-4bc530df82f1",
+    "source_url": "https://musicbrainz.org/artist/2c5eb9c0-e2b5-4d86-9fb9-4bc530df82f1",
+    "popularity_metric": null
+  },
+  {
+    "name": "Diana Reyes",
+    "aliases": [
+      "Diana Estela Polanco Reyes",
+      "La Reina del Pasito Duranguense"
+    ],
+    "country_signals": [
+      "La Paz",
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "duranguense"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "6704755a-4d98-45e2-ad63-274f17cc5004",
+    "source_url": "https://musicbrainz.org/artist/6704755a-4d98-45e2-ad63-274f17cc5004",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Mier",
+    "aliases": [
+      "Los Hermanos Mier"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Nuevo León"
+    ],
+    "genre_signals": [
+      "grupero"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "ce1dbaa8-a855-4475-8442-f93bdd26d5a7",
+    "source_url": "https://musicbrainz.org/artist/ce1dbaa8-a855-4475-8442-f93bdd26d5a7",
+    "popularity_metric": null
+  },
+  {
+    "name": "Grupo Mestizo",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "grupero"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "f2a12790-74b8-4f68-af3b-e1423ec2bc2e",
+    "source_url": "https://musicbrainz.org/artist/f2a12790-74b8-4f68-af3b-e1423ec2bc2e",
+    "popularity_metric": null
+  },
+  {
+    "name": "Los Alteños de la Sierra",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "sierreño"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "c9770d70-62d7-45c4-aaee-5280e057a87d",
+    "source_url": "https://musicbrainz.org/artist/c9770d70-62d7-45c4-aaee-5280e057a87d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Fito Olivares",
+    "aliases": [
+      "Rodolfo Olivares"
+    ],
+    "country_signals": [
+      "MX",
+      "Mexico",
+      "Tamaulipas"
+    ],
+    "genre_signals": [
+      "cumbia",
+      "cumbia mexicana",
+      "latin",
+      "tejano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "5b3c869b-c694-4633-b52a-471e342c4656",
+    "source_url": "https://musicbrainz.org/artist/5b3c869b-c694-4633-b52a-471e342c4656",
+    "popularity_metric": null
+  },
+  {
+    "name": "Daniel Sánchez",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "tejano"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b03a4820-2928-4ffc-bfb5-d0ad40b59d6d",
+    "source_url": "https://musicbrainz.org/artist/b03a4820-2928-4ffc-bfb5-d0ad40b59d6d",
+    "popularity_metric": null
+  },
+  {
+    "name": "Cumbia Caney de Tampico",
+    "aliases": [],
+    "country_signals": [
+      "MX",
+      "Mexico"
+    ],
+    "genre_signals": [
+      "cumbia norteña"
+    ],
+    "source": "musicbrainz",
+    "source_artist_id": "b2745bd4-f7f6-49ae-b244-b56a00d878c2",
+    "source_url": "https://musicbrainz.org/artist/b2745bd4-f7f6-49ae-b244-b56a00d878c2",
+    "popularity_metric": null
+  }
+]

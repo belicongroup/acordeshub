@@ -1,0 +1,121 @@
+¡Qué tal raza! ¡Saludos desde Apodaca, Nuevo León!
+Ésta es mi primera (de muchas eso espero =D) aportación a
+lacuerda.net, y tenía que ser de ¡DUELO! Mi grupo favorito,
+mis canciones favoritas son de Duelo y bueno, simplemente
+¡¡100000% FAN DE DUELO!! Esa es mi razón de traerles esta canción.
+El nuevo sencillo Más que nunca, la busqué aquí para tocarla
+pero no la encontré y decidí sacarlaaquí la tienen, espero les
+guste y la disfruten, sí la pueden mejorar, por favor =)
+Y se la dedico a mi chaparrita bonita <3
+Jeny, miamor cuando pienso, digo o escucho Duelo pienso en ti,
+con su música y por su música y sus canciones empezamos nuestra historia.
+Te amo miamor y gracias por estos 3 años y 3 meses!
+Gracias a dios por ponerte en mi vida, en la que estarás para siempre.
+¡¡Te amo!!
+[12/09/11]
+
+/*
+Un saludo para todos los estudiantes de la Lic. en Multimedia y
+Animación Digital de la Facultad de Ciencias Físico Matemáticas
+de la UANL.
+
+int main(void)
+
+  std::cout<<LMAD RULES!!! XD;
+  cin.get();
+  return 0;
+
+*/
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+
+
+INTRO:
+
+D  A  Bm  Bmmaj  Bm7  Bm6  G  A
+
+    D                     A
+Entiendo que dudas en volver,
+                 Em                         G
+Te sobran los motivos y es mi culpa no lo niego
+                 D     A
+Lo siento te falle.
+
+  D                       A
+Ahora comprendo más que ayer
+                  Em                       G
+Que eres lo mejor que existe dentro de mi vida,
+                 D     A
+Lo tienes que saber,
+
+  Bm                         Bmmaj                  Bm7
+Acéptalo tu llanto has derramado también me has extrañado,
+           Bm6    G                      A
+También estás pensando que quieres regresar
+
+          D
+Hoy voy amarte más que nunca corazón,
+            Bm
+Voy a entregarte un mar entero de pasión
+          Em
+Todo mi mundo te regalo,
+       F#m         Bm
+Caminaremos de la mano,
+            G                        A
+Es que sin ti no se vivir no se quién soy
+             D
+Hoy voy a darte más que nunca mi calor,
+           Bm
+Para que vuelvas a creer en el amor,
+        Em                          F#m             Bm
+Voy a sanar con mi cariño las cicatrices que he causado,
+          G                         A
+Voy a probarte que por ti yo soy mejor
+
+
+D  A  Bm  Bmmaj  Bm7  Bm6  G  A
+
+
+(y para el final es solo:)
+
+G A D...
+
+
+NOTA: Los acordes de B son asi:
+(Yo los toco a mi mayor comodidad tocando solo las primeras cuatro cuerdas)
+
+             Bm
+e-|----|--X-|----|----|----|
+B-|----|--X-|----|----|----|
+G-|----|--X-|----|----|----|
+D-|----|----|----|--X-|----|
+A-|----|----|----|--X-|----|
+E-|----|--X-|----|----|----|
+Traste   7    8    9
+
+             Bmmaj
+e-|----|--X-|----|----|----|
+B-|----|--X-|----|----|----|
+G-|----|--X-|----|----|----|
+D-|----|----|--X-|----|----|
+A-|----|----|----|--X-|----|
+E-|----|----|----|----|----|
+Traste   7    8    9
+
+             Bm7
+e-|----|--X-|----|----|----|
+B-|----|--X-|----|----|----|
+G-|----|--X-|----|----|----|
+D-|----|--X-|----|----|----|
+A-|----|----|----|--X-|----|
+E-|----|----|----|----|----|
+Traste   7    8    9
+             Bm6
+e-|----|--X-|----|----|----|
+B-|----|--X-|----|----|----|
+G-|----|--X-|----|----|----|
+D-|--X-|----|----|----|----|
+A-|----|----|----|--X-|----|
+E-|----|----|----|----|----|
+Traste   7    8    9

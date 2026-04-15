@@ -1,0 +1,26 @@
+{
+  "raw_data_dir": "data/raw",
+  "processed_output_path": "data/processed/artists_scored.json",
+  "min_auto_merge_similarity": 95,
+  "review_similarity_floor": 88,
+  "mexico_keywords": [
+    "mexico",
+    "mexican",
+    "méxico",
+    "mx"
+  ],
+  "regional_genres": [
+    "regional mexicano",
+    "banda",
+    "norteno",
+    "norteño",
+    "corridos",
+    "corridos tumbados",
+    "sierreño",
+    "sierreno",
+    "ranchera",
+    "mariachi",
+    "duranguense",
+    "grupero"
+  ]
+}

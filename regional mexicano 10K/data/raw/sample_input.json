@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Peso Pluma",
+    "aliases": ["Hassan Emilio Kabande Laija"],
+    "country_signals": ["Mexico"],
+    "genre_signals": ["corridos tumbados", "regional mexicano"],
+    "source": "spotify",
+    "source_artist_id": "sample_spotify_1",
+    "source_url": "https://open.spotify.com/artist/sample_spotify_1",
+    "popularity_metric": 95
+  },
+  {
+    "name": "Fuerza Regida",
+    "aliases": [],
+    "country_signals": ["Mexico", "United States"],
+    "genre_signals": ["regional mexicano", "norteño"],
+    "source": "musicbrainz",
+    "source_artist_id": "sample_mb_2",
+    "source_url": "https://musicbrainz.org/artist/sample_mb_2",
+    "popularity_metric": null
+  }
+]
